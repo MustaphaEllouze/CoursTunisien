@@ -8,6 +8,7 @@ EXTENSIONS_A_SUPPRIMER = (
     'fls',
     'toc',
     'out',
+    'dvi',
 )
 
 for _extension in EXTENSIONS_A_SUPPRIMER : 

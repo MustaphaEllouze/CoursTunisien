@@ -22,3 +22,19 @@
 \setupcountitems\begin{itemize}}%
 {\end{itemize}%
 \unskip\computecountitems\ifnumcomp{\previtemizecount}{>}{3}{\end{multicols}}{}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Titre des chapitres en français
+\renewcommand{\chaptername}{Chapitre}
+
+% Titre de la table des matières en français
+\renewcommand{\contentsname}{Table des matières}
+
+% Commande \chapterletter pour faire les premières lettres de chapitres en grand
+\newcommand{\chapterletter}[1]{%
+    {\Huge \textbf{#1}}
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -1,4 +1,5 @@
-\documentclass{novel}
+\documentclass[draft]{book}
+% \documentclass{book}
 
 \usepackage{arabtex}
 \usepackage{cjhebrew}
@@ -7,26 +8,26 @@
 \usepackage{multicol}
 \usepackage{tabularx}
 \usepackage{tipa}
+\usepackage[T1]{fontenc}
 \setcode{utf8}
 
-\lang      {french}
-\title     {Cours d'Arabe Tunisien}
-\subtitle  {}
-\authors   {Mustapha ELLOUZE}
-\cover     {ressources/partie1.jpg}{ressources/partie2.jpg}
-\edition   {1}{2023}
+% \lang      {french}
+% \title     {Cours d'Arabe Tunisien}
+% \subtitle  {}
+% \authors   {Mustapha ELLOUZE}
+% \cover     {ressources/partie1.jpg}{ressources/partie2.jpg}
+% \edition   {1}{2023}
 
-\note{Ce cours s'adresse aux débutants en arabe tunisien, qu'ils aient des affinités ou non avec l'arabe moderne standard. Il s'appuie surtout sur mon expérience en tant que locuteur natif, en espérant que ni ma mémoire ni mes villes d'origine ne me trahissent.}
+% \note{Ce cours s'adresse aux débutants en arabe tunisien, qu'ils aient des affinités ou non avec l'arabe moderne standard. Il s'appuie surtout sur mon expérience en tant que locuteur natif, en espérant que ni ma mémoire ni mes villes d'origine ne me trahissent.}
 
-\blurb{Ce cours s'adresse aux débutants en arabe tunisien, qu'ils aient des affinités ou non avec l'arabe moderne standard. Il s'appuie surtout sur mon expérience en tant que locuteur natif, en espérant que ni ma mémoire ni mes villes d'origine ne me trahissent.}
+% \blurb{Ce cours s'adresse aux débutants en arabe tunisien, qu'ils aient des affinités ou non avec l'arabe moderne standard. Il s'appuie surtout sur mon expérience en tant que locuteur natif, en espérant que ni ma mémoire ni mes villes d'origine ne me trahissent.}
 
 \begin{document}
-
 \include{utils/commandes}
 
-\toc
-
 \include{AutresParties/Introduction}
+
+\tableofcontents
 
 \include{Chapitres/TranscriptPrononciation}
 \include{Chapitres/PhénomènesPhonétiques}
@@ -42,25 +43,26 @@
 \include{Chapitres/ComplémentsNoms}
 \include{Chapitres/VerbesDérivés}
 
-\h{Conjugaison des verbes simples quasi-sains et des verbes dérivés}
+\chapter{Conjugaison des verbes simples quasi-sains}
+\chaptermark{Verbes simples quasi-sains}
 
-\h{Le futur et l'impératif}
+\chapter{Le futur et l'impératif}
 
-\h{Les genres et les nombres}
+\chapter{Les genres et les nombres}
 
-\h{Les adjectifs}
+\chapter{Les adjectifs}
 
-\h{Conjugaison des verbes simples malades}
+\chapter{Conjugaison des verbes simples malades}
 
-\h{Conjugaison des verbes irréguliers}
+\chapter{Conjugaison des verbes irréguliers}
 
-\h{Les verbes modaux}\label{VerbMod}
+\chapter{Les verbes modaux}\label{VerbMod}
 
-\h{Les marqueurs préverbaux}\label{MarqPVer}
+\chapter{Les marqueurs préverbaux}\label{MarqPVer}
 
-\h{Les pronoms compléments directs et indirects} \label{PronCompl}
+\chapter{Les pronoms compléments directs et indirects} \label{PronCompl}
 
-\h{L'emphase}
+\chapter{L'emphase}
 \label{Emphase}
 
 
