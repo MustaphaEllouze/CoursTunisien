@@ -41,11 +41,15 @@
 
 % Tableaux de conjugaisons avec des titres 
 \newcommand{\conjugaisonTitreTableau}[2]{%
+  \vspace{3mm}
+
   \begin{center}
-    \fbox{\hspace{5mm}\LARGE \textbf{#1} \hspace{5mm}}
+    \fbox{\hspace{5mm}\LARGE \textbf{#1} \hspace{3mm}}
     \vspace{2mm}
 
     #2
+
+  \vspace{3mm}
   \end{center}
 }
 
@@ -56,6 +60,7 @@
 }
 
 \newcommand{\conjugaison}[8]{
+  \begin{minipage}{115mm}
     \conjugaisonTitreTableau{#1}{
     \begin{tabular}{||c | c | c||}
       \hline
@@ -77,6 +82,7 @@
       \hline
      \end{tabular}
     }
+  \end{minipage}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
