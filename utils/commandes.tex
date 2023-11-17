@@ -38,3 +38,45 @@
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Tableaux de conjugaisons avec des titres 
+\newcommand{\conjugaisonTitreTableau}[2]{%
+  \begin{center}
+    \fbox{\hspace{5mm}\LARGE \textbf{#1} \hspace{5mm}}
+    \vspace{2mm}
+
+    #2
+  \end{center}
+}
+
+
+% Helper function to unpack values
+\def\unpackperson(#1, #2){%
+    #1 & #2
+}
+
+\newcommand{\conjugaison}[8]{
+    \conjugaisonTitreTableau{#1}{
+    \begin{tabular}{||c | c | c||}
+      \hline
+      \textbf{Pronom} & \textbf{Passé} & \textbf{Présent} \\
+      \hline\hline
+      'Éna & \unpackperson(#2)\\
+      \hline
+      'Enti & \unpackperson(#3)\\ 
+      \hline
+      Huwwa & \unpackperson(#4)\\ 
+      \hline
+      Hiyya & \unpackperson(#5)\\ 
+      \hline
+      'A\textcrh na & \unpackperson(#6)\\ 
+      \hline
+      'Entuuma & \unpackperson(#7)\\ 
+      \hline
+      Huuma & \unpackperson(#8)\\ 
+      \hline
+     \end{tabular}
+    }
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
