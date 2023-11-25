@@ -36,6 +36,16 @@
     {\Huge \textbf{#1}}
 }
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Factorisation des pronoms personnels
+\newcommand{\je}{'Éna}
+\newcommand{\nous}{'A\textcrh na}
+\newcommand{\tu}{'Enti}
+\newcommand{\vous}{'Entuuma}
+\newcommand{\il}{Huwwa}
+\newcommand{\elle}{Hiyya}
+\newcommand{\ils}{Huuma}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -66,20 +76,13 @@
       \hline
       \textbf{Pronom} & \textbf{Passé} & \textbf{Présent} \\
       \hline\hline
-      'Éna & \unpackperson(#2)\\
-      \hline
-      'Enti & \unpackperson(#3)\\ 
-      \hline
-      Huwwa & \unpackperson(#4)\\ 
-      \hline
-      Hiyya & \unpackperson(#5)\\ 
-      \hline
-      'A\textcrh na & \unpackperson(#6)\\ 
-      \hline
-      'Entuuma & \unpackperson(#7)\\ 
-      \hline
-      Huuma & \unpackperson(#8)\\ 
-      \hline
+      \je & \unpackperson(#2)\\ \hline
+      \tu & \unpackperson(#3)\\ \hline
+      \il & \unpackperson(#4)\\ \hline
+      \elle & \unpackperson(#5)\\ \hline
+      \nous & \unpackperson(#6)\\ \hline
+      \vous & \unpackperson(#7)\\ \hline
+      \ils & \unpackperson(#8)\\ \hline
      \end{tabular}
     }
   \end{minipage}
