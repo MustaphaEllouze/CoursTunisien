@@ -1,0 +1,164 @@
+{
+    "sounds":[
+        {
+            "representation" : "'",
+            "id" : 1
+        },
+        {
+            "representation" : "b",
+            "id" : 2
+        },
+        {
+            "representation" : "t",
+            "id" : 3
+        },
+        {
+            "representation" : "th",
+            "id" : 4
+        },
+        {
+            "representation" : "j",
+            "id" : 5
+        },
+        {
+            "representation" : "H",
+            "id" : 6
+        },
+        {
+            "representation" : "x",
+            "id" : 7
+        },
+        {
+            "representation" : "d",
+            "id" : 8
+        },
+        {
+            "representation" : "|dh",
+            "id" : 9
+        },
+        {
+            "representation" : "r",
+            "id" : 10
+        },
+        {
+            "representation" : "z",
+            "id" : 11
+        },
+        {
+            "representation" : "s",
+            "id" : 12
+        },
+        {
+            "representation" : "|sh",
+            "id" : 13
+        },
+        {
+            "representation" : "S",
+            "id" : 14
+        },
+        {
+            "representation" : "|DH",
+            "id" : 15
+        },
+        {
+            "representation" : "T",
+            "id" : 16
+        },
+        {
+            "representation" : "A",
+            "id" : 17
+        },
+        {
+            "representation" : "|gh",
+            "id" : 18
+        },
+        {
+            "representation" : "f",
+            "id" : 19
+        },
+        {
+            "representation" : "q",
+            "id" : 20
+        },
+        {
+            "representation" : "k",
+            "id" : 21
+        },
+        {
+            "representation" : "l",
+            "id" : 22
+        },
+        {
+            "representation" : "m",
+            "id" : 23
+        },
+        {
+            "representation" : "n",
+            "id" : 24
+        },
+        {
+            "representation" : "h",
+            "id" : 25
+        },
+        {
+            "representation" : "w",
+            "id" : 26
+        },
+        {
+            "representation" : "y",
+            "id" : 27
+        },
+        {
+            "representation" : "g",
+            "id" : 28
+        },
+        {
+            "representation" : "p",
+            "id" : 29
+        },
+        {
+            "representation" : "v",
+            "id" : 30
+        },
+        {
+            "representation" : "a",
+            "id" : 31
+        },
+        {
+            "representation" : "é",
+            "id" : 32
+        },
+        {
+            "representation" : "è",
+            "id" : 33
+        },
+        {
+            "representation" : "e",
+            "id" : 34
+        },
+        {
+            "representation" : "i",
+            "id" : 35
+        },
+        {
+            "representation" : "o",
+            "id" : 36
+        },
+        {
+            "representation" : "u",
+            "id" : 37
+        },
+        {
+            "representation" : "|an",
+            "id" : 38
+        },
+        {
+            "representation" : "|on",
+            "id" : 39
+        },
+        {
+            "representation" : "|in",
+            "id" : 40
+        }
+    ]
+}

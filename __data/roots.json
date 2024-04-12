@@ -1,0 +1,53 @@
+{
+    "roots":[
+        {
+            "first" : "k",
+            "second" : "t",
+            "third" : "b",
+            "meaning" : "écrire",
+            "id": 1
+        },
+        {
+            "first" : "'",
+            "second" : "s",
+            "third" : "m",
+            "meaning" : "nommer",
+            "id": 2
+        },
+        {
+            "first" : "s",
+            "second" : "m",
+            "third" : "'",
+            "meaning" : "ciel",
+            "id": 3
+        },
+        {
+            "first" : "z",
+            "second" : "r",
+            "third" : "q",
+            "meaning" : "bleu",
+            "id": 4
+        },
+        {
+            "first" : "T",
+            "second" : "q",
+            "third" : "s",
+            "meaning" : "temps, météo",
+            "id": 5
+        },
+        {
+            "first" : "s",
+            "second" : "x",
+            "third" : "n",
+            "meaning" : "chaleur",
+            "id": 6
+        },
+        {
+            "first" : "A",
+            "second" : "l",
+            "third" : "y",
+            "meaning" : "hauteur, supériorité",
+            "id": 7
+        }
+    ]
+}

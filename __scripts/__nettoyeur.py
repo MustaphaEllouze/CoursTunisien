@@ -12,6 +12,6 @@ EXTENSIONS_A_SUPPRIMER = (
 )
 
 for _extension in EXTENSIONS_A_SUPPRIMER : 
-    for path in Path('./').rglob(f'*.{_extension}'):
+    for path in Path('../').rglob(f'*.{_extension}'):
         print(f'Deleting {path}')
         os.remove(path)

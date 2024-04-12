@@ -1,0 +1,72 @@
+{
+    "lexicon":[
+        {
+            "writing" : "kteb",
+            "root":1,
+            "meaning" : "écrire",
+            "function":"verbe",
+            "id" : 1
+        },
+        {
+            "writing" : "ktééb",
+            "root": 1,
+            "meaning": "livre",
+            "function": "nom",
+            "id" : 2
+        },
+        {
+            "writing" : "'esm",
+            "root": 2,
+            "meaning": "nom",
+            "function": "nom",
+            "id" : 3
+        },
+        {
+            "writing" : "smèè'",
+            "is_feminine" : true,
+            "root": 3,
+            "meaning": "ciel",
+            "function": "nom",
+            "id" : 4
+        },
+        {
+            "writing" : "'azraq",
+            "feminine" : "zarqa",
+            "root": 4,
+            "meaning": "bleu",
+            "function" : "adjectif",
+            "id" : 5
+        },
+        {
+            "writing" : "Taqs",
+            "root": 5,
+            "meaning": "temps, météo",
+            "function": "nom",
+            "id" : 6
+        },
+        {
+            "writing" : "sxuun",
+            "feminine" : "sxuuna",
+            "root": 6,
+            "meaning": "chaud",
+            "function" : "adjectif",
+            "id" : 7
+        },
+        {
+            "writing" : "Taawla",
+            "is_feminine":true,
+            "root": null,
+            "meaning": "table",
+            "function" : "nom",
+            "id" : 8
+        },
+        {
+            "writing" : "Aaalii",
+            "feminine" : "Aaalyaa",
+            "root": 7,
+            "meaning": "haut",
+            "function" : "adjectif",
+            "id" : 9
+        }
+    ]
+}
