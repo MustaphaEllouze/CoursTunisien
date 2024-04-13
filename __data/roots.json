@@ -48,6 +48,57 @@
             "third" : "y",
             "meaning" : "hauteur, supériorité",
             "id": 7
+        },
+        {
+            "first" : "H",
+            "second" : "m",
+            "third" : "r",
+            "meaning" : "rouge",
+            "id": 8
+        },
+        {
+            "first" : "T",
+            "second" : "w",
+            "third" : "l",
+            "meaning" : "longueur",
+            "id": 9
+        },
+        {
+            "first" : "k",
+            "second" : "s",
+            "third" : "k",
+            "fourth" : "s",
+            "meaning" : "broyer, piler",
+            "still_used" : false,
+            "id": 10
+        },
+        {
+            "first" : "b",
+            "second" : "n",
+            "third" : "n",
+            "meaning" : "délicieux, savoureux",
+            "id": 11
+        },
+        {
+            "first" : "S",
+            "second" : "|gh",
+            "third" : "r",
+            "meaning" : "petit, jeune",
+            "id": 12
+        },
+        {
+            "first" : "|gh",
+            "second" : null,
+            "third" : "l",
+            "meaning" : "cher",
+            "id": 13
+        },
+        {
+            "first" : "k",
+            "second" : "H",
+            "third" : "l",
+            "meaning" : "noir",
+            "id": 14
         }
     ]
 }

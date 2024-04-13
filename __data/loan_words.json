@@ -1,0 +1,14 @@
+{
+    "loan_words" : [
+        {
+            "writing" : "tabula",
+            "origin" : "latin",
+            "id" : 1
+        },
+        {
+            "writing" : "ordinateur",
+            "origin" : "français",
+            "id" : 2
+        }
+    ]
+}
