@@ -9,6 +9,7 @@
         },
         {
             "writing" : "ktééb",
+            "plural" : "'oktba",
             "root_id": 1,
             "meaning": "livre",
             "function": "nom",
@@ -16,6 +17,7 @@
         },
         {
             "writing" : "'esm",
+            "plural" : "'asèèmi",
             "root_id": 2,
             "meaning": "nom",
             "function": "nom",
@@ -23,6 +25,7 @@
         },
         {
             "writing" : "smèè'",
+            "plural" : "samawèèt",
             "is_feminine" : true,
             "root_id": 3,
             "meaning": "ciel",
@@ -32,6 +35,7 @@
         {
             "writing" : "'azraq",
             "feminine" : "zarqa",
+            "plural" : "zroq",
             "root_id": 4,
             "meaning": "bleu",
             "function" : "adjectif",
@@ -47,6 +51,7 @@
         {
             "writing" : "sxuun",
             "feminine" : "sxuuna",
+            "plural" : "sxaan",
             "root_id": 6,
             "meaning": "chaud",
             "function" : "adjectif",
@@ -54,6 +59,7 @@
         },
         {
             "writing" : "Taawla",
+            "plural" : "Twééwel",
             "is_feminine":true,
             "root_id": null,
             "loanword_id" : 1,
@@ -64,6 +70,7 @@
         {
             "writing" : "Aaalii",
             "feminine" : "Aaalyaa",
+            "plural" : "Aaaliin",
             "root_id": 7,
             "meaning": "haut",
             "function" : "adjectif",
@@ -71,6 +78,7 @@
         },
         {
             "writing" : "'ulayyed",
+            "plural" : "'ulééd",
             "root_id": null,
             "meaning": "garçon",
             "function" : "nom",
@@ -78,6 +86,7 @@
         },
         {
             "writing" : "bnayya",
+            "plural" : "bnéét",
             "is_feminine" : true,
             "root_id": null,
             "meaning": "fille",
@@ -86,6 +95,7 @@
         },
         {
             "writing" : "raajel",
+            "plural" : "rjéél",
             "root_id": null,
             "meaning": "homme, époux",
             "function" : "nom",
@@ -93,6 +103,7 @@
         },
         {
             "writing" : "mraa",
+            "plural" : "nsèè",
             "is_feminine" : true,
             "root_id": null,
             "meaning": "femme, épouse",
@@ -159,6 +170,7 @@
         {
             "writing" : "'aHmar",
             "feminine" : "Hamra",
+            "plural" : "Hmor",
             "root_id": 8,
             "meaning": "rouge",
             "function" : "adjectif",
@@ -167,6 +179,7 @@
         {
             "writing" : "Twiil",
             "feminine" : "Twiila",
+            "plural" : "Twèèl",
             "root_id": 9,
             "meaning": "long, grand",
             "function" : "adjectif",
@@ -182,6 +195,7 @@
         {
             "writing" : "tuunsi",
             "feminine" : "tuunsiyya",
+            "plural" : "twèènsa",
             "root_id": null,
             "meaning": "tunisien",
             "function" : "adjectif",
@@ -190,6 +204,7 @@
         {
             "writing" : "bniin",
             "feminine" : "bniina",
+            "plural" : "bnèèn",
             "root_id": 11,
             "meaning": "savoureux, délicieux",
             "function" : "adjectif",
@@ -197,6 +212,7 @@
         },
         {
             "writing" : "'ordinater",
+            "plural" : "'ordinateraat",
             "root_id": null,
             "loanword_id" : 2,
             "meaning": "ordinateur",
@@ -206,6 +222,7 @@
         {
             "writing" : "S|ghiir",
             "feminine" : "S|ghiira",
+            "plural" : "S|ghaar",
             "root_id": 12,
             "meaning": "petit, jeune",
             "function" : "adjectif",
@@ -214,6 +231,7 @@
         {
             "writing" : "|ghaali",
             "feminine" : "|ghaalya",
+            "plural" : "|ghaliin",
             "root_id": 13,
             "meaning": "cher",
             "function" : "adjectif",
@@ -222,6 +240,7 @@
         {
             "writing" : "'akHal",
             "feminine" : "kaHla",
+            "plural" : "kHol",
             "root_id": 14,
             "meaning": "noir",
             "function" : "adjectif",

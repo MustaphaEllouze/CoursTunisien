@@ -74,6 +74,7 @@ class Word :
     root_id         : int = None
     is_feminine     : bool = False
     feminine        : str = None
+    plural          : str = None
     loanword_id     : int = None
 
     # automatic
