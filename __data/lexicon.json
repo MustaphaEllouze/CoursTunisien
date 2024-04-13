@@ -2,21 +2,21 @@
     "lexicon":[
         {
             "writing" : "kteb",
-            "root":1,
+            "root_id":1,
             "meaning" : "écrire",
             "function":"verbe",
             "id" : 1
         },
         {
             "writing" : "ktééb",
-            "root": 1,
+            "root_id": 1,
             "meaning": "livre",
             "function": "nom",
             "id" : 2
         },
         {
             "writing" : "'esm",
-            "root": 2,
+            "root_id": 2,
             "meaning": "nom",
             "function": "nom",
             "id" : 3
@@ -24,7 +24,7 @@
         {
             "writing" : "smèè'",
             "is_feminine" : true,
-            "root": 3,
+            "root_id": 3,
             "meaning": "ciel",
             "function": "nom",
             "id" : 4
@@ -32,14 +32,14 @@
         {
             "writing" : "'azraq",
             "feminine" : "zarqa",
-            "root": 4,
+            "root_id": 4,
             "meaning": "bleu",
             "function" : "adjectif",
             "id" : 5
         },
         {
             "writing" : "Taqs",
-            "root": 5,
+            "root_id": 5,
             "meaning": "temps, météo",
             "function": "nom",
             "id" : 6
@@ -47,7 +47,7 @@
         {
             "writing" : "sxuun",
             "feminine" : "sxuuna",
-            "root": 6,
+            "root_id": 6,
             "meaning": "chaud",
             "function" : "adjectif",
             "id" : 7
@@ -55,8 +55,8 @@
         {
             "writing" : "Taawla",
             "is_feminine":true,
-            "root": null,
-            "loan_words" : 1,
+            "root_id": null,
+            "loanword_id" : 1,
             "meaning": "table",
             "function" : "nom",
             "id" : 8
@@ -64,14 +64,14 @@
         {
             "writing" : "Aaalii",
             "feminine" : "Aaalyaa",
-            "root": 7,
+            "root_id": 7,
             "meaning": "haut",
             "function" : "adjectif",
             "id" : 9
         },
         {
             "writing" : "'ulayyed",
-            "root": null,
+            "root_id": null,
             "meaning": "garçon",
             "function" : "nom",
             "id" : 10
@@ -79,14 +79,14 @@
         {
             "writing" : "bnayya",
             "is_feminine" : true,
-            "root": null,
+            "root_id": null,
             "meaning": "fille",
             "function" : "nom",
             "id" : 11
         },
         {
             "writing" : "raajel",
-            "root": null,
+            "root_id": null,
             "meaning": "homme, époux",
             "function" : "nom",
             "id" : 12
@@ -94,56 +94,56 @@
         {
             "writing" : "mraa",
             "is_feminine" : true,
-            "root": null,
+            "root_id": null,
             "meaning": "femme, épouse",
             "function" : "nom",
             "id" : 13
         },
         {
             "writing" : "'éna'",
-            "root": null,
+            "root_id": null,
             "meaning": "je, moi",
             "function" : "pronom",
             "id" : 14
         },
         {
             "writing" : "'enti'",
-            "root": null,
+            "root_id": null,
             "meaning": "tu, toi",
             "function" : "pronom",
             "id" : 15
         },
         {
             "writing" : "huwwa",
-            "root": null,
+            "root_id": null,
             "meaning": "il, lui",
             "function" : "pronom",
             "id" : 16
         },
         {
             "writing" : "hiyya",
-            "root": null,
+            "root_id": null,
             "meaning": "elle",
             "function" : "pronom",
             "id" : 17
         },
         {
             "writing" : "'aHna",
-            "root": null,
+            "root_id": null,
             "meaning": "nous",
             "function" : "pronom",
             "id" : 18
         },
         {
             "writing" : "'entuuma",
-            "root": null,
+            "root_id": null,
             "meaning": "vous",
             "function" : "pronom",
             "id" : 19
         },
         {
             "writing" : "huuma",
-            "root": null,
+            "root_id": null,
             "meaning": "ils, eux, elles",
             "function" : "pronom",
             "id" : 20
@@ -151,7 +151,7 @@
         {
             "writing" : "karehba",
             "is_feminine" : true,
-            "root": null,
+            "root_id": null,
             "meaning": "voiture",
             "function" : "nom",
             "id" : 21
@@ -159,7 +159,7 @@
         {
             "writing" : "'aHmar",
             "feminine" : "Hamra",
-            "root": 8,
+            "root_id": 8,
             "meaning": "rouge",
             "function" : "adjectif",
             "id" : 22
@@ -167,14 +167,14 @@
         {
             "writing" : "Twiil",
             "feminine" : "Twiila",
-            "root": 9,
+            "root_id": 9,
             "meaning": "long, grand",
             "function" : "adjectif",
             "id" : 23
         },
         {
             "writing" : "kosksi",
-            "root": 10,
+            "root_id": 10,
             "meaning": "couscous",
             "function" : "nom",
             "id" : 24
@@ -182,7 +182,7 @@
         {
             "writing" : "tuunsi",
             "feminine" : "tuunsiyya",
-            "root": null,
+            "root_id": null,
             "meaning": "tunisien",
             "function" : "adjectif",
             "id" : 25
@@ -190,15 +190,15 @@
         {
             "writing" : "bniin",
             "feminine" : "bniina",
-            "root": 11,
+            "root_id": 11,
             "meaning": "savoureux, délicieux",
             "function" : "adjectif",
             "id" : 26
         },
         {
             "writing" : "'ordinater",
-            "root": null,
-            "loan_words" : 2,
+            "root_id": null,
+            "loanword_id" : 2,
             "meaning": "ordinateur",
             "function" : "nom",
             "id" : 27
@@ -206,7 +206,7 @@
         {
             "writing" : "S|ghiir",
             "feminine" : "S|ghiira",
-            "root": 12,
+            "root_id": 12,
             "meaning": "petit, jeune",
             "function" : "adjectif",
             "id" : 28
@@ -214,7 +214,7 @@
         {
             "writing" : "|ghaali",
             "feminine" : "|ghaalya",
-            "root": 13,
+            "root_id": 13,
             "meaning": "cher",
             "function" : "adjectif",
             "id" : 29
@@ -222,7 +222,7 @@
         {
             "writing" : "'akHal",
             "feminine" : "kaHla",
-            "root": 14,
+            "root_id": 14,
             "meaning": "noir",
             "function" : "adjectif",
             "id" : 30
