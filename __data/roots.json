@@ -99,6 +99,27 @@
             "third" : "l",
             "meaning" : "noir",
             "id": 14
+        },
+        {
+            "first" : "'",
+            "second" : "k",
+            "third" : "l",
+            "meaning" : "manger",
+            "id": 15
+        },
+        {
+            "first" : "x",
+            "second" : "b",
+            "third" : "z",
+            "meaning" : "pain",
+            "id": 16
+        },
+        {
+            "first" : "H",
+            "second" : "b",
+            "third" : "b",
+            "meaning" : "aimer, vouloir",
+            "id": 17
         }
     ]
 }

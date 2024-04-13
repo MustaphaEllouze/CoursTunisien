@@ -245,6 +245,86 @@
             "meaning": "noir",
             "function" : "adjectif",
             "id" : 30
+        },
+        {
+            "writing" : "klèè",
+            "root_id": 15,
+            "meaning": "manger",
+            "function" : "verbe",
+            "id" : 31
+        },
+        {
+            "writing" : "xobz",
+            "root_id": 16,
+            "meaning": "pain (indénombrable)",
+            "function" : "nom",
+            "id" : 32
+        },
+        {
+            "writing" : "xobza",
+            "plural" : "xobzèèt",
+            "is_feminine" : true,
+            "root_id": 16,
+            "meaning": "baguette",
+            "function" : "nom",
+            "id" : 33
+        },
+        {
+            "writing" : "xabbèèz",
+            "feminine" : "xabbèèza",
+            "plural" : "???",
+            "root_id": 16,
+            "meaning": "boulanger",
+            "function" : "nom",
+            "id" : 34
+        },
+        {
+            "writing" : "maxbza",
+            "is_feminine" : true,
+            "plural" : "maxbzèèt",
+            "root_id": 16,
+            "meaning": "boulangerie",
+            "function" : "nom",
+            "id" : 35
+        },
+        {
+            "writing" : "qaTTuus",
+            "feminine" : "qaTTuussa",
+            "plural" : "qTaaTes",
+            "root_id": null,
+            "meaning": "chat",
+            "function" : "nom",
+            "id" : 36
+        },
+        {
+            "writing" : "Hebb",
+            "root_id": 17,
+            "meaning": "aimer, vouloir",
+            "function" : "verbe",
+            "id" : 37
+        },
+        {
+            "writing" : "Hobb",
+            "root_id": 17,
+            "meaning": "amour",
+            "function" : "nom",
+            "id" : 38
+        },
+        {
+            "writing" : "Huut",
+            "root_id": null,
+            "meaning": "poisson (indénombrable)",
+            "function" : "nom",
+            "id" : 39
+        },
+        {
+            "writing" : "Huuta",
+            "is_feminine" : true,
+            "plural" : "Hutèèt",
+            "root_id": null,
+            "meaning": "poisson",
+            "function" : "nom",
+            "id" : 3940
         }
     ]
 }
