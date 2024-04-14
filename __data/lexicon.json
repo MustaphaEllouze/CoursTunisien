@@ -530,6 +530,74 @@
             "meaning": "joueur",
             "function" : "nom",
             "id" : 67
+        },
+        {
+            "writing" : "tlééAeb",
+            "root_id": 25,
+            "meaning": "jouer (avec quelqu'un)",
+            "function" : "verbe",
+            "id" : 68
+        },
+        {
+            "writing" : "Hfa|DH",
+            "root_id": 26,
+            "meaning": "apprendre (par coeur)",
+            "function" : "verbe",
+            "id" : 69
+        },
+        {
+            "writing" : "Haffe|DH",
+            "root_id": 26,
+            "meaning": "faire apprendre (par coeur)",
+            "function" : "verbe",
+            "id" : 70
+        },
+        {
+            "writing" : "Haafe|DH",
+            "feminine" : "Haaf|DHa",
+            "plural" : "Haaf|DHiin",
+            "root_id": 26,
+            "meaning": "personne ayant appris (par coeur)",
+            "function" : "nom",
+            "id" : 71
+        },
+        {
+            "writing" : "'estaHfe|DH",
+            "root_id": 26,
+            "meaning": "préserver, faire attention à quelque chose",
+            "function" : "verbe",
+            "id" : 72
+        },
+        {
+            "writing" : "maHfuu|DHa",
+            "plural" : "maHfuu|DHaaT",
+            "is_feminine" : true,
+            "root_id": 26,
+            "meaning": "récitation",
+            "function" : "nom",
+            "id" : 73
+        },
+        {
+            "writing" : "s'el",
+            "root_id": 27,
+            "meaning": "questionner, demander",
+            "function" : "verbe",
+            "id" : 74
+        },
+        {
+            "writing" : "tséé'el",
+            "root_id": 27,
+            "meaning": "se demander",
+            "function" : "verbe",
+            "id" : 75
+        },
+        {
+            "writing" : "su'éél",
+            "plural" : "'as'ila'",
+            "root_id": 27,
+            "meaning": "question",
+            "function" : "nom",
+            "id" : 76
         }
     ]
 }
