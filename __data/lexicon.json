@@ -324,7 +324,212 @@
             "root_id": null,
             "meaning": "poisson",
             "function" : "nom",
-            "id" : 3940
+            "id" : 40
+        },
+        {
+            "writing" : "qraa",
+            "root_id": 18,
+            "meaning": "lire, étudier",
+            "function" : "verbe",
+            "id" : 41
+        },
+        {
+            "writing" : "qraaya",
+            "is_feminine" : true,
+            "root_id": 18,
+            "meaning": "études",
+            "function" : "nom",
+            "id" : 42
+        },
+        {
+            "writing" : "kuura",
+            "plural" : "kwer",
+            "is_feminine" : true,
+            "root_id": 19,
+            "meaning": "ballon, football",
+            "function" : "nom",
+            "id" : 43
+        },
+        {
+            "writing" : "|shrab",
+            "root_id": 20,
+            "meaning": "boire",
+            "function" : "verbe",
+            "id" : 44
+        },
+        {
+            "writing" : "|sharreb",
+            "root_id": 20,
+            "meaning": "faire boire",
+            "function" : "verbe",
+            "id" : 45
+        },
+        {
+            "writing" : "t|shrab",
+            "root_id": 20,
+            "meaning": "être bu",
+            "function" : "verbe",
+            "id" : 46
+        },
+        {
+            "writing" : "|shraab",
+            "root_id": 20,
+            "meaning": "alcool",
+            "function" : "nom",
+            "id" : 47
+        },
+        {
+            "writing" : "|shééreb",
+            "feminine" : "|shéérba",
+            "root_id": 20,
+            "meaning": "ivre",
+            "function" : "adjectif",
+            "id" : 48
+        },
+        {
+            "writing" : "majalla",
+            "plural" : "majallèèt",
+            "root_id": null,
+            "is_feminine" : true,
+            "meaning": "revue, magazine",
+            "function" : "nom",
+            "id" : 49
+        },
+        {
+            "writing" : "xraj",
+            "root_id": 21,
+            "meaning": "sortir",
+            "function" : "verbe",
+            "id" : 50
+        },
+        {
+            "writing" : "xarrej",
+            "root_id": 21,
+            "meaning": "faire sortir",
+            "function" : "verbe",
+            "id" : 51
+        },
+        {
+            "writing" : "txarrej",
+            "root_id": 21,
+            "meaning": "se faire sortir",
+            "function" : "verbe",
+            "id" : 52
+        },
+        {
+            "writing" : "'estaxrej",
+            "root_id": 21,
+            "meaning": "extraire, produire (une oeuvre)",
+            "function" : "verbe",
+            "id" : 53
+        },
+        {
+            "writing" : "xaarej",
+            "feminine" : "xaarja",
+            "plural" : "xaarjiin",
+            "root_id": 21,
+            "meaning": "sortant (d'un endroit)",
+            "function" : "adjectif",
+            "id" : 54
+        },
+        {
+            "writing" : "mro|DH",
+            "root_id": 22,
+            "meaning": "tomber malade",
+            "function" : "verbe",
+            "id" : 55
+        },
+        {
+            "writing" : "marre|DH",
+            "root_id": 22,
+            "meaning": "contaminer",
+            "function" : "verbe",
+            "id" : 56
+        },
+        {
+            "writing" : "mrii|DH",
+            "feminine" : "mrii|DHa",
+            "plural" : "mor|DHa",
+            "root_id": 22,
+            "meaning": "malade",
+            "function" : "adjectif",
+            "id" : 57
+        },
+        {
+            "writing" : "mlek",
+            "root_id": 23,
+            "meaning": "posséder",
+            "function" : "verbe",
+            "id" : 58
+        },
+        {
+            "writing" : "melk",
+            "root_id": 23,
+            "meaning": "possession",
+            "function" : "nom",
+            "id" : 59
+        },
+        {
+            "writing" : "méélek",
+            "root_id": 23,
+            "meaning": "propriétaire",
+            "function" : "nom",
+            "id" : 60
+        },
+        {
+            "writing" : "f|shel",
+            "root_id": 24,
+            "meaning": "échouer, devenir fatigué",
+            "function" : "verbe",
+            "id" : 61
+        },
+        {
+            "writing" : "féé|shel",
+            "feminine" : "féé|shela",
+            "plural" : "féé|shliin",
+            "root_id": 24,
+            "meaning": "fatigué, ayant échoué",
+            "function" : "adjectif",
+            "id" : 62
+        },
+        {
+            "writing" : "lAab",
+            "root_id": 25,
+            "meaning": "jouer",
+            "function" : "verbe",
+            "id" : 63
+        },
+        {
+            "writing" : "laAAeb",
+            "root_id": 25,
+            "meaning": "faire jouer",
+            "function" : "verbe",
+            "id" : 64
+        },
+        {
+            "writing" : "telAab",
+            "root_id": 25,
+            "meaning": "se jouer",
+            "function" : "verbe",
+            "id" : 65
+        },
+        {
+            "writing" : "loAba",
+            "plural" : "luAab",
+            "root_id": 25,
+            "is_feminine" : true,
+            "meaning": "jeu",
+            "function" : "nom",
+            "id" : 66
+        },
+        {
+            "writing" : "lééAeb",
+            "feminine" : "lééAba",
+            "plural" : "lééAbiin",
+            "root_id": 25,
+            "meaning": "joueur",
+            "function" : "nom",
+            "id" : 67
         }
     ]
 }

@@ -120,6 +120,77 @@
             "third" : "b",
             "meaning" : "aimer, vouloir",
             "id": 17
+        },
+        {
+            "first" : "q",
+            "second" : "r",
+            "third" : null,
+            "meaning" : "lire, étudier",
+            "id": 18
+        },
+        {
+            "first" : "k",
+            "second" : "w",
+            "third" : "r",
+            "meaning" : "rond, balle, ballon",
+            "still_used" : false,
+            "id": 19
+        },
+        {
+            "first" : "|sh",
+            "second" : "r",
+            "third" : "b",
+            "meaning" : "boire",
+            "id": 20
+        },
+        {
+            "first" : "x",
+            "second" : "r",
+            "third" : "j",
+            "meaning" : "sortir",
+            "id": 21
+        },
+        {
+            "first" : "m",
+            "second" : "r",
+            "third" : "|DH",
+            "meaning" : "maladie",
+            "id": 22
+        },
+        {
+            "first" : "m",
+            "second" : "l",
+            "third" : "k",
+            "meaning" : "possession",
+            "id": 23
+        },
+        {
+            "first" : "f",
+            "second" : "|sh",
+            "third" : "l",
+            "meaning" : "échec",
+            "id": 24
+        },
+        {
+            "first" : "l",
+            "second" : "A",
+            "third" : "b",
+            "meaning" : "jouer",
+            "id": 25
+        },
+        {
+            "first" : "H",
+            "second" : "f",
+            "third" : "|DH",
+            "meaning" : "retenir, garder",
+            "id": 26
+        },
+        {
+            "first" : "s",
+            "second" : "'",
+            "third" : "l",
+            "meaning" : "demander, question",
+            "id": 27
         }
     ]
 }
