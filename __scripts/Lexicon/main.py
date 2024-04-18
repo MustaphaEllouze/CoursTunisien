@@ -100,7 +100,7 @@ class Word :
 # ---------------- Functions
 def load_json(file_path:str, access_key:str)->dict:
     assert os.path.isfile(file_path)
-    data= json.load(open(file=file_path, mode='r'))
+    data= json.load(open(file=file_path, mode='r',encoding='utf-8'))
     assert access_key in data
 
     return data[access_key]
@@ -171,6 +171,11 @@ def main()->None:
     # --- Assemble words by common root, and without any root
     words_by_roots = gather_words_via_roots()
     words_rootless = gather_words_without_roots()
+
+    for root, list_words in words_by_roots.items():
+        print(Root.roots_from_id[root])
+        for w in list_words:
+            print(f'    -----{w.writing}')
 
 # ---------------- Execute 
 if __name__ == '__main__':
