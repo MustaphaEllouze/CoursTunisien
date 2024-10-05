@@ -12,3 +12,6 @@
 !*.jpeg
 !*.json
 .vscode/settings.json
+
+!sphinx/**
+sphinx/build
