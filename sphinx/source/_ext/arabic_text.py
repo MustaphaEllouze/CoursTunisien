@@ -12,7 +12,8 @@ class SubsTextTransform(SphinxTransform):
     pattern = re.compile(r'command\|`([^`]+)`')
 
     # Matching dictionnary
-    matching_dict = {}
+    matching_dict_priority_0 = {}
+    matching_dict_priority_1 = {}
 
     def apply(self):
         # Iterate over all text nodes in the document
@@ -46,7 +47,9 @@ class SubsTextTransform(SphinxTransform):
         matched = command_pattern.search(text)
         if matched :
             text_to_subs = matched.group(1)
-            for initial_char, new_char in self.match_dict.items():
+            for initial_char, new_char in self.matching_dict_priority_0.items():
+                text_to_subs = text_to_subs.replace(initial_char, new_char)
+            for initial_char, new_char in self.matching_dict_priority_1.items():
                 text_to_subs = text_to_subs.replace(initial_char, new_char)
             return text_to_subs
         return text
@@ -58,44 +61,76 @@ class ArabSubs(SubsTextTransform):
     pattern = re.compile(r'arab\|`([^`]+)`')
 
     # Matching dictionnary
-    match_dict = {
+    matching_dict_priority_0 = {
+        "<th>" : "ث",
+        "<TH>" : "ث",
+        "<hb>" : "ح",
+        "<HB>" : "ح",
+        "<dh>" : "ذ",
+        "<DH>" : "ذ",
+        "<vs>" : "ش",
+        "<VS>" : "ش",
+        "<cs>" : "ص",
+        "<CS>" : "ص",
+        "<cdh>" : "ض",
+        "<CDH>" : "ض",
+        "<t>" : "ط",
+        "<T>" : "ط",
+        "<cdh2>" : "ظ",
+        "<CDH2>" : "ظ",
+        "<ca>" : "ع",
+        "<CA>" : "ع",
+        "<vr>" : "غ",
+        "<VR>" : "غ",
+        "<A>" : "أ",
+        "<I>" : "إ",
+        "<W>" : "ؤ",
+        "<O>" : "ئ",
+        "<Y>" : "ى",
+    }
+    matching_dict_priority_1 = {
         "b" : "ب",
+        "B" : "ب",
         "t" : "ت",
-        "C" : "ث",
+        "T" : "ت",
         "j" : "ج",
-        "H" : "ح",
+        "J" : "ج",
         "x" : "خ",
+        "X" : "خ",
         "d" : "د",
-        "4" : "ذ",
+        "D" : "د",
         "r" : "ر",
+        "R" : "ر",
         "z" : "ز",
+        "Z" : "ز",
         "s" : "س",
-        "c" : "ش",
-        "S" : "ص",
-        "D" : "ض",
-        "T" : "ط",
-        "Z" : "ظ",
-        "G" : "ع",
-        "R" : "غ",
+        "S" : "س",
         "f" : "ف",
+        "F" : "ف",
         "q" : "ق",
+        "Q" : "ق",
         "k" : "ك",
+        "K" : "ك",
         "l" : "ل",
+        "L" : "ل",
         "m" : "م",
+        "M" : "م",
         "n" : "ن",
+        "N" : "ن",
         "h" : "ه",
+        "H" : "ه",
         "w" : "و",
+        "W" : "و",
         "y" : "ي",
+        "Y" : "ي",
         "@" : "ة",
         "'" : "ا",
-        "A" : "أ",
-        "I" : "إ",
-        "W" : "ؤ",
-        "O" : "ئ",
-        "Y" : "ى",
         "g" : "ڨ",
+        "G" : "ڨ",
         "p" : "پ",
+        "P" : "پ",
         "v" : "ڥ",
+        "V" : "ڥ",
         "~" : "ّ",
         "?" : "؟",
         "!" : "!",
@@ -110,9 +145,33 @@ class TunisianSubs(SubsTextTransform):
     pattern = re.compile(r'tun\|`([^`]+)`')
 
     # Matching dictionnary
-    match_dict = {
-        r"<th>" : "þ",
-        "a" : "aa",
+    matching_dict_priority_0 = {
+        "<th>" : "þ",
+        "<TH>" : "Þ",
+
+        "<hb>" : "ħ",
+        "<HB>" : "Ħ",
+        
+        "<dh>" : "đ",
+        "<DH>" : "Ð",
+
+        "<cdh>" : "đ̧",
+        "<CDH>" : "Đ̧",
+
+        "<ct>" : "ţ",
+        "<CT>" : "Ţ",
+
+        "<ca>" : "a̧",
+        "<CA>" : "A̧",
+
+        "<vs>" : "š",
+        "<VS>" : "Š",
+
+        "<cs>" : "ş",
+        "<CS>" : "Ş",
+        
+        "<vr>" : "ř",
+        "<VR>" : "Ř",
     }
 
 # To qualify the file as an extension

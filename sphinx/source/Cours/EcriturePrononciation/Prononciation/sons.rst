@@ -53,7 +53,7 @@ passées de l'arabe au tunisien. J'y liste plusieurs informations :
       - Romanisation
       - Transcription du cours
     
-    * - arab|`A`
+    * - arab|`<A>`
       - [ʔ]
       - **ʼ** ou omise
       - **ʼ** (omise en début de mot)
@@ -61,17 +61,133 @@ passées de l'arabe au tunisien. J'y liste plusieurs informations :
     * - arab|`b`
       - [b]
       - b
-      - b
+      - B / b
 
     * - arab|`t`
       - [t]
       - t
-      - t
+      - T / t
 
-    * - arab|`C`
+    * - arab|`<th>`
       - [θ]
       - th
-      - tun|`<th>`
+      - tun|`<TH> / <th>`
+
+    * - arab|`j`
+      - [ʒ]
+      - j
+      - J / j
+
+    * - arab|`<hb>`
+      - [ħ]
+      - h / 7
+      - tun|`<HB> / <hb>`
+
+    * - arab|`x`
+      - [χ]
+      - kh / 5
+      - X / x
+
+    * - arab|`d`
+      - [d]
+      - d
+      - D / d
+
+    * - arab|`<dh>`
+      - [ð]
+      - dh / 4
+      - tun|`<DH> / <dh>`
+
+    * - arab|`r`
+      - [r]
+      - r
+      - R / r
+      
+    * - arab|`z`
+      - [z]
+      - z
+      - Z / z
+      
+    * - arab|`s`
+      - [s]
+      - s
+      - S / s
+      
+    * - arab|`<vs>`
+      - [ʃ]
+      - ch / sh
+      - tun|`<VS> / <vs>`
+      
+    * - arab|`<cs>`
+      - [sˤ]
+      - s 
+      - tun|`<CS> / <cs>`
+      
+    * - arab|`<CDH> / <CDH2>`
+      - [ðˤ]
+      - dh / 4 
+      - tun|`<CDH> / <cdh>`
+
+    * - arab|`<ct>`
+      - [tˤ]
+      - t 
+      - tun|`<CT> / <ct>`
+
+    * - arab|`<ca>`
+      - [ʕ]
+      - aa / â / 3 
+      - tun|`<CA> / <ca>`
+
+    * - arab|`<vr>`
+      - [ʁ]
+      - r
+      - tun|`<VR> / <vr>` 
+      
+    * - arab|`f`
+      - [f]
+      - f
+      - F / f 
+      
+    * - arab|`q`
+      - [q]
+      - k / 9
+      - Q / q 
+      
+    * - arab|`k`
+      - [k]
+      - c / k 
+      - K / k 
+      
+    * - arab|`l`
+      - [l]
+      - l
+      - L / l 
+      
+    * - arab|`m`
+      - [m]
+      - m
+      - M / m 
+      
+    * - arab|`n`
+      - [n]
+      - n
+      - N / n 
+      
+    * - arab|`h`
+      - [ɦ]
+      - h
+      - H / h 
+      
+    * - arab|`w`
+      - [w]
+      - w
+      - W / w 
+      
+    * - arab|`y`
+      - [j]
+      - y
+      - Y / y 
+
 
 ---
 
