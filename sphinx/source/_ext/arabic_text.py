@@ -51,7 +51,7 @@ class SubsTextTransform(SphinxTransform):
                 text_to_subs = text_to_subs.replace(initial_char, new_char)
             for initial_char, new_char in self.matching_dict_priority_1.items():
                 text_to_subs = text_to_subs.replace(initial_char, new_char)
-            return text_to_subs
+            return text.replace(matched.group(), text_to_subs)
         return text
 
 class ArabSubs(SubsTextTransform):

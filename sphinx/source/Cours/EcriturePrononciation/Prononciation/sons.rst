@@ -188,11 +188,107 @@ passées de l'arabe au tunisien. J'y liste plusieurs informations :
       - y
       - Y / y 
 
+Consonne ayant évolué depuis l'arabe
+------------------------------------
 
----
+Il existe également **une** consonne qui a évolué depuis l'arabe depuis la 
+consonne **arab|`q` [q]**.
+
+.. list-table:: Consonne ayant évolué depuis l'arabe en tunisien
+    :header-rows: 1
+
+    * - Transcription arabe
+      - Transcription phonétique
+      - Romanisation
+      - Transcription du cours
+    
+    * - arab|`g`
+      - [g]
+      - g
+      - G / g
+
+Le phonème **[g]** apparaît dans plusieurs mots d'origine arabe, comme 
+**digla** (arab|`dgl@`, *datte*) par exemple. Sa prononciation est similaire au 
+son **/g/** qu'on peut retrouver en français dans les mots *garage* ou 
+*gueule* [#]_ . Dans plusieurs transcriptions (dont celle de ce cours), on pourra 
+retrouver l'écriture arab|`g`.  
+
+Consonnes d'origine étrangère
+-----------------------------
+
+S'ajoutent également **deux** autres consonnes, provenant toutes les deux de 
+langues étrangères, probablement du **français** et de l'**italien**.
+
+Ces deux consonnes servent uniquement à prononcer des mots importés : 
+
+* Le son **[p]**, comme dans les mots *port* ou *papa*.
+* Le son **[v]**, comme dans les mots *valise* ou *voiture*.
+
+.. list-table:: Consonnes importées de langues étrangères
+    :header-rows: 1
+
+    * - Transcription arabe
+      - Transcription phonétique
+      - Romanisation
+      - Transcription du cours
+    
+    * - arab|`p`
+      - [p]
+      - p
+      - P / p
+    
+    * - arab|`v`
+      - [v]
+      - v
+      - V / v
+
+On notera que les deux écritures *arabisantes* existent, mais ne sont pas 
+systématiquement reconnues comme orthographes officielles.
+
+Il est intéressant de noter que ces deux consonnes peuvent être remplacées par
+le son le plus proche existant nativement en arabe, généralement lorsqu'il y a
+une difficulté de prononciation, ou par habitude. Ainsi, le **[p]** pourra se 
+transformer en **[b]**, alors que **[v]** pourra se transformer en **[f]**.
+
+Système vocalique
+-----------------
+
+Le tunisien étant dérivé de l'arabe, sa grammaire tourne autour de **trois**
+voyelles uniquement. Passons les d'abord en revue :
+
+* La **fatha**, correspondant au son **[a-e]** ;
+* La **dhamma**, correspondant au son **[u]** ;
+* La **kasra**, correspondant au son **[i]**.
+
+Cependant, les années passant, la réalisation de certaines voyelles a **évolué**. 
+Les linguistes modernes ont du mal à s'accorder sur le nombre de voyelles que 
+distingue le tunisien. C'est en réalité un exercice assez difficile dans la 
+mesure où les voyelles sont réalisées très différemment en fonction de la 
+région du locuteur, à l'instar du français [#]_ et de l'anglais [#]_.
+
+Les voyelles qui sont présentées dans la suite de ce paragraphe sont celles 
+dont la distinction sera faite dans la transcription qui est proposée. Il est 
+important de noter encore une fois qu'il n'y a pas de consensus clair sur la
+question.
+
+.. list-table:: Voyelles existantes dans le tunisien
+    :header-rows: 1
+
+    * - Transcription phonétique
+      - Transcription
+      - Equivalent FR/EN
+      - Tunisien
+    
+    * - [a]
+      - a
+      - **a**ller / tr**a**p
+      - arab|`qrn`
 
 .. rubric:: Notes de bas de page
 
 .. [#] Certaines des autres ont fait leur apparition via des mots d'origine étrangère et n'apparaissent donc exclusivement que dans des mots importés.
 .. [#] Techniquement, il s'agit d'un **abjad**, mais je ne ferai pas la distinction pour des raisons de simplicité.
 .. [#] Ce n'est nécessairement la transcription que j'utilise dans ce cours. Ces romanisations ont diverses origines, notamment l'utilisation de l'alphabet latin pour des échanges informels entre tunisophones, par exemples des SMS, lorsque l'utilisation de les caractères arabes pour écrire du tunisien n'était pas encore démocratisée, ou faute d'avoir accès aux caractère d'origine arabe. 
+.. [#] On retrouvera surtout cette consonne dans des parlers tunisiens qui remplacent le son **[q]** par le son **[g]** (typiquement les parlers hilaliens). Dans la version *standardisée* du tunisien, cette consonne est également utilisée pour  prononcer les mots importés, même si la proportion de mots non importés  l'utilisant est non négligeable. On retrouvera donc des mots assez modernes  qui changent de sens en fonction de l'emploi de **[q]** ou **[g]**, la  substitution de l'un par l'autre n'est donc pas nécessairement anodine. Par  exemple, on pourra retrouver les mots **/qammer/** (arab|`qm~r`, *parier*) et **/gammer/** (arab|`gm~r`, *viser*).
+.. [#] Le mot *rose* ne se prononce pas pareil à Paris qu'à Toulouse.
+.. [#] Le *RP English* distingue beaucoup plus de diphtongues que le *General American* par exemple.
