@@ -71,7 +71,7 @@ passées de l'arabe au tunisien. J'y liste plusieurs informations :
     * - arab|`C`
       - [θ]
       - th
-      - þ
+      - tun|`<th>`
 
 ---
 
