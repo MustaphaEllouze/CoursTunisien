@@ -8,7 +8,7 @@ import sys, os
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'CoursDeTunisien'
+project = 'Méthode d\'apprentissage du tunisien'
 copyright = '2024, Mustapha ELLOUZE'
 author = 'Mustapha ELLOUZE'
 release = '0.1'
