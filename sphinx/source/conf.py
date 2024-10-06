@@ -9,7 +9,7 @@ import sys, os
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Méthode d\'apprentissage du tunisien'
-copyright = '2024, Mustapha ELLOUZE'
+copyright = '2024'
 author = 'Mustapha ELLOUZE'
 release = '0.1'
 
@@ -34,5 +34,5 @@ language = 'fr'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']

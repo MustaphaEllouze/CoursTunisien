@@ -1,6 +1,9 @@
 *
 !**/
 
+!sphinx/**
+
+!*.gitignore
 !*.tex
 !*.pdf
 !*.md
@@ -12,6 +15,3 @@
 !*.jpeg
 !*.json
 .vscode/settings.json
-
-!sphinx/**
-sphinx/build

@@ -73,8 +73,9 @@ passées de l'arabe au tunisien. J'y liste plusieurs informations :
       - th
       - þ
 
+---
 
-.. rubric:: Footnotes
+.. rubric:: Notes de bas de page
 
 .. [#] Certaines des autres ont fait leur apparition via des mots d'origine étrangère et n'apparaissent donc exclusivement que dans des mots importés.
 .. [#] Techniquement, il s'agit d'un **abjad**, mais je ne ferai pas la distinction pour des raisons de simplicité.
