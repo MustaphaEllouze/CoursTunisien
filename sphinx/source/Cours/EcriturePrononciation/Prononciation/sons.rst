@@ -1,5 +1,7 @@
-Sons
-====
+.. _inventaire_phonetique:
+
+Inventaire phonétique
+=====================
 
 .. contents::
 
@@ -99,7 +101,7 @@ passées de l'arabe au tunisien. J'y liste plusieurs informations :
       - tun|`<DH> / <dh>`
 
     * - arab|`r`
-      - [r]
+      - [ɾ]
       - r
       - R / r
       
@@ -130,7 +132,7 @@ passées de l'arabe au tunisien. J'y liste plusieurs informations :
 
     * - arab|`<ct>`
       - [tˤ]
-      - t 
+      - t
       - tun|`<CT> / <ct>`
 
     * - arab|`<ca>`
@@ -277,12 +279,100 @@ question.
     * - Transcription phonétique
       - Transcription
       - Equivalent FR/EN
-      - Tunisien
+      - En tunisien (Arabe)
+      - En tunisien (Latin)
     
     * - [a]
       - a
-      - **a**ller / tr**a**p
+      - **a**\ ller / tr\ **a**\ p
       - arab|`qrn`
+      - tun|`qarn`
+
+    * - [ɛ]
+      - è
+      - c\ **è**\ pe / b\ **e**\ d
+      - arab|`<A><ca>l'<vs>`
+      - tun|`a<ca>lèè<vs>`
+
+    * - [ɪ]
+      - é
+      - m\ **é**\ chant / (a) b\ **i**\ t
+      - arab|`m't`
+      - tun|`méét`
+      
+    * - [ɔ]
+      - o
+      - s\ **o**\ rtir / n\ **o**\ t
+      - arab|`mx`
+      - tun|`mox`
+      
+    * - [u]
+      - u
+      - m\ **ou**\ ton / d\ **oo**\ m
+      - arab|`m'hw<vs>`
+      - tun|`mahuu<vs>`
+      
+    * - [ə]
+      - e
+      - d\ **e** / kill\ **e**\ r
+      - arab|`<cdh2>'hr`
+      - tun|`<cdh>aaher`
+      
+    * - [i]
+      - i
+      - r\ **i**\ vière / m\ **ee**\ ting
+      - arab|`fys<ca>`
+      - tun|`fiisa<ca>`
+
+Historiquement, les voyelles ont évolué comme suit [#]_ :
+
+* La **fatha** a évolué pour donner les voyelles [a], [ɛ] et [ɪ] ;
+* La **dhamma** a évolué pour donner les voyelles [ɔ] et [u] ;
+* La **kasra** a évolué pour donner les voyelles [ə] et [i].
+
+De plus, le tunisien fait la distinction entre les voyelles **courtes** et les
+voyelles **longues**, comme en arabe standard, puisqu'elles ont un impact 
+**grammatical**.
+
+Il existe également en tunisien certaines voyelles **nasales**. Le tunisien est 
+resté suffisamment longtemps en contact avec la langue française pour que 
+plusieurs mots passent d'une langue à l'autre, et en particulier du français 
+vers le tunisien. Ces mots importés ont réussi à s'imposer avec trois voyelles
+nasales, qui ne sont utilisées que dans ce cadre-là :
+
+.. list-table:: Voyelles nasales en tunisien
+    :header-rows: 1
+
+    * - Transcription phonétique
+      - Transcription
+      - Equivalent français
+      - Tunisien (Arabe)
+      - Tunisien (Latin)
+    
+    * - [ɑ̃]
+      - tun|`<va>`
+      - Croiss\ **an**\ t
+      - arab|`krws<va>`
+      - tun|`krwass<va>`
+
+    * - [ɔ̃]
+      - tun|`<vo>`
+      - C\ **om**\ pas
+      - arab|`k<vo>p'`
+      - tun|`k<vo>paa`
+
+    * - [ĩ]
+      - tun|`<vi>`
+      - **In**\ ternet
+      - arab|`'<vi>trn't`
+      - tun|`<vi>ternèèt`
+
+En **français** [#]_ , on prononce également une **quatrième** voyelle nasale, 
+couramment notée **/en/**, qu'on retrouve pas exemple dans *rendez-vous*. Cette
+voyelle est usuellement remplacée par **[ɑ̃]** en tunisien.
+
+De plus, ces voyelles ne sont généralement pas totalement nasalisées, c'est-à-dire
+qu'il est possible d'entendre prononcé un **/n/** à la toute fin de la voyelle [#]_.
 
 .. rubric:: Notes de bas de page
 
@@ -292,3 +382,6 @@ question.
 .. [#] On retrouvera surtout cette consonne dans des parlers tunisiens qui remplacent le son **[q]** par le son **[g]** (typiquement les parlers hilaliens). Dans la version *standardisée* du tunisien, cette consonne est également utilisée pour  prononcer les mots importés, même si la proportion de mots non importés  l'utilisant est non négligeable. On retrouvera donc des mots assez modernes  qui changent de sens en fonction de l'emploi de **[q]** ou **[g]**, la  substitution de l'un par l'autre n'est donc pas nécessairement anodine. Par  exemple, on pourra retrouver les mots **/qammer/** (arab|`qm~r`, *parier*) et **/gammer/** (arab|`gm~r`, *viser*).
 .. [#] Le mot *rose* ne se prononce pas pareil à Paris qu'à Toulouse.
 .. [#] Le *RP English* distingue beaucoup plus de diphtongues que le *General American* par exemple.
+.. [#] Il est possible de déduire comment a évolué chaque voyelle depuis l'arabe en fonction des consonnes qui l'entourent, mais nous nous y intéresserons pas ici.
+.. [#] Au moins dans certaines parties de la France.
+.. [#] C'est le même phénomène qu'on peut retrouver dans certains parlers du sud-ouest de la France.

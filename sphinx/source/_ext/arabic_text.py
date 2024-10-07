@@ -74,8 +74,8 @@ class ArabSubs(SubsTextTransform):
         "<CS>" : "ص",
         "<cdh>" : "ض",
         "<CDH>" : "ض",
-        "<t>" : "ط",
-        "<T>" : "ط",
+        "<ct>" : "ط",
+        "<CT>" : "ط",
         "<cdh2>" : "ظ",
         "<CDH2>" : "ظ",
         "<ca>" : "ع",
@@ -87,6 +87,9 @@ class ArabSubs(SubsTextTransform):
         "<W>" : "ؤ",
         "<O>" : "ئ",
         "<Y>" : "ى",
+        "<va>" : "ً",
+        "<vo>" : "ٌ",
+        "<vi>" : "ٍ",
     }
     matching_dict_priority_1 = {
         "b" : "ب",
@@ -172,6 +175,10 @@ class TunisianSubs(SubsTextTransform):
         
         "<vr>" : "ř",
         "<VR>" : "Ř",
+
+        "<va>" : "ǎ",
+        "<vo>" : "ǒ",
+        "<vi>" : "ǐ",
     }
 
 # To qualify the file as an extension
