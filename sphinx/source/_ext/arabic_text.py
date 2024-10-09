@@ -19,15 +19,24 @@ class SubsTextTransform(SphinxTransform):
         # Iterate over all text nodes in the document
         for node in self.document.traverse(nodes.Text):
             
-            # Replaces the text if applicable
-            new_text = self.replace_command(
-                command_pattern=self.pattern, 
-                text=node.astext(),
-            )
+            # Placeholders 
+            buffer_text = None
+            buffer_text_2 = node.astext()
+
+            # Iterate until no change is made
+            while (buffer_text != buffer_text_2):
+
+                buffer_text = buffer_text_2
+
+                # Replaces the text if applicable
+                buffer_text_2 = self.replace_command(
+                    command_pattern=self.pattern, 
+                    text=buffer_text,
+                )
             
             # Replace in the build
-            if new_text != node.astext():
-                node.parent.replace(node, nodes.Text(new_text))
+            if buffer_text != node.astext():
+                node.parent.replace(node, nodes.Text(buffer_text))
 
     def replace_command(
             self, 

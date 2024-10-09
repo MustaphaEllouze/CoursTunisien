@@ -361,17 +361,13 @@ nasales, qui ne sont utilisées que dans ce cadre-là :
       - arab|`k<vo>p'`
       - tun|`k<vo>paa`
 
-    * - [ĩ]
+    * - [ɛ̃]
       - tun|`<vi>`
       - **In**\ ternet
       - arab|`'<vi>trn't`
       - tun|`<vi>ternèèt`
 
-En **français** [#]_ , on prononce également une **quatrième** voyelle nasale, 
-couramment notée **/en/**, qu'on retrouve pas exemple dans *rendez-vous*. Cette
-voyelle est usuellement remplacée par **[ɑ̃]** en tunisien.
-
-De plus, ces voyelles ne sont généralement pas totalement nasalisées, c'est-à-dire
+Ces voyelles ne sont généralement pas totalement nasalisées, c'est-à-dire
 qu'il est possible d'entendre prononcé un **/n/** à la toute fin de la voyelle [#]_.
 
 .. rubric:: Notes de bas de page
@@ -383,5 +379,4 @@ qu'il est possible d'entendre prononcé un **/n/** à la toute fin de la voyelle
 .. [#] Le mot *rose* ne se prononce pas pareil à Paris qu'à Toulouse.
 .. [#] Le *RP English* distingue beaucoup plus de diphtongues que le *General American* par exemple.
 .. [#] Il est possible de déduire comment a évolué chaque voyelle depuis l'arabe en fonction des consonnes qui l'entourent, mais nous nous y intéresserons pas ici.
-.. [#] Au moins dans certaines parties de la France.
 .. [#] C'est le même phénomène qu'on peut retrouver dans certains parlers du sud-ouest de la France.

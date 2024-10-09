@@ -15,8 +15,11 @@ Avant d'attaquer directement la prononciation dans le cadre de l'apprentissage
 du tunisien, il est nécessaire de dresser quelques principes généraux afin de
 faciliter la lecture de ce guide.
 
+Consonnes
+~~~~~~~~~
+
 Consonne sourde et consonne sonore
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Il est possible de catégoriser chaque consonne en **deux catégories** : les 
 consonnes **sourdes** et les consones **sonores**. Une consonne est dite 
@@ -43,7 +46,7 @@ On peut alors définir des pairs de consonnes dont la seule différence est le
       - **[d]** - *doigt*
 
 Point d'articulation
-~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^
 
 Le **point d'articulation** désigne les zones de la cavité buccale où 
 l'air est obstrué afin de pouvoir prononcer un son. Il est par exemple possible de
@@ -119,7 +122,7 @@ Ne sont donc présentés ci-dessous que les points d'articulation qu'on y retrou
       - arab|`<A>` /'/
 
 Mode d'articulation
-~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^
 
 Le **mode d'articulation** désigne un ensemble de propriétés relative à 
 l'articulation d'une consonne, notamment le **type d'obstruction** au passage 
@@ -157,55 +160,234 @@ ci-dessous présente les **modes** que l'on retrouve dans ce dernier.
       - arab|`y` /y/
 
 Consonne emphatique
-~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^
 
-[TODO]
+Certaines consonnes en tunisien sont dites **emphatiques**, ou encore 
+**pharyngalisées**. Il s'agit d'une prononciation secondaire qui vient 
+accompagner la réalisation d'une autre consonne. Ces consonnes-ci se retrouvent
+dans la plupart des langues sémitiques et quasiment exclusivement à celles-ci.  
 
-Réalisation des voyelles
-~~~~~~~~~~~~~~~~~~~~~~~~
 
-[TODO]
+Cette articulation secondaire particulière peut-être réalisée en **contractant
+le pharynx** en prononçant la consonne (référez-vous au point d'articulation
+**pharyngal** vu plus haut). 
+
+En pratique, pour le son **[s]** emphatique, noté **[sˤ]**, sa prononciation se
+rapproche beaucoup du *ça* du français canadien.
+
+Voyelles
+~~~~~~~~
+
+Degré d'ouverture
+^^^^^^^^^^^^^^^^^
+
+Le **degré d'ouverture** d'une voyelle, aussi appelé **hauteur**, décrit la 
+position verticale de la langue lors de la réalisation de la voyelle.
+
+L'alphabet phonétique international différencie *sept* degrés différents, mais
+seuls **cinq** d'entre eux sont présents en tunisien : 
+
+* Voyelles **fermées** , comme dans f\ **i**\ lle;
+* Voyelles **pré-fermées**, comme dans s\ **i**\ x en *français canadien* ;
+* Voyelles **moyennes**, comme dans l\ **e** ;
+* Voyelles **mi-ouvertes**, comme dans c\ **è**\ pe ;
+* Voyelles **ouvertes**, comme dans l\ **a**.
+
+Point d'articulation
+^^^^^^^^^^^^^^^^^^^^
+
+Le **point d'articulation** d'une voyelle décrit la position horizontale de 
+la langue lors de la réalisation de la voyelle (vers l'avant ou l'arrière de 
+la bouche).
+
+L'alphabet phonétique international différencie *cinq* points différents, mais 
+seuls **quatre** d'entre eux sont présents en tunisien :
+
+* Voyelles **antérieures**, comme dans beaut\ **é** ;
+* Voyelles **quasi-antérieures**, comme dans s\ **i**\ x en *français canadien* ;
+* Voyelles **centrales**, comme dans l\ **e** ;
+* Voyelles **postérieures**, comme dans rés\ **eau**.
+
+Rondeur
+^^^^^^^
+
+La **rondeur** d'une voyelle décrit la forme plus ou moins arrondie que prennent
+les lèvres lors de la réalisation de la voyelle. 
+
+On ne distingue que **deux** rondeurs différentes :
+
+* Voyelles **non-arrondies** comme dans f\ **i**\ lle ;
+* Voyelles **arrondies** comme dans m\ **u**\ sique.
+
+Nasalisation
+^^^^^^^^^^^^
+
+Certaines voyelles sont **nasalisées**, c'est-à-dire que leur réalisation est 
+accompagnée du passage de l'air dans le **canal nasal**, via l'abaissement 
+du *velum* (palais mou).
+
+Ces voyelles nasales sont les mêmes que celles qu'on retrouve dans plusieurs
+mots français comme mais\ **on** ou fr\ **an**\ çais.
 
 Récapitulatif de l'inventaire phonétique
 ----------------------------------------
 
-Est présenté ici un récapitulatif des sons qui ont été présentés 
+Est présenté ici un récapitulatif des consonnes qui ont été présentées 
 :ref:`ici <inventaire_phonetique>`, rangés à la manière de l'inventaire 
 phonétique international, par **point** et **mode** d'articulation.
 
-+------------------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
-| Mode / Point           | Bi-labial | Labio-dental | Dental | Alvéolaire | Post-alvéolaire | Vélaire | Uvulaire | Pharyngal | Glottal |
-+-----------+------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
-|           | sourde     |           |              |        |            |                 |         |          |           |         |
-|           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
-| Nasale    | sonore     | [m]       |              |        | [n]        |                 |         |          |           |         |
-|           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
-|           | emphatique |           |              |        |            |                 |         |          |           |         |
-+-----------+------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
-|           | sourde     | [p]       |              |        | [t]        |                 | [k]     | [q]      |           | [ʔ]     |
-|           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
-| Occlusive | sonore     | [b]       |              |        | [d]        |                 | [g]     |          |           |         |
-|           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
-|           | emphatique |           |              |        | [tˤ]       |                 |         |          |           |         |
-+-----------+------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
-|           | sourde     |           |              |        |            |                 |         |          |           |         |
-|           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
-| Battue    | sonore     |           |              |        | [ɾ]        |                 |         |          |           |         |
-|           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
-|           | emphatique |           |              |        |            |                 |         |          |           |         |
-+-----------+------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
-|           | sourde     |           | [f]          | [θ]    | [s]        | [ʃ]             |         | [χ]      | [ħ]       |         |
-|           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
-| Fricative | sonore     |           | [v]          | [ð]    | [z]        | [ʒ]             |         | [ʁ]      | [ʕ]       | [ɦ]     |
-|           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
-|           | emphatique |           |              | [ðˤ]   | [sˤ]       |                 |         |          |           |         |
-+-----------+------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
-|           | sourde     |           |              |        |            |                 |         |          |           |         |
-|           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
-| Spirante  | sonore     |           |              |        | [l]        | [j]             | [w]     |          |           |         |
-|           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
-|           | emphatique |           |              |        |            |                 |         |          |           |         |
-+-----------+------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
+De même avec les voyelles, rangées par **point** et **degré d'ouverture**.
+
++--------------------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
+| Mode / Point             | Bi-labial | Labio-dental | Dental | Alvéolaire | Post-alvéolaire | Vélaire | Uvulaire | Pharyngal | Glottal |
++=============+============+===========+==============+========+============+=================+=========+==========+===========+=========+
+| |           | sourde     |           |              |        |            |                 |         |          |           |         |
+| |           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
+| | Nasale    | sonore     | [m]       |              |        | [n]        |                 |         |          |           |         |
+| |           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
+| |           | emphatique |           |              |        |            |                 |         |          |           |         |
++-------------+------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
+| |           | sourde     | [p]       |              |        | [t]        |                 | [k]     | [q]      |           | [ʔ]     |
+| |           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
+| | Occlusive | sonore     | [b]       |              |        | [d]        |                 | [g]     |          |           |         |
+| |           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
+| |           | emphatique |           |              |        | [tˤ]       |                 |         |          |           |         |
++-------------+------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
+| |           | sourde     |           |              |        |            |                 |         |          |           |         |
+| |           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
+| | Battue    | sonore     |           |              |        | [ɾ]        |                 |         |          |           |         |
+| |           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
+| |           | emphatique |           |              |        |            |                 |         |          |           |         |
++-------------+------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
+| |           | sourde     |           | [f]          | [θ]    | [s]        | [ʃ]             |         | [χ]      | [ħ]       |         |
+| |           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
+| | Fricative | sonore     |           | [v]          | [ð]    | [z]        | [ʒ]             |         | [ʁ]      | [ʕ]       | [ɦ]     |
+| |           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
+| |           | emphatique |           |              | [ðˤ]   | [sˤ]       |                 |         |          |           |         |
++-------------+------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
+| |           | sourde     |           |              |        |            |                 |         |          |           |         |
+| |           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
+| | Spirante  | sonore     |           |              |        | [l]        | [j]             | [w]     |          |           |         |
+| |           +------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
+| |           | emphatique |           |              |        |            |                 |         |          |           |         |
++-------------+------------+-----------+--------------+--------+------------+-----------------+---------+----------+-----------+---------+
+
++-----------------------------+--------------+-----------------+--------------+--------------+
+| Degré / Point               | Antérieure   | Quasi-antérieure| Centrale     | Postérieure  |
++==============+==============+==============+=================+==============+==============+
+| |            | non-arrondie | [i]          |                 |              |              |
+| | Fermée     +--------------+--------------+-----------------+--------------+--------------+
+| |            | arrondie     |              |                 |              | [u]          |
++--------------+--------------+--------------+-----------------+--------------+--------------+
+| |            | non-arrondie |              | [ɪ]             |              |              |
+| | Pré-fermée +--------------+--------------+-----------------+--------------+--------------+
+| |            | arrondie     |              |                 |              |              |
++--------------+--------------+--------------+-----------------+--------------+--------------+
+| |            | non-arrondie |              |                 | [ə]          |              |
+| | Moyenne    +--------------+--------------+-----------------+--------------+--------------+
+| |            | arrondie     |              |                 |              |              |
++--------------+--------------+--------------+-----------------+--------------+--------------+
+| |            | non-arrondie | [ɛ] [ɛ̃]     |                 |              |              |
+| | Mi-ouverte +--------------+--------------+-----------------+--------------+--------------+
+| |            | arrondie     |              |                 |              | [ɔ] [ɔ̃]     |
++--------------+--------------+--------------+-----------------+--------------+--------------+
+| |            | non-arrondie | [a]          |                 |              | [ɑ̃]         |
+| | Ouverte    +--------------+--------------+-----------------+--------------+--------------+
+| |            | arrondie     |              |                 |              |              |
++--------------+--------------+--------------+-----------------+--------------+--------------+
+
+Prononciation phonème par phonème
+---------------------------------
+
+Consonnes
+~~~~~~~~~
+
+Complexité 1
+^^^^^^^^^^^^
+
+b
+"
+
+t
+"
+
+j
+"
+
+d
+"
+
+z
+"
+
+s
+"
+
+tun|`<vs>`
+"""""""""""
+
+f
+"
+
+k
+"
+
+l
+"
+
+m
+"
+
+n
+"
+
+w
+"
+
+y
+"
+
+g
+"
+
+p
+"
+
+v
+"
+
+Complexité 2
+^^^^^^^^^^^^
+
+tun|`<th>` / tun|`<dh>`
+"""""""""""""""""""""""""
+
+tun|`'`
+"""""""""""
+
+Complexité 3
+^^^^^^^^^^^^
+
+x / tun|`<vr>`
+"""""""""""""""
+
+tun|`<hb>` / tun|`<ca>`
+"""""""""""""""""""""""
+
+h
+"
+
+Complexité 4
+^^^^^^^^^^^^
+
+tun|`<cs>` / tun|`<cdh>` / tun|`<ct>`
+""""""""""""""""""""""""""""""""""""""
+
+r
+"
+
+q
+"
 
 .. raw:: html
 
