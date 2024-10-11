@@ -299,23 +299,65 @@ De même avec les voyelles, rangées par **point** et **degré d'ouverture**.
 Prononciation phonème par phonème
 ---------------------------------
 
+Le reste de ce guide est dédié à la prononciation phonème par phonème.
+
 Consonnes
 ~~~~~~~~~
+
+Dans cette partie, les consonnes sont rangées par complexité de réalisation par
+un francophone moyen.
+
+* **Complexité 1** : Consonnes existantes en français ;
+* **Complexité 2** : Consonnes n'existant pas en français mais faciles à prononcer ;
+* **Complexité 3** : Consonnes prononçables avec un peu d'entraînement ;
+* **Complexité 4** : Consonnes les plus compliquées à réaliser.
 
 Complexité 1
 ^^^^^^^^^^^^
 
-b
-"
+b / arab|`b` - [b] - Consonne bi-labiale occlusive sonore
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Ce son se prononce comme le **/b/** en français, comme dans les mots **bébé** 
+ou **bateau**.
 
-t
-"
+.. raw:: html
 
-j
-"
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Voiced_bilabial_plosive.ogg" type="audio/ogg">
+    </audio>
 
-d
-"
+t / arab|`t` - [t] - Consonne alvéolaire occlusive sourde
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Ce son se prononce comme le **/t/** en français, comme dans les mots **tuyau**
+ou **table**.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Voiceless_alveolar_plosive.ogg" type="audio/ogg">
+    </audio>
+
+j / arab|`j` - [ʒ] - Consonne post-alvéolaire fricative sonore
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Ce son se prononce come le **/j/** en français, comme dans les mots **jeu** et
+**girouette**.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Voiced_palato-alveolar_sibilant.ogg" type="audio/ogg">
+    </audio>
+
+d / arab|`d` - [d] - Consonne alvéolaire occlusive sonore
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Ce son se prononce comme le **/d/** en français, comme dans les mots **décoration**
+ou **diminuer**.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Voiced_alveolar_plosive.ogg" type="audio/ogg">
+    </audio>
 
 z
 "
@@ -388,10 +430,3 @@ r
 
 q
 "
-
-.. raw:: html
-
-    <audio controls="controls">
-      <source src="../../../_static/guide_assets/test.wav" type="audio/wav">
-      Your browser does not support the <code>audio</code> element. 
-    </audio>
