@@ -315,6 +315,10 @@ un francophone moyen.
 Complexité 1
 ^^^^^^^^^^^^
 
+Pour ce niveau de complexité, les consonnes sont relativement faciles à prononcer
+pour un francophone. Nous allons donc nous contenter de donner des exemples de 
+mots français dans lesquels elles se retrouvent.
+
 b / arab|`b` - [b] - Consonne bi-labiale occlusive sonore
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Ce son se prononce comme le **/b/** en français, comme dans les mots **bébé** 
@@ -359,20 +363,65 @@ ou **diminuer**.
       <source src="../../../_static/guide_assets/Voiced_alveolar_plosive.ogg" type="audio/ogg">
     </audio>
 
-z
-"
+z / arab|`z` - [z] - Consonne alvéolaire fricative sonore
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-s
-"
+Ce son se prononce comme le **/z/** en français, comme dans les mots 
+**zèbre** ou **zoo**.
 
-tun|`<vs>`
-"""""""""""
+.. raw:: html
 
-f
-"
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Voiced_alveolar_sibilant.ogg" type="audio/ogg">
+    </audio>
 
-k
-"
+s / arab|`s` - [s] - Consonne alvéolaire fricative sourde
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+Ce son se prononce comme le **/s/** en français, comme dans les mots 
+**sauter** ou **salade**.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Voiceless_alveolar_sibilant.ogg" type="audio/ogg">
+    </audio>
+
+
+tun|`<vs>` / arab|`<vs>` - [ʃ] - Consonne post-alvéolaire fricative sourde
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+Ce son se prononce comme le **/ch/** en français, comme dans les mots **cheval**
+ou **chute**.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Voiceless_palato-alveolar_sibilant.ogg" type="audio/ogg">
+    </audio>
+
+f / arab|`f` - [f] - Consonne labio-dentale fricative sourde
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+Ce son se prononce comme le **/f/** en français, comme dans les mots **faire** 
+ou **foin**.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Voiceless_labio-dental_fricative.ogg" type="audio/ogg">
+    </audio>
+
+k / arab|`k` - [k] - Consonne vélaire occlusive sourde
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Ce son se prononce comme le **/k/** en français, comme dans les mots **camion** 
+ou **kiwi**
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Voiceless_velar_plosive.ogg" type="audio/ogg">
+    </audio>
 
 l
 "
