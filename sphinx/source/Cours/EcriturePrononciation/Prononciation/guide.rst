@@ -415,7 +415,7 @@ ou **foin**.
 k / arab|`k` - [k] - Consonne vélaire occlusive sourde
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Ce son se prononce comme le **/k/** en français, comme dans les mots **camion** 
-ou **kiwi**
+ou **kiwi**.
 
 .. raw:: html
 
@@ -423,35 +423,102 @@ ou **kiwi**
       <source src="../../../_static/guide_assets/Voiceless_velar_plosive.ogg" type="audio/ogg">
     </audio>
 
-l
-"
+l / arab|`l` - [l] - Consonne alvéolaire spirante sonore
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Ce son se prononce comme le **/l/** en français, comme dans les mots **lumière** 
+ou **livre**.
 
-m
-"
+.. raw:: html
 
-n
-"
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Alveolar_lateral_approximant.ogg" type="audio/ogg">
+    </audio>
 
-w
-"
+m / arab|`m` - [m] - Consonne bi-labiale nasale sonore
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Ce son se prononce comme le **/m/** en français, comme dans les mots **montre** 
+ou **manteau**.
 
-y
-"
+.. raw:: html
 
-g
-"
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Bilabial_nasal.ogg" type="audio/ogg">
+    </audio>
 
-p
-"
+n / arab|`n` - [n] - Consonne alvéolaire nasale sonore
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Ce son se prononce comme le **/n/** en français, comme dans les mots **notre** 
+ou **niveau**.
 
-v
-"
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Alveolar_nasal.ogg" type="audio/ogg">
+    </audio>
+
+w / arab|`w` - [w] - Consonne vélaire spirante sonore
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Ce son se prononce comme le **/w/** en français, comme dans les mots **wasabi** 
+ou **web**.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Voiced_labio-velar_approximant.ogg" type="audio/ogg">
+    </audio>
+
+y / arab|`y` - [j] - Consonne post-alvéolaire spirante sonore
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Ce son se prononce comme le **/y/** en français, comme dans les mots **yaourt** 
+ou **youpi**.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Palatal_approximant.ogg" type="audio/ogg">
+    </audio>
+
+g / arab|`g` - [g] - Consonne vélaire occlusive sonore
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Ce son se prononce comme le **/g/** en français, comme dans les mots **garage** 
+ou **gueule**.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Voiced_velar_plosive_02.ogg" type="audio/ogg">
+    </audio>
+
+p / arab|`p` - [p] - Consonne bi-labiale occlusive sourde
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Ce son se prononce comme le **/p/** en français, comme dans les mots **port** 
+ou **papa**.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Voiceless_bilabial_plosive.ogg" type="audio/ogg">
+    </audio>
+
+v / arab|`v` - [v] - Consonne dento-labiale fricative sonore
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Ce son se prononce comme le **/v/** en français, comme dans les mots **valise** 
+ou **voiture**.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Voiced_labio-dental_fricative.ogg" type="audio/ogg">
+    </audio>
 
 Complexité 2
 ^^^^^^^^^^^^
 
-tun|`<th>` / tun|`<dh>`
-"""""""""""""""""""""""""
+tun|`<th>`
+""""""""""""
+
+tun|`<dh>`
+""""""""""""
 
 tun|`'`
 """""""""""
@@ -459,20 +526,32 @@ tun|`'`
 Complexité 3
 ^^^^^^^^^^^^
 
-x / tun|`<vr>`
-"""""""""""""""
+x
+"
 
-tun|`<hb>` / tun|`<ca>`
-"""""""""""""""""""""""
+tun|`<vr>`
+""""""""""""
+
+tun|`<hb>`
+""""""""""""
+
+tun|`<ca>`
+""""""""""
 
 h
-"
+"""
 
 Complexité 4
 ^^^^^^^^^^^^
 
-tun|`<cs>` / tun|`<cdh>` / tun|`<ct>`
-""""""""""""""""""""""""""""""""""""""
+tun|`<cs>` 
+""""""""""""
+
+tun|`<cdh>`
+""""""""""""
+
+tun|`<ct>`
+""""""""""""
 
 r
 "
