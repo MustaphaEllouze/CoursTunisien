@@ -513,15 +513,67 @@ ou **voiture**.
 
 Complexité 2
 ^^^^^^^^^^^^
+Pour ce niveau de complexité, les consonnes restent faciles à prononcer
+pour un francophone, mais ne sont pas présentes dans la langue française. Nous 
+allons donc voir des exemples dans d'autres langues dans lesquelles elles se 
+retrouvent.
 
-tun|`<th>`
-""""""""""""
+tun|`<th>` / arab|`<th>` - [θ] - Consonne dentale fricative sourde 
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Ce son se retrouve en **anglais** avec la retranscription **/th/**, comme dans 
+les mots **thorn** ou **thin**.
 
-tun|`<dh>`
-""""""""""""
+Afin de le prononcer correctement, il suffit de commencer à prononcer un **/s/** 
+tout en avançant la langue jusqu'à ce qu'elle touche la partie inférieure des 
+dents supérieures. Alternativement, il est aussi possible de coincer la langue 
+entre les deux rangées de dents.
 
-tun|`'`
-"""""""""""
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Voiceless_dental_fricative.ogg" type="audio/ogg">
+    </audio>
+
+tun|`<dh>`/ arab|`<dh>` - [ð] - Consonne dentale fricative sonore 
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+A l'instar de son alter ego sourd, ce son se retrouve également en **anglais**
+avec la retranscription **/th/**, comme dans les mots **this** ou **then**.
+
+Sa prononciation est très similaire à **/tun|`<th>`/** puisqu'il suffit de 
+prononcer ce dernier tout en sollicitant les cordes vocales. Pour ce faire, 
+il suffit d'appliquer la technique précédente en partant du son **/z/**.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Voiced_dental_fricative.ogg" type="audio/ogg">
+    </audio>
+
+tun|`'` / arab|`<A>` - [ʔ] - Consonne glottale occlusive sourde
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Ce son se retrouve en **anglais**, en tant que son central dans l'expression
+**uh-oh**, (cf. l'extrait audio suivant) :
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Uh-oh-pronunciation-audio.ogg.mp3" type="audio/mp3">
+    </audio>
+
+Il existe dans une moindre mesure en **français**, dans certaines prononciations
+désuettes du **h aspiré** en début de mot, c'est-à-dire les mots commençant par
+la lettre **h** et pour lesquels on ne fait pas la liaison. Ces mots sont pour
+leur quasi-intégralité des mots d'originie germanique, comme par exemple : *les
+haricots*, *les haies*, *hisser*. 
+
+Une autre manière de visualiser ce son consiste à étudier la différence entre 
+*les uns*, prononcé avec un **/z/**, et *les Huns*, prononcé sans.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Glottal_stop.ogg" type="audio/ogg">
+    </audio>
 
 Complexité 3
 ^^^^^^^^^^^^
@@ -532,14 +584,14 @@ x
 tun|`<vr>`
 """"""""""""
 
+h
+"""
+
 tun|`<hb>`
 """"""""""""
 
 tun|`<ca>`
 """"""""""
-
-h
-"""
 
 Complexité 4
 ^^^^^^^^^^^^
