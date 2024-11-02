@@ -400,6 +400,17 @@ ou **chute**.
       <source src="../../../_static/guide_assets/Voiceless_palato-alveolar_sibilant.ogg" type="audio/ogg">
     </audio>
 
+tun|`<vr>` / arab`<vr>` - Consonne uvulaire fricative sonore
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+Ce son se prononce comme le **/r/** en français, comme dans les mots **rein**
+ou **ruse**.
+
+.. raw:: html
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/.ogg" type="audio/ogg">
+    </audio>
+
 f / arab|`f` - [f] - Consonne labio-dentale fricative sourde
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
@@ -561,9 +572,9 @@ Ce son se retrouve en **anglais**, en tant que son central dans l'expression
     </audio>
 
 Il existe dans une moindre mesure en **français**, dans certaines prononciations
-désuettes du **h aspiré** en début de mot, c'est-à-dire les mots commençant par
+désuètes du **h aspiré** en début de mot, c'est-à-dire les mots commençant par
 la lettre **h** et pour lesquels on ne fait pas la liaison. Ces mots sont pour
-leur quasi-intégralité des mots d'originie germanique, comme par exemple : *les
+leur quasi-intégralité des mots d'origine germanique, comme par exemple : *les
 haricots*, *les haies*, *hisser*. 
 
 Une autre manière de visualiser ce son consiste à étudier la différence entre 
@@ -577,12 +588,28 @@ Une autre manière de visualiser ce son consiste à étudier la différence entr
 
 Complexité 3
 ^^^^^^^^^^^^
+Pour ce niveau de complexité, les consonnes sont plus difficiles à prononcer et 
+n'apparaissent pas nécessairement dans des langues que maîtrise un francophone,
+ou ne sont pas identifiées par un francophone comme étant un son à part entière.
 
-x
-"
+Cependant, il est possible de réussir à prononcer ces sons avec un travail 
+minimal de répétition.
 
-tun|`<vr>`
-""""""""""""
+tun|`x` / arab|`x` - [χ] - Consonne uvulaire fricative sourde
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Ce son se retrouve en quasiment en **espagnol** dans le son écrit **/j/**, 
+comme dans le mot *jardín*.
+
+Il s'agit de la version **sourde** du **/r/** *français*. Il est en réalité 
+également prononcé en français dans certains contextes un peu particulier, 
+notamment juste après une consonne occlusive sourde comme **[k]** ou **[t]**.
+Il s'agit par exemple du **/r/** dans **train** ou dans **cri**.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../../../_static/guide_assets/Voiceless_uvular_fricative.ogg" type="audio/ogg">
+    </audio>
 
 h
 """
