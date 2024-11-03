@@ -9,8 +9,9 @@ choses essentielles :
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
    :caption: Table des matières :
 
-   Prononciation/sons
+   Prononciation/inventaire_phonetique
    Prononciation/guide
    Transcription/transcription
