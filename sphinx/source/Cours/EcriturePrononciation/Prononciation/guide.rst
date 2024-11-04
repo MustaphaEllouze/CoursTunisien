@@ -598,7 +598,7 @@ prononcer ce dernier tout en sollicitant les cordes vocales. Pour ce faire,
 il suffit d'appliquer la technique précédente en partant du son **/z/**.
 
 
-tun|`'` / arab|`<A>` - [ʔ] - Consonne glottale occlusive sourde
+tun|`<A>` / arab|`<A>` - [ʔ] - Consonne glottale occlusive sourde
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne glottale occlusive sourde
 

@@ -22,36 +22,250 @@ début de ce chapitre.
 Récapitulatif
 -------------
 
-Principes retenus
------------------
+Ce cours propose deux transcriptions différentes : une transcription basée sur 
+le système d'écriture **latin**, et une transcription basée sur le système 
+d'écriture **arabe**, qu'on appellera respectivement par simplification 
+**transcription latine** et **transcription arabe**.
+
+Les principes retenus pour établir chacune des deux transcriptions ont été choisis
+avec le même but en tête : **faciliter** au maximum la lecture sans pour autant
+dérouter les personnes ayant l'habitude d'au moins un des deux systèmes de départ.
+
+La transcription est présentée dans l'ordre alphabétique de **l'abjad arabe**.
+
+Les voyelles en transcription arabe sont présentées seules et avec une lettre 
+support.
+
+.. list-table:: Transcriptions du cours - Consonnes
+    :header-rows: 1
+
+    * - Transcription phonétique
+      - Transcription latine
+      - Transcription arabe
+    
+    * - [ʔ]
+      - tun|`<A>`
+      - arab|`<A>`
+    
+    * - [b]
+      - tun|`b`
+      - arab|`b`
+
+    * - [t]
+      - tun|`t`
+      - arab|`t`
+
+    * - [θ]
+      - tun|`<th>`
+      - arab|`<th>`
+
+    * - [ʒ]
+      - tun|`j`
+      - arab|`j`
+
+    * - [ħ]
+      - tun|`<hb>`
+      - arab|`<hb>`
+
+    * - [χ]
+      - tun|`x`
+      - arab|`x`
+
+    * - [d]
+      - tun|`d`
+      - arab|`d`
+
+    * - [ð]
+      - tun|`<dh>`
+      - arab|`<dh>`
+
+    * - [ɾ]
+      - tun|`r`
+      - arab|`r`
+      
+    * - [z]
+      - tun|`z`
+      - arab|`z`
+      
+    * - [s]
+      - tun|`s`
+      - arab|`s`
+      
+    * - [ʃ]
+      - tun|`<vs>`
+      - arab|`<vs>`
+      
+    * - [sˤ]
+      - tun|`<cs>`
+      - arab|`<cs>`
+      
+    * - [ðˤ]
+      - tun|`<cdh>`
+      - arab|`<CDH> / <CDH2>`
+
+    * - [tˤ]
+      - tun|`<ct>`
+      - arab|`<ct>`
+
+    * - [ʕ]
+      - tun|`<ca>`
+      - arab|`<ca>` 
+
+    * - [ʁ]
+      - tun|`<vr>`
+      - arab|`<vr>`
+      
+    * - [f]
+      - tun|`f`
+      - arab|`f` 
+      
+    * - [q]
+      - tun|`q`
+      - arab|`q` 
+      
+    * - [k]
+      - tun|`k`
+      - arab|`k` 
+      
+    * - [l]
+      - tun|`l`
+      - arab|`l` 
+      
+    * - [m]
+      - tun|`m`
+      - arab|`m` 
+      
+    * - [n]
+      - tun|`n`
+      - arab|`n` 
+      
+    * - [ɦ]
+      - tun|`h`
+      - arab|`h` 
+      
+    * - [w]
+      - tun|`w`
+      - arab|`w`
+      
+    * - [j]
+      - tun|`y`
+      - arab|`y`
+      
+    * - [g]
+      - tun|`g`
+      - arab|`g`
+      
+    * - [p]
+      - tun|`p`
+      - arab|`p`
+    
+    * - [v]
+      - tun|`v`
+      - arab|`v` 
+
+.. list-table:: Transcriptions du cours - Voyelles
+    :header-rows: 1
+
+    * - Transcription phonétique
+      - Transcription latine
+      - Transcription arabe
+    
+    * - [a]
+      - tun|`a`
+      - arab|`ma`
+      
+    * - [ɪ]
+      - tun|`é`
+      - arab|`mé`
+      
+    * - [ɛ]
+      - tun|`è`
+      - arab|`mè`
+      
+    * - [ə]
+      - tun|`e`
+      - arab|`me`
+      
+    * - [i]
+      - tun|`i`
+      - arab|`mi`
+      
+    * - [ɔ]
+      - tun|`o`
+      - arab|`mo`
+      
+    * - [u]
+      - tun|`u`
+      - arab|`mu`
+
+    * - [ɑ̃]
+      - tun|`<va>`
+      - arab|`m<va>`
+
+    * - [ɛ̃]
+      - tun|`<vi>`
+      - arab|`m<vi>`
+    
+    * - [ɔ̃]
+      - tun|`<vo>`
+      - arab|`m<vo>`
+
+Transcription latine
+--------------------
+
+Principes
+~~~~~~~~~~
+En ce qui concerne la transcription **latine**, les principes généraux suivants 
+ont été retenus :
+
+* Le système d'écriture de base est celui du **français**, étant la langue du cours et la langue étrangère la plus parlée en Tunisie ;
+* Chaque son devra être associé à une lettre **unique**, et chaque lettre ne doit représenter qu'un seul son ;
+    
+    * *Corollaire* : Il n'y a **pas de combinaison** de lettres qui forme un autre son, comme **/c/** et **/h/** qui donnent **[ʃ]** en français.
+
+* Tant que faire se peut, les caractéristiques phonologiques **communes** doivent être représentées par des symboles proches ;
+    
+    * *Corollaire* : Les consonnes **emphatiques** sont représentées par une **cédille**.
+
+* Les sons *proches* doivent être identifiés par des symboles *proches* ;
+
+    * *Corollaire* : Plusieurs symboles portent une **diacritique** afin de les distinguer d'un son jugé *proche* (par exemple tun|`r` et tun|`<vr>`).
+
+* Les symboles choisis doivent être **facilement productibles** sur des claviers modernes.
+
+Consonnes et voyelles longues
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Choix des symboles latin non-français
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Transcription arabe
+-------------------
+
+Principes
+~~~~~~~~~~
+En ce qui concerne la transcription **arabe**, les principes suivants s'appliquent :
+
+* Le système d'écriture de base est celui de **l'arabe moderne standard**, avec certaines innovations issues des écrits qu'on retrouve en arabe *maghrébin* ;
+
+* La transcription être fidèle à la **prononciation** du tunisien, sauf dans de rare cas où on estime que l'étymologie d'un mot doit être représentée dans son orthographe ;
+
+* L'écriture de l'arabe moderne standard étant généralement **non-vocalisée**, la transcription du **tunisien** est également non-vocalisée tant que possible ;
+
+    * *Corollaire* : Cela permet à certains textes d'être lus en tunisien **et** en arabe moderne standard sans modification.
+
+* La transcription **vocalique** de l'arabe classique ne doit pas être enrichie de d'autres symboles par souci de simplicité ;
+
+* Les symboles pour les **doubles voyelles** (i.e. la *nunation* ou arab|`tnwyn`, absente en tunisien) sont recyclés pour transcrire les voyelles nasales.
+
+Vocalisation
+~~~~~~~~~~~~~~
+
+Le débat à avoir sur arab|`<cdh>` et arab|`<cdh2>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Place de la transcription latine et de la transcription arabe
 -------------------------------------------------------------
-
-Vocalisation de la transcription arabe
---------------------------------------
-
-Le débat à avoir sur arab|`<cdh>` et arab|`<cdh2>`
---------------------------------------------------
-
-Choix des symboles latin non-français
--------------------------------------
-
-.. \begin{itemize}
-..     \item Chaque son devra être représenté par un seul et unique symbole ou combinaison de symboles ;
-..     \item On doit limiter le nombre de son produits par une combinaison de plusieurs symboles (comme en français où \textbf{/o/} et \textbf{/i/} s'associent pour faire le son \textbf{[wa]}) ;
-..     \item On s'autorise à regrouper des sons qui seront représentés par le même symboles, du moment que le contexte phonétique permette de déduire le son que représente le symbole sans ambiguïté.
-.. \end{itemize}
-
-.. \begin{itemize}
-..     \item J'ai décidé de laisser la possibilité d'omettre le symbole pour le \textbf{coup de glotte [']}. Ce choix est motivé par le fait que les tunisophones ont de plus en plus tendance à l'omettre, que ce soit au début ou à la fin des mots. Je laisse donc la possibilité de le rajouter au milieu des mots, en lui affectant un symbole \footnote{En pratique, je vais essayer de le noter tant que faire se peut au cours de ce cours, notamment en début de mot, pour des raisons \textbf{grammaticale} et \textbf{étymologique}.};
-..     \item Tous les symboles des \textbf{consonnes emphatiques} portent une \textbf{cédille}. J'ai choisi ce système afin d'aider à la prononciation, et aider si besoin pour l'harmonie consonantique;
-..     \item La consonne [\textrevglotstop] se note aussi avec une \textbf{cédille}, en se servant d'un \textbf{/a/} comme support. J'ai préféré cette notation pour ne pas induire en erreur en proposant une lettre support qui était sans rapport. L'alphabet maltais a par exemple fait le choix de se servir d'un /g/ comme support;
-..     \item J'ai emprunté deux lettres à l'alphabet du moyen anglais : \textsc{thorn} "\textbf{\th}" et \textsc{eth} "\textbf{\dh}". Elles servaient à l'époque à marquer les mêmes sons, mais les symboles ont disparu avec l'importation de l'imprimerie depuis la France;
-..     \item J'ai marqué d'un diacritique les symboles pour \textbf{[\textesh]} et \textbf{[\textinvscr]}. On pourrait envisager deux symboles pour marquer ces sons-là, comme par exemple /sh/ et /gh/, mais il me semblait que ça porterait à confusion avec le son \textbf{[h]};
-..     \item J'ai mis la même diacritique pour les \textbf{voyelles nasales} : ce qui motive ce choix est que cette diacritique sert à noter une prononciation différente mais proche de la lettre support;
-..     \item Pour les autres \textbf{voyelles}, j'ai choisi un système qui soit intuitif pour les locuteurs francophones : la transcription correspond à peu de choses près à la prononciation qu'on aurait en français. La seule exception que je me suis autorisée est pour le son \textbf{[u]}, qui n'est marqué que d'un symbole plutôt que de deux en français (/ou/).
-.. \end{itemize}
 
 .. \subsection{Voyelles longues et consonnes géminées}
 .. En plus de la retranscription des sons, il faut parler du cas des voyelles longues et des consonnes géminées (les consonnes doublées).

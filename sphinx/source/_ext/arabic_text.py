@@ -148,6 +148,13 @@ class ArabSubs(SubsTextTransform):
         "!" : "!",
         "," : "،",
         "." : ".",
+        "a" : "َ",
+        "é" : "َ",
+        "è" : "َ",
+        "e" : "ِ",
+        "i" : "ِ",
+        "o" : "ُ",
+        "u" : "ُ",
     }
 
 class TunisianSubs(SubsTextTransform):
@@ -188,6 +195,9 @@ class TunisianSubs(SubsTextTransform):
         "<va>" : "ǎ",
         "<vo>" : "ǒ",
         "<vi>" : "ǐ",
+
+        "<A>" : "ʼ",
+        "<a>" : "ʼ",
     }
 
 # To qualify the file as an extension
