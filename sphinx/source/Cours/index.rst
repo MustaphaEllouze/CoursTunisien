@@ -3,6 +3,7 @@ Cours
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
    :caption: Table des matières :
 
-   EcriturePrononciation/index
+   01_PhrasesNominales

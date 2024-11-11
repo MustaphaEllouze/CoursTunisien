@@ -61,7 +61,7 @@ l'air est obstrué) et l'**organe articulatoire** (partie inférieure, l'organe 
 contraint l'air). La figure ci-dessous numérote l'ensemble des zones tel qu'on 
 peut le retrouver en **phonétique articulatoire**.
 
-.. image:: ../../../_static/guide_assets/Places_of_articulation.png
+.. image:: ../../_static/guide_assets/Places_of_articulation.png
    :scale: 50 %
    :align: center
 

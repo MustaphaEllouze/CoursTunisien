@@ -5,5 +5,6 @@ Méthode d'apprentissage du tunisien
    :maxdepth: 2
    :caption: Table des matières :
 
+   EcriturePrononciation/index
    Cours/index
    Exercices/index
