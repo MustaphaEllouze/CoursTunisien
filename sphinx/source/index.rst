@@ -8,3 +8,6 @@ Méthode d'apprentissage du tunisien
    EcriturePrononciation/index
    Cours/index
    Exercices/index
+   UnPeuDHistoire/index
+   Dictionnaire/index
+   Glossaire/index
