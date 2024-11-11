@@ -193,8 +193,13 @@ class TunisianSubs(SubsTextTransform):
         "<VR>" : "Ř",
 
         "<va>" : "ǎ",
+        "<VA>" : "Ǎ",
+
         "<vo>" : "ǒ",
+        "<VO>" : "Ǒ",
+        
         "<vi>" : "ǐ",
+        "<VI>" : "Ǐ",
 
         "<A>" : "ʼ",
         "<a>" : "ʼ",

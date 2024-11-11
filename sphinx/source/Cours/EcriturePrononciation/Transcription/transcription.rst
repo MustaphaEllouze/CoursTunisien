@@ -48,119 +48,119 @@ support.
       - arab|`<A>`
     
     * - [b]
-      - tun|`b`
+      - tun|`B` / tun|`b`
       - arab|`b`
 
     * - [t]
-      - tun|`t`
+      - tun|`T` / tun|`t`
       - arab|`t`
 
     * - [θ]
-      - tun|`<th>`
+      - tun|`<TH>` / tun|`<th>`
       - arab|`<th>`
 
     * - [ʒ]
-      - tun|`j`
+      - tun|`J` / tun|`j`
       - arab|`j`
 
     * - [ħ]
-      - tun|`<hb>`
+      - tun|`<HB>` / tun|`<hb>`
       - arab|`<hb>`
 
     * - [χ]
-      - tun|`x`
+      - tun|`X` / tun|`x`
       - arab|`x`
 
     * - [d]
-      - tun|`d`
+      - tun|`D` / tun|`d`
       - arab|`d`
 
     * - [ð]
-      - tun|`<dh>`
+      - tun|`<DH>` / tun|`<dh>`
       - arab|`<dh>`
 
     * - [ɾ]
-      - tun|`r`
+      - tun|`R` / tun|`r`
       - arab|`r`
       
     * - [z]
-      - tun|`z`
+      - tun|`Z` / tun|`z`
       - arab|`z`
       
     * - [s]
-      - tun|`s`
+      - tun|`S` / tun|`s`
       - arab|`s`
       
     * - [ʃ]
-      - tun|`<vs>`
+      - tun|`<VS>` / tun|`<vs>`
       - arab|`<vs>`
       
     * - [sˤ]
-      - tun|`<cs>`
+      - tun|`<CS>` / tun|`<cs>`
       - arab|`<cs>`
       
     * - [ðˤ]
-      - tun|`<cdh>`
+      - tun|`<CDH>` / tun|`<cdh>`
       - arab|`<CDH> / <CDH2>`
 
     * - [tˤ]
-      - tun|`<ct>`
+      - tun|`<CT>` / tun|`<ct>`
       - arab|`<ct>`
 
     * - [ʕ]
-      - tun|`<ca>`
+      - tun|`<CA>` / tun|`<ca>`
       - arab|`<ca>` 
 
     * - [ʁ]
-      - tun|`<vr>`
+      - tun|`<VR>` / tun|`<vr>`
       - arab|`<vr>`
       
     * - [f]
-      - tun|`f`
+      - tun|`F` / tun|`f`
       - arab|`f` 
       
     * - [q]
-      - tun|`q`
+      - tun|`Q` / tun|`q`
       - arab|`q` 
       
     * - [k]
-      - tun|`k`
+      - tun|`K` / tun|`k`
       - arab|`k` 
       
     * - [l]
-      - tun|`l`
+      - tun|`L` / tun|`l`
       - arab|`l` 
       
     * - [m]
-      - tun|`m`
+      - tun|`M` / tun|`m`
       - arab|`m` 
       
     * - [n]
-      - tun|`n`
+      - tun|`N` / tun|`n`
       - arab|`n` 
       
     * - [ɦ]
-      - tun|`h`
+      - tun|`H` / tun|`h`
       - arab|`h` 
       
     * - [w]
-      - tun|`w`
+      - tun|`W` / tun|`w`
       - arab|`w`
       
     * - [j]
-      - tun|`y`
+      - tun|`Y` / tun|`y`
       - arab|`y`
       
     * - [g]
-      - tun|`g`
+      - tun|`G` / tun|`g`
       - arab|`g`
       
     * - [p]
-      - tun|`p`
+      - tun|`P` / tun|`p`
       - arab|`p`
     
     * - [v]
-      - tun|`v`
+      - tun|`V` / tun|`v`
       - arab|`v` 
 
 .. list-table:: Transcriptions du cours - Voyelles
@@ -171,43 +171,43 @@ support.
       - Transcription arabe
     
     * - [a]
-      - tun|`a`
+      - tun|`A` / tun|`a`
       - arab|`ma`
       
     * - [ɪ]
-      - tun|`é`
+      - tun|`É` / tun|`é`
       - arab|`mé`
       
     * - [ɛ]
-      - tun|`è`
+      - tun|`È` / tun|`è`
       - arab|`mè`
       
     * - [ə]
-      - tun|`e`
+      - tun|`E` / tun|`e`
       - arab|`me`
       
     * - [i]
-      - tun|`i`
+      - tun|`I` / tun|`i`
       - arab|`mi`
       
     * - [ɔ]
-      - tun|`o`
+      - tun|`O` / tun|`o`
       - arab|`mo`
       
     * - [u]
-      - tun|`u`
+      - tun|`U` / tun|`u`
       - arab|`mu`
 
     * - [ɑ̃]
-      - tun|`<va>`
+      - tun|`<VA>` / tun|`<va>`
       - arab|`m<va>`
 
     * - [ɛ̃]
-      - tun|`<vi>`
+      - tun|`<VI>` / tun|`<vi>`
       - arab|`m<vi>`
     
     * - [ɔ̃]
-      - tun|`<vo>`
+      - tun|`<VO>` / tun|`<vo>`
       - arab|`m<vo>`
 
 Transcription latine
@@ -235,9 +235,39 @@ ont été retenus :
 
 Consonnes et voyelles longues
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+En plus de la transcription de chaque son indépendamment, le **tunisien** fait
+la distinction entre voyelle ou consonne **longue** et voyelle ou consonne 
+**courte**, et cette distinction peut porter un changement sémantique ou 
+grammatical :
 
-Choix des symboles latin non-français
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* **Voyelle longue** : 
+    * **[mut]** - *meurs* (seconde personne du singulier à l'impératif du verbe *mourir*) ; 
+    * **[mu:t]** - *la mort*.
+* **Consonne longue** :
+    * **[(m)baʕed]** - *après* ; 
+    * **[baʕʕed]** - *éloigne* (seconde personne du singulier à l'impératif du verbe *éloigner*).
+
+Afin de marquer la présence d'un son **long**, la transcription retenue propose
+de **doubler** le symbole concerné, en l’occurrence dans les cas donné ci-dessus :
+
+* **tun|`mut`** / **tun|`muut`** ; 
+* **tun|`ba<ca>ed`** / **tun|`ba<ca><ca>ed`**.
+
+Choix des symboles
+~~~~~~~~~~~~~~~~~~~
+On présente ici les principaux choix qui ont conduit à choisir l'ensemble des 
+symboles présentés ci-dessus. On ne couvre pas ici le cas des sons en français
+puisque dans le cas général, le symbole choisi est le même.
+
+* **/tun|`<th>`/** est un symbole qui existait en **ancien anglais** et qui existe toujours en **islandais**, qui sert à retranscrire le même son qu'ici, c'est-à-dire **[θ]** ;
+* **/tun|`<hb>`/** est un symbole qui est utilisé en **maltais** et dans **l'alphabet phonétique international** pour représenter le même son, soit **[ħ]**. **/h/** est donc gardé afin de représenter **[ɦ]**, comme en **anglais** ou dans certains écrits de tunisiens ;
+* **/tun|`x`/** est utilisé pour représenter **[χ]** de par sa proximité graphique, et car il peut être utilisé dans certaines langues, en conjonction à d'autres symboles, afin de représenter le même son ;
+* **/tun|`<dh>`/** est utilisé pour représenter **[ð]** de par sa proximité graphique (les majuscules sont identiques) et car **/ð/** ne possède pas de contrepartie avec une cédille ;
+* **/tun|`r`/** est battue et **/tun|`<vr>`/** correspond au son français car c'est le choix qui a été fait naturellement dans des *écrits SMS* (dans ces écritures, **/8/** sert à représenter **[ʁ]**) ;
+* **/tun|`<vs>`/** sert à représenter **[ʃ]** étant donnée la proximité de ce son avec **[s]**, le même symbole étant d'ailleurs utilisé identiquement dans les transcriptions des langues **balkaniques**, les langues **baltiques**, et de certaines langues d'Europe centrale ;
+* **/tun|`<ca>`/** utilise comme lettre support une voyelle car aucune autre consonne n'est prononcé dans le son **[ʕ]** (à comparer à **[sˤ]** retranscrivant **/tun|`<cs>`/** en se servant de *s* comme support) ;
+* **/tun|`q`/** est un symbole qui est utilisé en **maltais** et dans **l'alphabet phonétique international** pour représenter le même son, soit **[q]** ;
+* Les voyelles nasales **/tun|`<va>`/**, **/tun|`<vi>`/** et **/tun|`<vo>`/** utilisent un **caron** afin de pouvoir toujours êtres écrites avec un seul symbole et pour ne pas introduire de nouvelle diacritique.
 
 Transcription arabe
 -------------------
