@@ -291,6 +291,12 @@ En ce qui concerne la transcription **arabe**, les principes suivants s'applique
 Vocalisation
 ~~~~~~~~~~~~~~
 
+Orthographe et étymologie
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+La *hamza*
+~~~~~~~~~~
+
 Le débat à avoir sur arab|`<cdh>` et arab|`<cdh2>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
