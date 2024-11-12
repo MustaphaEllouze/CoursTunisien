@@ -1,4 +1,4 @@
-tun|`<CT>` - arab|`<ct>`
+tun|[<CT>] - arab|[<ct>]
 =========================
 
 .. glossary::

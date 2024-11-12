@@ -1,4 +1,4 @@
-tun|`Y` - arab|`y`
+tun|[Y] - arab|[y]
 =========================
 
 .. glossary::

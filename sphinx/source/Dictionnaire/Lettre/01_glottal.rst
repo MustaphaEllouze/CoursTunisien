@@ -1,11 +1,11 @@
-tun|`'` - arab|`<A>`
+tun|['] - arab|[<A>]
 ====================
 
 .. glossary::
 
-    tun|`azraq` - arab|`<A>zrq`
+    tun|[azraq] - arab|[<A>zrq]
         *adj.* - bleu
 
-    tun|`esm` - arab|`<I>sm`
+    tun|[esm] - arab|[<I>sm]
         *n.m.* - nom, prénom
     

@@ -1,4 +1,4 @@
-tun|`<CA>` - arab|`<ca>`
+tun|[<CA>] - arab|[<ca>]
 =========================
 
 .. glossary::

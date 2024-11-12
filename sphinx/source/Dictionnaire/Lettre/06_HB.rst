@@ -1,4 +1,4 @@
-tun|`<HB>` - arab|`<hb>`
+tun|[<HB>] - arab|[<hb>]
 =========================
 
 .. glossary::

@@ -1,7 +1,7 @@
-tun|`S` - arab|`s`
+tun|[S] - arab|[s]
 =========================
 
 .. glossary::
 
-    tun|`smèè` - arab|`sm'<->`
+    tun|[smèè] - arab|[sm'<->]
         *n.f.* - ciel

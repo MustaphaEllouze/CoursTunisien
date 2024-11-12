@@ -9,7 +9,7 @@ class SubsTextTransform(SphinxTransform):
     default_priority = 500  # Runs at a typical priority level
 
     # The pattern that matches the command 
-    pattern = re.compile(r'command\|`([^`]+)`')
+    pattern = re.compile(r'command\|\[(.*?)\]')
 
     # Matching dictionnary
     matching_dict_priority_0 = {}
@@ -67,7 +67,7 @@ class ArabSubs(SubsTextTransform):
     """Defines a Transform that substitues latin characters by arab ones"""
 
     # The pattern that matches the command 
-    pattern = re.compile(r'arab\|`([^`]+)`')
+    pattern = re.compile(r'arab\|\[(.*?)\]')
 
     # Matching dictionnary
     matching_dict_priority_0 = {
@@ -163,7 +163,7 @@ class TunisianSubs(SubsTextTransform):
     """Defines a Transform that substitues latin characters by tunisian ones"""
 
     # The pattern that matches the command 
-    pattern = re.compile(r'tun\|`([^`]+)`')
+    pattern = re.compile(r'tun\|\[(.*?)\]')
 
     # Matching dictionnary
     matching_dict_priority_0 = {

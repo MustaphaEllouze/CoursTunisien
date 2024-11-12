@@ -79,47 +79,47 @@ Ne sont donc présentés ci-dessous que les points d'articulation qu'on y retrou
     * - Bi-labial
       - 2
       - 2
-      - arab|`m` /m/
+      - arab|[m] /m/
       
     * - Labio-dental
       - 3
       - 2
-      - arab|`f` /f/
+      - arab|[f] /f/
 
     * - Dental
       - 3
       - 17
-      - arab|`<th>` /tun|`<th>`/
+      - arab|[<th>] /tun|[<th>]/
 
     * - Alvéolaire
       - 4
       - 17
-      - arab|`t` /t/
+      - arab|[t] /t/
     
     * - Post-alvéolaire
       - 5
       - 17
-      - arab|`<vs>` /tun|`<vs>`/
+      - arab|[<vs>] /tun|[<vs>]/
       
     * - Vélaire
       - 8
       - 14
-      - arab|`k` /k/
+      - arab|[k] /k/
       
     * - Uvulaire
       - 9
       - 14
-      - arab|`q` /q/
+      - arab|[q] /q/
       
     * - Pharyngal
       - 10
       - 13
-      - arab|`<ca>` /tun|`<ca>`/
+      - arab|[<ca>] /tun|[<ca>]/
 
     * - Glottal
       - 11
       - 11
-      - arab|`<A>` /'/
+      - arab|[<A>] /'/
 
 Mode d'articulation
 ^^^^^^^^^^^^^^^^^^^
@@ -141,23 +141,23 @@ ci-dessous présente les **modes** que l'on retrouve dans ce dernier.
     
     * - Consonne nasale
       - Passage de l'air dans le canal nasal
-      - arab|`m` /m/
+      - arab|[m] /m/
       
     * - Consonne occlusive
       - Blocage complet de l'air **avec** accumulation de pression
-      - arab|`t` /t/
+      - arab|[t] /t/
 
     * - Consonne battue
       - Blocage complet de l'air **sans** accumulation de pression
-      - arab|`r` /r/
+      - arab|[r] /r/
 
     * - Consonne fricative
       - Resserrement des organes d'articulation sans blocage complet d'air **avec** bruit de friction
-      - arab|`s` /s/
+      - arab|[s] /s/
       
     * - Consonne spirante
       - Resserrement des organes d'articulation sans blocage complet d'air **sans** bruit de friction
-      - arab|`y` /y/
+      - arab|[y] /y/
 
 Consonne emphatique
 ^^^^^^^^^^^^^^^^^^^
@@ -319,7 +319,7 @@ Pour ce niveau de complexité, les consonnes sont relativement faciles à pronon
 pour un francophone. Nous allons donc nous contenter de donner des exemples de 
 mots français dans lesquels elles se retrouvent.
 
-b / arab|`b` - [b] - Consonne bi-labiale occlusive sonore
+b / arab|[b] - [b] - Consonne bi-labiale occlusive sonore
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 .. rubric:: Consonne bi-labiale occlusive sonore
@@ -333,7 +333,7 @@ b / arab|`b` - [b] - Consonne bi-labiale occlusive sonore
 Ce son se prononce comme le **/b/** en français, comme dans les mots **bébé** 
 ou **bateau**.
 
-t / arab|`t` - [t] - Consonne alvéolaire occlusive sourde
+t / arab|[t] - [t] - Consonne alvéolaire occlusive sourde
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne alvéolaire occlusive sourde
 
@@ -346,7 +346,7 @@ t / arab|`t` - [t] - Consonne alvéolaire occlusive sourde
 Ce son se prononce comme le **/t/** en français, comme dans les mots **tuyau**
 ou **table**.
 
-j / arab|`j` - [ʒ] - Consonne post-alvéolaire fricative sonore
+j / arab|[j] - [ʒ] - Consonne post-alvéolaire fricative sonore
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne post-alvéolaire fricative sonore
 
@@ -360,7 +360,7 @@ Ce son se prononce come le **/j/** en français, comme dans les mots **jeu** et
 **girouette**.
 
 
-d / arab|`d` - [d] - Consonne alvéolaire occlusive sonore
+d / arab|[d] - [d] - Consonne alvéolaire occlusive sonore
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne alvéolaire occlusive sonore
 
@@ -373,7 +373,7 @@ d / arab|`d` - [d] - Consonne alvéolaire occlusive sonore
 Ce son se prononce comme le **/d/** en français, comme dans les mots **décoration**
 ou **diminuer**.
 
-z / arab|`z` - [z] - Consonne alvéolaire fricative sonore
+z / arab|[z] - [z] - Consonne alvéolaire fricative sonore
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne alvéolaire fricative sonore
 
@@ -386,7 +386,7 @@ z / arab|`z` - [z] - Consonne alvéolaire fricative sonore
 Ce son se prononce comme le **/z/** en français, comme dans les mots 
 **zèbre** ou **zoo**.
 
-s / arab|`s` - [s] - Consonne alvéolaire fricative sourde
+s / arab|[s] - [s] - Consonne alvéolaire fricative sourde
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne alvéolaire fricative sourde
 
@@ -399,7 +399,7 @@ s / arab|`s` - [s] - Consonne alvéolaire fricative sourde
 Ce son se prononce comme le **/s/** en français, comme dans les mots 
 **sauter** ou **salade**.
 
-tun|`<vs>` / arab|`<vs>` - [ʃ] - Consonne post-alvéolaire fricative sourde
+tun|[<vs>] / arab|[<vs>] - [ʃ] - Consonne post-alvéolaire fricative sourde
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne post-alvéolaire fricative sourde
 
@@ -412,7 +412,7 @@ tun|`<vs>` / arab|`<vs>` - [ʃ] - Consonne post-alvéolaire fricative sourde
 Ce son se prononce comme le **/ch/** en français, comme dans les mots **cheval**
 ou **chute**.
 
-tun|`<vr>` / arab|`<vr>` - Consonne uvulaire fricative sonore
+tun|[<vr>] / arab|[<vr>] - Consonne uvulaire fricative sonore
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne uvulaire fricative sonore
 
@@ -425,7 +425,7 @@ tun|`<vr>` / arab|`<vr>` - Consonne uvulaire fricative sonore
 Ce son se prononce comme le **/r/** en français, comme dans les mots **rein**
 ou **ruse**.
 
-f / arab|`f` - [f] - Consonne labio-dentale fricative sourde
+f / arab|[f] - [f] - Consonne labio-dentale fricative sourde
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne labio-dentale fricative sourde
 
@@ -438,7 +438,7 @@ f / arab|`f` - [f] - Consonne labio-dentale fricative sourde
 Ce son se prononce comme le **/f/** en français, comme dans les mots **faire** 
 ou **foin**.
 
-k / arab|`k` - [k] - Consonne vélaire occlusive sourde
+k / arab|[k] - [k] - Consonne vélaire occlusive sourde
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne vélaire occlusive sourde
 
@@ -451,7 +451,7 @@ k / arab|`k` - [k] - Consonne vélaire occlusive sourde
 Ce son se prononce comme le **/k/** en français, comme dans les mots **camion** 
 ou **kiwi**.
 
-l / arab|`l` - [l] - Consonne alvéolaire spirante sonore
+l / arab|[l] - [l] - Consonne alvéolaire spirante sonore
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne alvéolaire spirante sonore
 
@@ -464,7 +464,7 @@ l / arab|`l` - [l] - Consonne alvéolaire spirante sonore
 Ce son se prononce comme le **/l/** en français, comme dans les mots **lumière** 
 ou **livre**.
 
-m / arab|`m` - [m] - Consonne bi-labiale nasale sonore
+m / arab|[m] - [m] - Consonne bi-labiale nasale sonore
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne bi-labiale nasale sonore
 
@@ -477,7 +477,7 @@ m / arab|`m` - [m] - Consonne bi-labiale nasale sonore
 Ce son se prononce comme le **/m/** en français, comme dans les mots **montre** 
 ou **manteau**.
 
-n / arab|`n` - [n] - Consonne alvéolaire nasale sonore
+n / arab|[n] - [n] - Consonne alvéolaire nasale sonore
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne alvéolaire nasale sonore
 
@@ -490,7 +490,7 @@ n / arab|`n` - [n] - Consonne alvéolaire nasale sonore
 Ce son se prononce comme le **/n/** en français, comme dans les mots **notre** 
 ou **niveau**.
 
-w / arab|`w` - [w] - Consonne vélaire spirante sonore
+w / arab|[w] - [w] - Consonne vélaire spirante sonore
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne vélaire spirante sonore
 
@@ -503,7 +503,7 @@ w / arab|`w` - [w] - Consonne vélaire spirante sonore
 Ce son se prononce comme le **/w/** en français, comme dans les mots **wasabi** 
 ou **web**.
 
-y / arab|`y` - [j] - Consonne post-alvéolaire spirante sonore
+y / arab|[y] - [j] - Consonne post-alvéolaire spirante sonore
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne post-alvéolaire spirante sonore
 
@@ -516,7 +516,7 @@ y / arab|`y` - [j] - Consonne post-alvéolaire spirante sonore
 Ce son se prononce comme le **/y/** en français, comme dans les mots **yaourt** 
 ou **yo-yo**.
 
-g / arab|`g` - [g] - Consonne vélaire occlusive sonore
+g / arab|[g] - [g] - Consonne vélaire occlusive sonore
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne vélaire occlusive sonore
 
@@ -529,7 +529,7 @@ g / arab|`g` - [g] - Consonne vélaire occlusive sonore
 Ce son se prononce comme le **/g/** en français, comme dans les mots **garage** 
 ou **gueule**.
 
-p / arab|`p` - [p] - Consonne bi-labiale occlusive sourde
+p / arab|[p] - [p] - Consonne bi-labiale occlusive sourde
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne bi-labiale occlusive sourde
 
@@ -542,7 +542,7 @@ p / arab|`p` - [p] - Consonne bi-labiale occlusive sourde
 Ce son se prononce comme le **/p/** en français, comme dans les mots **port** 
 ou **papa**.
 
-v / arab|`v` - [v] - Consonne dento-labiale fricative sonore
+v / arab|[v] - [v] - Consonne dento-labiale fricative sonore
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne dento-labiale fricative sonore
 
@@ -562,7 +562,7 @@ pour un francophone, mais ne sont pas présentes dans la langue française. Nous
 allons donc voir des exemples dans d'autres langues dans lesquelles elles se 
 retrouvent.
 
-tun|`<th>` / arab|`<th>` - [θ] - Consonne dentale fricative sourde 
+tun|[<th>] / arab|[<th>] - [θ] - Consonne dentale fricative sourde 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne dentale fricative sourde 
 
@@ -580,7 +580,7 @@ tout en avançant la langue jusqu'à ce qu'elle touche la partie inférieure des
 dents supérieures. Alternativement, il est aussi possible de coincer la langue 
 entre les deux rangées de dents.
 
-tun|`<dh>`/ arab|`<dh>` - [ð] - Consonne dentale fricative sonore 
+tun|[<dh>]/ arab|[<dh>] - [ð] - Consonne dentale fricative sonore 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne dentale fricative sonore 
 
@@ -593,12 +593,12 @@ tun|`<dh>`/ arab|`<dh>` - [ð] - Consonne dentale fricative sonore
 A l'instar de son alter ego sourd, ce son se retrouve également en **anglais**
 avec la retranscription **/th/**, comme dans les mots **this** ou **then**.
 
-Sa prononciation est très similaire à **/tun|`<th>`/** puisqu'il suffit de 
+Sa prononciation est très similaire à **/tun|[<th>]/** puisqu'il suffit de 
 prononcer ce dernier tout en sollicitant les cordes vocales. Pour ce faire, 
 il suffit d'appliquer la technique précédente en partant du son **/z/**.
 
 
-tun|`<A>` / arab|`<A>` - [ʔ] - Consonne glottale occlusive sourde
+tun|[<A>] / arab|[<A>] - [ʔ] - Consonne glottale occlusive sourde
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne glottale occlusive sourde
 
@@ -628,7 +628,7 @@ haricots*, *les haies*, *hisser*.
 Une autre manière de visualiser ce son consiste à étudier la différence entre 
 *les uns*, prononcé avec un **/z/**, et *les Huns*, prononcé sans.
 
-tun|`x` / arab|`x` - [χ] - Consonne uvulaire fricative sourde
+tun|[x] / arab|[x] - [χ] - Consonne uvulaire fricative sourde
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne uvulaire fricative sourde
 
@@ -647,7 +647,7 @@ notamment juste après une consonne occlusive sourde comme **[k]** ou **[t]**.
 Il s'agit par exemple du **/r/** dans **train** ou dans **cri**.
 
 
-tun|`h` / arab|`h` - [ɦ] - Consonne glottale fricative sourde
+tun|[h] / arab|[h] - [ɦ] - Consonne glottale fricative sourde
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne glottale fricative sourde
 
@@ -673,7 +673,7 @@ n'apparaissent pas dans des langues que maîtrise un francophone.
 Cependant, il est possible de réussir à prononcer ces sons avec un travail 
 minimal de répétition.
 
-tun|`<hb>` / arab|`<hb>` - [ħ] - Consonne pharyngale fricative sourde
+tun|[<hb>] / arab|[<hb>] - [ħ] - Consonne pharyngale fricative sourde
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne pharyngale fricative sonore
 
@@ -691,7 +691,7 @@ son haleine**.
 Il s'agit bien d'une consonne sourde (les cordes vocales ne sont pas sollicitées)
 et qu'il ne faut pas confondre avec le **/h/ anglais**.
 
-tun|`<ca>` / arab|`<ca>` - [ʕ] - Consonne pharyngale fricative sonore
+tun|[<ca>] / arab|[<ca>] - [ʕ] - Consonne pharyngale fricative sonore
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne pharyngale fricative sonore
 
@@ -701,7 +701,7 @@ tun|`<ca>` / arab|`<ca>` - [ʕ] - Consonne pharyngale fricative sonore
       <source src="../../../_static/guide_assets/Voiced_pharyngeal_fricative.ogg" type="audio/ogg">
     </audio>
 
-Ce son correspond à la version **sonore** de tun|`<hb>` / arab|`<hb>`, et il 
+Ce son correspond à la version **sonore** de tun|[<hb>] / arab|[<hb>], et il 
 suffit donc d'appliquer la même technique en sollicitant les **cordes vocales**.
 
 Complexité 4
@@ -710,7 +710,7 @@ Dans ce niveau de complexité, se trouvent les consonnes les plus difficiles à
 prononcer pour une personne francophone. Elles nécessiteront sans doute plus
 d'entraînement pour réussir à les prononcer d'une manière correcte.  
 
-tun|`r` / arab|`r` - [ɾ] - Consonne alvéolaire battue sonore
+tun|[r] / arab|[r] - [ɾ] - Consonne alvéolaire battue sonore
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne alvéolaire battue sonore
 
@@ -740,7 +740,7 @@ d'entre eux :
 * Pour **[ɾ]**, l'air circule exclusivement par le centre (c'est ce qui donne *l'énergie* nécessaire pour rendre la consonne *battue*).
 
 
-tun|`<cs>` / arab|`<cs>` - [sˤ] - Consonne alvéolaire fricative sourde emphatique
+tun|[<cs>] / arab|[<cs>] - [sˤ] - Consonne alvéolaire fricative sourde emphatique
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne alvéolaire fricative sourde emphatique
 
@@ -753,7 +753,7 @@ tun|`<cs>` / arab|`<cs>` - [sˤ] - Consonne alvéolaire fricative sourde emphati
 Parmi les consonnes et les sons les plus typiques des langues arabes se retrouvent
 les consonnes emphatiques, qui sont *historiquement* une réalisation simultanée
 d'une autre consonne et de la **consonne pharyngale fricative sonore**, le 
-tun|`<ca>` / arab|`<ca>`. Ces consonnes ressemblent fortement à la consonne 
+tun|[<ca>] / arab|[<ca>]. Ces consonnes ressemblent fortement à la consonne 
 d'origine, à l'exception près que le son semble plus sombre, lourd et profond.
 
 Cette prononciation secondaire conjointe au **[s]** s'obtient très bien en 
@@ -773,7 +773,7 @@ prononciation très similaire à celle du mot *ça* en québecois.
       <source src="../../../_static/guide_assets/Open_back_unrounded_vowel.ogg" type="audio/ogg">
     </audio>
 
-tun|`<cdh>` / arab|`<cdh2>` / arab|`<cdh>` - [ðˤ] - Consonne dentale fricative sonore emphatique
+tun|[<cdh>] / arab|[<cdh2>] / arab|[<cdh>] - [ðˤ] - Consonne dentale fricative sonore emphatique
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne dentale fricative sonore emphatique
 
@@ -784,9 +784,9 @@ tun|`<cdh>` / arab|`<cdh2>` / arab|`<cdh>` - [ðˤ] - Consonne dentale fricative
     </audio>
 
 Le son **[ðˤ]** s'obtient de façon analogue à **[sˤ]**, en remplaçant le 
-**/s/** par un **/tun|`<dh>`/**.
+**/s/** par un **/tun|[<dh>]/**.
 
-tun|`<ct>` / arab|`<ct>` - [tˤ] -  Consonne alvéolaire occlusive sourde emphatique
+tun|[<ct>] / arab|[<ct>] - [tˤ] -  Consonne alvéolaire occlusive sourde emphatique
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne alvéolaire occlusive sourde emphatique
 
@@ -799,7 +799,7 @@ tun|`<ct>` / arab|`<ct>` - [tˤ] -  Consonne alvéolaire occlusive sourde emphat
 Le son **[tˤ]** s'obtient de façon analogue à **[sˤ]**, en remplaçant le 
 **/s/** par un **/t/**.
 
-tun|`q` / arab|`q` - [q] - Consonne uvulaire occlusive sourde
+tun|[q] / arab|[q] - [q] - Consonne uvulaire occlusive sourde
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. rubric:: Consonne uvulaire occlusive sourde
 
@@ -838,7 +838,7 @@ langue française, nous n'allons pas nous attarder sur les techniques de
 prononciation précises, mais donner des exemples de mots d'origine française 
 incluant ces voyelles.
 
-tun|`i` - [i] - Voyelle antérieure fermée non-arrondie
+tun|[i] - [i] - Voyelle antérieure fermée non-arrondie
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. rubric:: Voyelle antérieure fermée non-arrondie
 
@@ -850,7 +850,7 @@ tun|`i` - [i] - Voyelle antérieure fermée non-arrondie
 
 Ce son se prononce comme le **/i/** en français, comme dans le mot *fil* **[fil]**.
 
-tun|`è` - [ɛ] - Voyelle antérieure mi-ouverte non-arrondie
+tun|[è] - [ɛ] - Voyelle antérieure mi-ouverte non-arrondie
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. rubric:: Voyelle antérieure mi-ouverte non-arrondie
     
@@ -862,7 +862,7 @@ tun|`è` - [ɛ] - Voyelle antérieure mi-ouverte non-arrondie
 
 Ce son se prononce comme le **/è/** en français, comme dans le mot *faire* **[fɛʁ]**.
 
-tun|`a` - [a] - Voyelle antérieure ouverte non-arrondie
+tun|[a] - [a] - Voyelle antérieure ouverte non-arrondie
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. rubric:: Voyelle antérieure ouverte non-arrondie
     
@@ -874,7 +874,7 @@ tun|`a` - [a] - Voyelle antérieure ouverte non-arrondie
 
 Ce son se prononce comme le **/a/** en français, comme dans le mot *favori* **[favɔʁi]**.
 
-tun|`é` - [ɪ] - Voyelle quasi-antérieure pré-fermée non-arrondie
+tun|[é] - [ɪ] - Voyelle quasi-antérieure pré-fermée non-arrondie
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. rubric:: Voyelle quasi-antérieure pré-fermée non-arrondie
     
@@ -887,7 +887,7 @@ tun|`é` - [ɪ] - Voyelle quasi-antérieure pré-fermée non-arrondie
 Ce son se prononce quasiment comme le **/é/** français, et se retrouve par 
 exemple dans le mot *six* **[sɪs]** en français **canadien**.
 
-tun|`e` - [ə] - Voyelle centrale moyenne non-arrondie
+tun|[e] - [ə] - Voyelle centrale moyenne non-arrondie
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. rubric:: Voyelle centrale moyenne non-arrondie
     
@@ -899,7 +899,7 @@ tun|`e` - [ə] - Voyelle centrale moyenne non-arrondie
 
 Ce son se prononce comme le **/e/** en français, comme dans le mot *feu* **[fə]**.
 
-tun|`u` - [u] - Voyelle postérieure fermée arrondie
+tun|[u] - [u] - Voyelle postérieure fermée arrondie
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. rubric:: Voyelle postérieure fermée arrondie
     
@@ -911,7 +911,7 @@ tun|`u` - [u] - Voyelle postérieure fermée arrondie
 
 Ce son se prononce comme le **/ou/** en français, comme dans le mot *fou* **[fu]**.
 
-tun|`o` - [ɔ] - Voyelle postérieure mi-ouverte arrondie
+tun|[o] - [ɔ] - Voyelle postérieure mi-ouverte arrondie
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. rubric:: Voyelle postérieure mi-ouverte arrondie
     
@@ -923,7 +923,7 @@ tun|`o` - [ɔ] - Voyelle postérieure mi-ouverte arrondie
 
 Ce son se prononce comme le **/o/** en français, comme dans le mot *folie* **[fɔli]**.
 
-tun|`<vi>` - [ɛ̃] - Voyelle antérieure mi-ouverte non-arrondie nasalisée
+tun|[<vi>] - [ɛ̃] - Voyelle antérieure mi-ouverte non-arrondie nasalisée
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. rubric:: Voyelle antérieure mi-ouverte non-arrondie nasalisée
     
@@ -935,7 +935,7 @@ tun|`<vi>` - [ɛ̃] - Voyelle antérieure mi-ouverte non-arrondie nasalisée
 
 Ce son se prononce comme le **/in/** en français, comme dans le mot *fin* **[fɛ̃]**.
 
-tun|`<vo>` - [ɔ̃] - Voyelle postérieure mi-ouverte arrondie nasalisée
+tun|[<vo>] - [ɔ̃] - Voyelle postérieure mi-ouverte arrondie nasalisée
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. rubric:: Voyelle postérieure mi-ouverte arrondie nasalisée
     
@@ -947,7 +947,7 @@ tun|`<vo>` - [ɔ̃] - Voyelle postérieure mi-ouverte arrondie nasalisée
 
 Ce son se prononce comme le **/on/** en français, comme dans le mot *font* **[fɔ̃]**.
 
-tun|`<va>` - [ɑ̃] - Voyelle postérieure ouverte non-arrondie nasalisée
+tun|[<va>] - [ɑ̃] - Voyelle postérieure ouverte non-arrondie nasalisée
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. rubric:: Voyelle postérieure ouverte non-arrondie nasalisée
     

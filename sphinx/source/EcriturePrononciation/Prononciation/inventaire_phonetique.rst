@@ -55,137 +55,137 @@ passées de l'arabe au tunisien. J'y liste plusieurs informations :
       - Romanisation
       - Transcription du cours
     
-    * - arab|`<A>`
+    * - arab|[<A>]
       - [ʔ]
       - **ʼ** ou omise
       - **ʼ** (omise en début de mot)
     
-    * - arab|`b`
+    * - arab|[b]
       - [b]
       - b
       - B / b
 
-    * - arab|`t`
+    * - arab|[t]
       - [t]
       - t
       - T / t
 
-    * - arab|`<th>`
+    * - arab|[<th>]
       - [θ]
       - th
-      - tun|`<TH> / <th>`
+      - tun|[<TH> / <th>]
 
-    * - arab|`j`
+    * - arab|[j]
       - [ʒ]
       - j
       - J / j
 
-    * - arab|`<hb>`
+    * - arab|[<hb>]
       - [ħ]
       - h / 7
-      - tun|`<HB> / <hb>`
+      - tun|[<HB> / <hb>]
 
-    * - arab|`x`
+    * - arab|[x]
       - [χ]
       - kh / 5
       - X / x
 
-    * - arab|`d`
+    * - arab|[d]
       - [d]
       - d
       - D / d
 
-    * - arab|`<dh>`
+    * - arab|[<dh>]
       - [ð]
       - dh / 4
-      - tun|`<DH> / <dh>`
+      - tun|[<DH> / <dh>]
 
-    * - arab|`r`
+    * - arab|[r]
       - [ɾ]
       - r
       - R / r
       
-    * - arab|`z`
+    * - arab|[z]
       - [z]
       - z
       - Z / z
       
-    * - arab|`s`
+    * - arab|[s]
       - [s]
       - s
       - S / s
       
-    * - arab|`<vs>`
+    * - arab|[<vs>]
       - [ʃ]
       - ch / sh
-      - tun|`<VS> / <vs>`
+      - tun|[<VS> / <vs>]
       
-    * - arab|`<cs>`
+    * - arab|[<cs>]
       - [sˤ]
       - s 
-      - tun|`<CS> / <cs>`
+      - tun|[<CS> / <cs>]
       
-    * - arab|`<CDH> / <CDH2>`
+    * - arab|[<CDH> / <CDH2>]
       - [ðˤ]
       - dh / 4 
-      - tun|`<CDH> / <cdh>`
+      - tun|[<CDH> / <cdh>]
 
-    * - arab|`<ct>`
+    * - arab|[<ct>]
       - [tˤ]
       - t
-      - tun|`<CT> / <ct>`
+      - tun|[<CT> / <ct>]
 
-    * - arab|`<ca>`
+    * - arab|[<ca>]
       - [ʕ]
       - aa / â / 3 
-      - tun|`<CA> / <ca>`
+      - tun|[<CA> / <ca>]
 
-    * - arab|`<vr>`
+    * - arab|[<vr>]
       - [ʁ]
       - r
-      - tun|`<VR> / <vr>` 
+      - tun|[<VR> / <vr>] 
       
-    * - arab|`f`
+    * - arab|[f]
       - [f]
       - f
       - F / f 
       
-    * - arab|`q`
+    * - arab|[q]
       - [q]
       - k / 9
       - Q / q 
       
-    * - arab|`k`
+    * - arab|[k]
       - [k]
       - c / k 
       - K / k 
       
-    * - arab|`l`
+    * - arab|[l]
       - [l]
       - l
       - L / l 
       
-    * - arab|`m`
+    * - arab|[m]
       - [m]
       - m
       - M / m 
       
-    * - arab|`n`
+    * - arab|[n]
       - [n]
       - n
       - N / n 
       
-    * - arab|`h`
+    * - arab|[h]
       - [ɦ]
       - h
       - H / h 
       
-    * - arab|`w`
+    * - arab|[w]
       - [w]
       - w
       - W / w 
       
-    * - arab|`y`
+    * - arab|[y]
       - [j]
       - y
       - Y / y 
@@ -194,7 +194,7 @@ Consonne ayant évolué depuis l'arabe
 ------------------------------------
 
 Il existe également **une** consonne qui a évolué depuis l'arabe depuis la 
-consonne **arab|`q` [q]**.
+consonne **arab|[q] [q]**.
 
 .. list-table:: Consonne ayant évolué depuis l'arabe en tunisien
     :header-rows: 1
@@ -204,16 +204,16 @@ consonne **arab|`q` [q]**.
       - Romanisation
       - Transcription du cours
     
-    * - arab|`g`
+    * - arab|[g]
       - [g]
       - g
       - G / g
 
 Le phonème **[g]** apparaît dans plusieurs mots d'origine arabe, comme 
-**digla** (arab|`dgl@`, *datte*) par exemple. Sa prononciation est similaire au 
+**digla** (arab|[dgl@], *datte*) par exemple. Sa prononciation est similaire au 
 son **/g/** qu'on peut retrouver en français dans les mots *garage* ou 
 *gueule* [#]_ . Dans plusieurs transcriptions (dont celle de ce cours), on pourra 
-retrouver l'écriture arab|`g`.  
+retrouver l'écriture arab|[g].  
 
 Consonnes d'origine étrangère
 -----------------------------
@@ -234,12 +234,12 @@ Ces deux consonnes servent uniquement à prononcer des mots importés :
       - Romanisation
       - Transcription du cours
     
-    * - arab|`p`
+    * - arab|[p]
       - [p]
       - p
       - P / p
     
-    * - arab|`v`
+    * - arab|[v]
       - [v]
       - v
       - V / v
@@ -285,44 +285,44 @@ question.
     * - [a]
       - a
       - **a**\ ller / tr\ **a**\ p
-      - arab|`qrn`
-      - tun|`qarn`
+      - arab|[qrn]
+      - tun|[qarn]
 
     * - [ɛ]
       - è
       - c\ **è**\ pe / b\ **e**\ d
-      - arab|`<A><ca>l'<vs>`
-      - tun|`a<ca>lèè<vs>`
+      - arab|[<A><ca>l'<vs>]
+      - tun|[a<ca>lèè<vs>]
 
     * - [ɪ]
       - é
       - m\ **é**\ chant / (a) b\ **i**\ t
-      - arab|`m't`
-      - tun|`méét`
+      - arab|[m't]
+      - tun|[méét]
       
     * - [ɔ]
       - o
       - s\ **o**\ rtir / n\ **o**\ t
-      - arab|`mx`
-      - tun|`mox`
+      - arab|[mx]
+      - tun|[mox]
       
     * - [u]
       - u
       - m\ **ou**\ ton / d\ **oo**\ m
-      - arab|`m'hw<vs>`
-      - tun|`mahuu<vs>`
+      - arab|[m'hw<vs>]
+      - tun|[mahuu<vs>]
       
     * - [ə]
       - e
       - d\ **e** / kill\ **e**\ r
-      - arab|`<cdh2>'hr`
-      - tun|`<cdh>aaher`
+      - arab|[<cdh2>'hr]
+      - tun|[<cdh>aaher]
       
     * - [i]
       - i
       - r\ **i**\ vière / m\ **ee**\ ting
-      - arab|`fys<ca>`
-      - tun|`fiisa<ca>`
+      - arab|[fys<ca>]
+      - tun|[fiisa<ca>]
 
 Historiquement, les voyelles ont évolué comme suit [#]_ :
 
@@ -350,22 +350,22 @@ nasales, qui ne sont utilisées que dans ce cadre-là :
       - Tunisien (Latin)
     
     * - [ɑ̃]
-      - tun|`<va>`
+      - tun|[<va>]
       - Croiss\ **an**\ t
-      - arab|`krws<va>`
-      - tun|`krwass<va>`
+      - arab|[krws<va>]
+      - tun|[krwass<va>]
 
     * - [ɔ̃]
-      - tun|`<vo>`
+      - tun|[<vo>]
       - C\ **om**\ pas
-      - arab|`k<vo>p'`
-      - tun|`k<vo>paa`
+      - arab|[k<vo>p']
+      - tun|[k<vo>paa]
 
     * - [ɛ̃]
-      - tun|`<vi>`
+      - tun|[<vi>]
       - **In**\ ternet
-      - arab|`'<vi>trn't`
-      - tun|`<vi>ternèèt`
+      - arab|['<vi>trn't]
+      - tun|[<vi>ternèèt]
 
 Ces voyelles ne sont généralement pas totalement nasalisées, c'est-à-dire
 qu'il est possible d'entendre prononcé un **/n/** à la toute fin de la voyelle [#]_.
@@ -375,7 +375,7 @@ qu'il est possible d'entendre prononcé un **/n/** à la toute fin de la voyelle
 .. [#] Certaines des autres ont fait leur apparition via des mots d'origine étrangère et n'apparaissent donc exclusivement que dans des mots importés.
 .. [#] Techniquement, il s'agit d'un **abjad**, mais je ne ferai pas la distinction pour des raisons de simplicité.
 .. [#] Ce n'est nécessairement la transcription que j'utilise dans ce cours. Ces romanisations ont diverses origines, notamment l'utilisation de l'alphabet latin pour des échanges informels entre tunisophones, par exemples des SMS, lorsque l'utilisation de les caractères arabes pour écrire du tunisien n'était pas encore démocratisée, ou faute d'avoir accès aux caractère d'origine arabe. 
-.. [#] On retrouvera surtout cette consonne dans des parlers tunisiens qui remplacent le son **[q]** par le son **[g]** (typiquement les parlers hilaliens). Dans la version *standardisée* du tunisien, cette consonne est également utilisée pour  prononcer les mots importés, même si la proportion de mots non importés  l'utilisant est non négligeable. On retrouvera donc des mots assez modernes  qui changent de sens en fonction de l'emploi de **[q]** ou **[g]**, la  substitution de l'un par l'autre n'est donc pas nécessairement anodine. Par  exemple, on pourra retrouver les mots **/qammer/** (arab|`qm~r`, *parier*) et **/gammer/** (arab|`gm~r`, *viser*).
+.. [#] On retrouvera surtout cette consonne dans des parlers tunisiens qui remplacent le son **[q]** par le son **[g]** (typiquement les parlers hilaliens). Dans la version *standardisée* du tunisien, cette consonne est également utilisée pour  prononcer les mots importés, même si la proportion de mots non importés  l'utilisant est non négligeable. On retrouvera donc des mots assez modernes  qui changent de sens en fonction de l'emploi de **[q]** ou **[g]**, la  substitution de l'un par l'autre n'est donc pas nécessairement anodine. Par  exemple, on pourra retrouver les mots **/qammer/** (arab|[qm~r], *parier*) et **/gammer/** (arab|[gm~r], *viser*).
 .. [#] Le mot *rose* ne se prononce pas pareil à Paris qu'à Toulouse.
 .. [#] Le *RP English* distingue beaucoup plus de diphtongues que le *General American* par exemple.
 .. [#] Il est possible de déduire comment a évolué chaque voyelle depuis l'arabe en fonction des consonnes qui l'entourent, mais nous nous y intéresserons pas ici.

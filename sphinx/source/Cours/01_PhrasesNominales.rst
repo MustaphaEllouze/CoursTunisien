@@ -21,8 +21,8 @@ Structure des phrases nominales
 Une phrase nominale en tunisien est constituée de **deux** groupes grammaticaux
 principaux :
 
-* **Le sujet** : C'est l'élément sur lequel une information est donnée (en grammaire arabe, c'est arab|`'lmbtd<A>`) ;
-* **L'attribut** : C'est l'information qui est donnée sur le sujet pour le qualifier (en grammaire arabe, c'est arab|`'lxbr`). 
+* **Le sujet** : C'est l'élément sur lequel une information est donnée (en grammaire arabe, c'est arab|['lmbtd<A>]) ;
+* **L'attribut** : C'est l'information qui est donnée sur le sujet pour le qualifier (en grammaire arabe, c'est arab|['lxbr]). 
 
 Pour former une phrase nominale en tunisien, il suffit de **juxtaposer** le sujet et l'attribut :
 
@@ -40,33 +40,33 @@ Pour former une phrase nominale en tunisien, il suffit de **juxtaposer** le suje
           - Français
           - Traduction littérale
           
-        * - tun|`Esmii Mo<cs><ct>faa`
-          - arab|`<I>smy m<cs><ct>f<Y>`
+        * - tun|[Esmii Mo<cs><ct>faa]
+          - arab|[<I>smy m<cs><ct>f<Y>]
           - Je m'appelle Mostafa
           - Prénom-mon Mostafa
 
-        * - tun|`Es-smèè zarqa`
-          - arab|`'lsm'<-> zrq'<->`
+        * - tun|[Es-smèè zarqa]
+          - arab|['lsm'<-> zrq'<->]
           - Le ciel est bleu
           - Le ciel bleue
 
-        * - tun|`E<ct>-<ct>aqs sxuun`
-          - arab|`'l<ct>qs sxwn`
+        * - tun|[E<ct>-<ct>aqs sxuun]
+          - arab|['l<ct>qs sxwn]
           - Il fait chaud
           - Le temps chaud
 
-        * - tun|`E<ct>-<ct>aawla <ca>aalya`
-          - arab|`'l<ct>'wl<tt> <ca>'ly<tt>`
+        * - tun|[E<ct>-<ct>aawla <ca>aalya]
+          - arab|['l<ct>'wl<tt> <ca>'ly<tt>]
           - La table est haute
           - La table haute
 
-        * - tun|`Enti bnayya`
-          - arab|`<I>nt bny<~><tt>`
+        * - tun|[Enti bnayya]
+          - arab|[<I>nt bny<~><tt>]
           - Tu es une fille
           - Toi fille
 
-        * - tun|`Huwwa raajel`
-          - arab|`hw<~> r'jl`
+        * - tun|[Huwwa raajel]
+          - arab|[hw<~> r'jl]
           - C'est un homme
           - Lui homme
 
@@ -95,32 +95,32 @@ racine dans l'arabe.
           - Tunisien (arabe)
           - Français
         
-        * - tun|`Énaa`
-          - arab|`'n'`
+        * - tun|[Énaa]
+          - arab|['n']
           - Je, Moi
           
-        * - tun|`Enti`
-          - arab|`<I>nt`
+        * - tun|[Enti]
+          - arab|[<I>nt]
           - Tu, Toi
           
-        * - tun|`Huwwa`
-          - arab|`hw<~>`
+        * - tun|[Huwwa]
+          - arab|[hw<~>]
           - Il, Lui
 
-        * - tun|`Hiyya`
-          - arab|`hy<~>`
+        * - tun|[Hiyya]
+          - arab|[hy<~>]
           - Elle
           
-        * - tun|`A<hb>naa`
-          - arab|`<A><hb>n'`
+        * - tun|[A<hb>naa]
+          - arab|[<A><hb>n']
           - Nous
           
-        * - tun|`Entuumaa`
-          - arab|`<A>ntwm'`
+        * - tun|[Entuumaa]
+          - arab|[<A>ntwm']
           - Vous
           
-        * - tun|`Huumaa`
-          - arab|`hm'`
+        * - tun|[Huumaa]
+          - arab|[hm']
           - Ils, Elles, Eux
 
 Ces pronoms ont beaucoup évolué depuis l'arabe, le tunisien compte au total **7**
@@ -150,28 +150,28 @@ Il est également possible d'ajouter des adjectifs **démonstratifs**.
           - Français
           - Traduction littérale
           
-        * - tun|`Hèè<dh>ii el-karehba <hb>amra`
-          - arab|`h'<dh>y 'lkrhb<tt> <hb>mr'<->`
+        * - tun|[Hèè<dh>ii el-karehba <hb>amra]
+          - arab|[h'<dh>y 'lkrhb<tt> <hb>mr'<->]
           - Cette voiture est rouge
           - Cette la voiture rouge
           
-        * - tun|`Hèè<dh>aa er-raajel <ct>wiil`
-          - arab|`h'<dh>' 'lr'jl <ct>wyl`
+        * - tun|[Hèè<dh>aa er-raajel <ct>wiil]
+          - arab|[h'<dh>' 'lr'jl <ct>wyl]
           - Cette homme est grand
           - Ce le homme grand
           
-        * - tun|`El-kosksii et-tuunsii bniin`
-          - arab|`'lksksy 'ltwnsy bnyn`
+        * - tun|[El-kosksii et-tuunsii bniin]
+          - arab|['lksksy 'ltwnsy bnyn]
           - Le couscous tunisien est bon
           - Le coucous le tunisien bon
           
-        * - tun|`Hèè<dh>aa l-ordinateer e<cs>-<cs><vr>iir w el-<vr>aalii ak<hb>al`
-          - arab|`h'<dh>' 'l<A>rdnt'r 'l<cs><vr>yr w 'l<vr>'ly <A>k<hb>l`
+        * - tun|[Hèè<dh>aa l-ordinateer e<cs>-<cs><vr>iir w el-<vr>aalii ak<hb>al]
+          - arab|[h'<dh>' 'l<A>rdnt'r 'l<cs><vr>yr w 'l<vr>'ly <A>k<hb>l]
           - Ce petit ordinateur cher est noir
           - Ce le ordinateur le petit et le cher noir
           
-        * - tun|`El-bnayya el-fransawiyya <ct>ofla q<cs>iira`
-          - arab|`'lbny<~><tt> 'lfrnswy<~><tt> <ct>fl<tt> q<cs>yr<tt>`
+        * - tun|[El-bnayya el-fransawiyya <ct>ofla q<cs>iira]
+          - arab|['lbny<~><tt> 'lfrnswy<~><tt> <ct>fl<tt> q<cs>yr<tt>]
           - La fille française une petite fille (*en taille*)
           - La fille française fille petite
 

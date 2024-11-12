@@ -1,4 +1,4 @@
-tun|`<CDH>` - arab|`<cdh2> / <cdh>`
+tun|[<CDH>] - arab|[<cdh2> / <cdh>]
 ====================================
 
 .. glossary::
