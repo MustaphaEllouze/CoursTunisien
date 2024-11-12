@@ -138,7 +138,6 @@ class ArabSubs(SubsTextTransform):
         "W" : "و",
         "y" : "ي",
         "Y" : "ي",
-        "@" : "ة",
         "'" : "ا",
         "g" : "ڨ",
         "G" : "ڨ",
@@ -203,11 +202,100 @@ class TunisianSubs(SubsTextTransform):
         "<vi>" : "ǐ",
         "<VI>" : "Ǐ",
 
-        "<A>" : "ʼ",
-        "<a>" : "ʼ",
+        "<A>" : "’",
+        "<a>" : "’",
     }
+
+class IPASubs(SubsTextTransform):
+    """Defines a Transform that substitues latin characters by IPA ones"""
+
+    # The pattern that matches the command 
+    pattern = re.compile(r'ipa\|\[(.*?)\]')
+
+    # Matching dictionnary
+    matching_dict_priority_0 = {
+        "<th>" : "θ",
+        "<TH>" : "θ",
+        "<hb>" : "ħ",
+        "<HB>" : "ħ",
+        "<dh>" : "ð",
+        "<DH>" : "ð",
+        "<vs>" : "ʃ",
+        "<VS>" : "ʃ",
+        "<cs>" : "sˤ",
+        "<CS>" : "sˤ",
+        "<cdh>" : "ðˤ",
+        "<CDH>" : "ðˤ",
+        "<ct>" : "tˤ",
+        "<CT>" : "tˤ",
+        "<cdh2>" : "ðˤ",
+        "<CDH2>" : "ðˤ",
+        "<ca>" : "ʕ",
+        "<CA>" : "ʕ",
+        "<vr>" : "ɾ",
+        "<VR>" : "ɾ",
+        "<A>" : "ʔ",
+        "<I>" : "ʔ",
+        "<->" : "ʔ",
+        "<va>" : "ɑ̃",
+        "<vo>" : "ɔ̃",
+        "<vi>" : "ɛ̃",
+    }
+    matching_dict_priority_1 = {
+        "b" : "b",
+        "B" : "b",
+        "t" : "t",
+        "T" : "t",
+        "j" : "ʒ",
+        "J" : "ʒ",
+        "x" : "χ",
+        "X" : "χ",
+        "d" : "d",
+        "D" : "d",
+        "r" : "ɾ",
+        "R" : "ɾ",
+        "z" : "z",
+        "Z" : "z",
+        "s" : "s",
+        "S" : "s",
+        "f" : "f",
+        "F" : "f",
+        "q" : "q",
+        "Q" : "q",
+        "k" : "k",
+        "K" : "k",
+        "l" : "l",
+        "L" : "l",
+        "m" : "m",
+        "M" : "m",
+        "n" : "n",
+        "N" : "n",
+        "h" : "ɦ",
+        "H" : "ɦ",
+        "w" : "w",
+        "W" : "w",
+        "y" : "j",
+        "Y" : "j",
+        "g" : "g",
+        "G" : "g",
+        "p" : "p",
+        "P" : "p",
+        "v" : "v",
+        "V" : "v",
+        "a" : "a",
+        "é" : "ɪ",
+        "è" : "ɛ",
+        "e" : "ə",
+        "i" : "i",
+        "o" : "ɔ",
+        "u" : "u",
+        "'" : "ˈ",
+        ":" : "ː",
+    }
+
 
 # To qualify the file as an extension
 def setup(app):
     app.add_transform(TunisianSubs)
     app.add_transform(ArabSubs)
+    app.add_transform(IPASubs)

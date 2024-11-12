@@ -2,3 +2,18 @@ tun|[B] - arab|[b]
 ====================
 
 .. glossary::
+
+    tun|[bnayya] - arab|[bny<~><tt>]
+        [ipa|['bnay.ya]]
+
+        *n.f.* - fille
+        
+        *plur.* - :term:`tun|[bnèèt] - arab|[bn't]`
+    
+    
+    tun|[bnèèt] - arab|[bn't]
+        [ipa|['bnè:t]]
+
+        *n.plu.* - filles
+        
+        *sing.* - :term:`tun|[bnayya] - arab|[bny<~><tt>]`

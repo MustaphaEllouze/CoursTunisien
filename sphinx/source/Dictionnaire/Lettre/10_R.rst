@@ -2,3 +2,18 @@ tun|[R] - arab|[r]
 =========================
 
 .. glossary::
+    
+    tun|[raajel] - arab|[r'jl]
+        [ipa|['ra:.jel]]
+
+        *n.m.* - homme
+        
+        *plur.* - :term:`tun|[rjèèl] - arab|[rj'l]`
+    
+    
+    tun|[rjèèl] - arab|[rj'l]
+        [ipa|['rjè:l]]
+
+        *n.plu.* - hommes
+        
+        *sing.* - :term:`tun|[raajel] - arab|[r'jl]`

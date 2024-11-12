@@ -3,5 +3,44 @@ tun|[S] - arab|[s]
 
 .. glossary::
 
+    tun|[sèmèwèèt] - arab|[smw't]
+        [ipa|[sè.mè.'wè:t]]
+
+        (*vieilli*)
+
+        *n. plur.* - cieux
+
     tun|[smèè] - arab|[sm'<->]
+        [ipa|['smè:]]
+
         *n.f.* - ciel
+
+        *plur.* - :term:`tun|[sèmèwèèt] - arab|[smw't]` 
+    
+    tun|[sxaan] - arab|[sx'n]
+        [ipa|['sxa:n]]
+
+        *adj. plur.* - chauds, chaudes
+
+        *sing. masc.* - :term:`tun|[sxuun] - arab|[sxwn]`
+        
+        *sing. fém.* - :term:`tun|[sxuuna] - arab|[sxwn<tt>]`
+
+    tun|[sxuun] - arab|[sxwn]
+        [ipa|['sxu:n]]
+
+        *adj. masc.* - chaud
+
+        *fém.* - :term:`tun|[sxuuna] - arab|[sxwn<tt>]`
+
+        *sing. plur.* - :term:`tun|[sxaan] - arab|[sx'n]`
+    
+    tun|[sxuuna] - arab|[sxwn<tt>]
+        [ipa|['sxu:.na]]
+        
+        *adj. fém.* - chaude
+
+        *fém.* - :term:`tun|[sxuun] - arab|[sxwn]`
+
+        *sing. plur.* - :term:`tun|[sxaan] - arab|[sx'n]`
+    

@@ -2,3 +2,22 @@ tun|[<CT>] - arab|[<ct>]
 =========================
 
 .. glossary::
+    
+    tun|[<ct>aawla] - arab|[<ct>'wl<tt>]
+        [ipa|['<ct>a:.wla]]
+
+        *n.f.* - table
+
+        *plur.* - :term:`tun|[<ct>wèèwel] - arab|[<ct>w'wl]`
+    
+    tun|[<ct>aqs] - arab|[<ct>qs]
+        [ipa|['<ct>aqs]]
+
+        *n.m.* - météo, temps
+    
+    tun|[<ct>wèèwel] - arab|[<ct>w'wl]
+        [ipa|['<ct>wè:.wel]]
+
+        *n.plur.* - tables
+
+        *sing.* - :term:`tun|[<ct>aawla] - arab|[<ct>'wl<tt>]`
