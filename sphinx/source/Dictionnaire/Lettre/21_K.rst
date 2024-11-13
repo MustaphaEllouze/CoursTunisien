@@ -2,3 +2,42 @@ tun|[K] - arab|[k]
 =========================
 
 .. glossary::
+
+    tun|[k<hb>ol] - arab|[k<hb>l]
+        [ipa|['k<hb>ol]]
+
+        1. *adj. plur.* - noirs, noires
+
+        2. *n.m. invariable* - khôl
+
+        *sing. masc.* - :term:`tun|[ak<hb>al] - arab|[<A>k<hb>l]`
+        
+        *sing. fém.* - :term:`tun|[ka<hb>laa] - arab|[k<hb>l'<->]`
+
+    tun|[kraaheb] - arab|[kr'hb]
+        [ipa|['kra:.heb]]
+        
+        1. *n.plur.* - voitures
+
+        *sing.* - :term:`tun|[karehba] - arab|[krhb<tt>]`
+    
+    tun|[ka<hb>laa] - arab|[k<hb>l'<->]
+        [ipa|['ka<hb>.la:]]
+
+        1. *adj. fém.* - noire
+
+        *masc.* - :term:`tun|[ak<hb>al] - arab|[<A>k<hb>l]`
+
+        *plur.* - :term:`tun|[k<hb>ol] - arab|[k<hb>l]`
+
+    tun|[karehba] - arab|[krhb<tt>]
+        [ipa|['ka.reh.ba]]
+        
+        1. *n.f.* - voiture
+
+        *plur.* - :term:`tun|[kraaheb] - arab|[kr'hb]`
+    
+    tun|[kosksii] - arab|[ksksy]
+        [ipa|['kos.ksi:]]
+
+        1. *n.m. indénombrable* - couscous

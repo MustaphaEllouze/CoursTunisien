@@ -2,3 +2,34 @@ tun|[<CS>] - arab|[<cs>]
 =========================
 
 .. glossary::
+    
+    tun|[<cs><vr>aar] - arab|[<cs><vr>'r]
+        [ipa|['<ct>wè:l]]
+
+        1. *adj. plur.* - jeunes, petits
+
+        2. *n.plur.* - enfants
+
+        *sing. masc.* - :term:`tun|[<cs><vr>iir] - arab|[<cs><vr>yr]`
+
+        *sing. fém.* - :term:`tun|[<cs><vr>iira] - arab|[<cs><vr>yr<tt>]`
+                
+    tun|[<cs><vr>iir] - arab|[<cs><vr>yr]
+        [ipa|['<ct>wi:l]]
+
+        1. *adj. masc.* - jeune, petit
+
+        2. *n.m.* - enfant
+        
+        *fém.* - :term:`tun|[<cs><vr>iira] - arab|[<cs><vr>yr<tt>]`
+
+        *plur.* - :term:`tun|[<cs><vr>aar] - arab|[<cs><vr>'r]`
+
+    tun|[<cs><vr>iira] - arab|[<cs><vr>yr<tt>]
+        [ipa|['<ct>wi:.la]]
+
+        1. *adj. fém.* - jeune, petite
+        
+        *masc.* - :term:`tun|[<cs><vr>iir] - arab|[<cs><vr>yr]`
+        
+        *plur.* - :term:`tun|[<cs><vr>aar] - arab|[<cs><vr>'r]`

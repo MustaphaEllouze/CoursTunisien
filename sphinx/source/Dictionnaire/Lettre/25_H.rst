@@ -2,3 +2,33 @@ tun|[H] - arab|[h]
 =========================
 
 .. glossary::
+    
+    tun|[hèè<dh>aa] - arab|[h'<dh>']
+        [ipa|['hè:.<dh>a:]]
+
+        1. *adj. masc. démonstratif* - celui-ci
+    
+        *fém.* - :term:`tun|[hèè<dh>ii] - arab|[h'<dh>y]` 
+
+    tun|[hèè<dh>ii] - arab|[h'<dh>y]
+        [ipa|['hè:.<dh>i:]]
+
+        1. *adj. fém. démonstratif* - celle-ci
+
+        *masc.* - :term:`tun|[hèè<dh>aa] - arab|[h'<dh>']`
+
+    tun|[hiyya] - arab|[hy<~>]
+        [ipa|['hiy.ya]]
+
+        1. *pronom* - elle
+        
+    tun|[huwwa] - arab|[hw<~>]
+        [ipa|['huw.wa]]
+
+        1. *pronom* - il, lui
+        
+    tun|[huumaa] - arab|[hwm']
+        [ipa|['hu:.ma:]]
+
+        1. *pronom* - ils, elles, eux
+        

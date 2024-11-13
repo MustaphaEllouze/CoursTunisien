@@ -3,24 +3,10 @@ tun|[S] - arab|[s]
 
 .. glossary::
 
-    tun|[sèmèwèèt] - arab|[smw't]
-        [ipa|[sè.mè.'wè:t]]
-
-        (*vieilli*)
-
-        *n. plur.* - cieux
-
-    tun|[smèè] - arab|[sm'<->]
-        [ipa|['smè:]]
-
-        *n.f.* - ciel
-
-        *plur.* - :term:`tun|[sèmèwèèt] - arab|[smw't]` 
-    
     tun|[sxaan] - arab|[sx'n]
         [ipa|['sxa:n]]
 
-        *adj. plur.* - chauds, chaudes
+        1. *adj. plur.* - chauds, chaudes
 
         *sing. masc.* - :term:`tun|[sxuun] - arab|[sxwn]`
         
@@ -29,7 +15,7 @@ tun|[S] - arab|[s]
     tun|[sxuun] - arab|[sxwn]
         [ipa|['sxu:n]]
 
-        *adj. masc.* - chaud
+        1. *adj. masc.* - chaud
 
         *fém.* - :term:`tun|[sxuuna] - arab|[sxwn<tt>]`
 
@@ -38,9 +24,24 @@ tun|[S] - arab|[s]
     tun|[sxuuna] - arab|[sxwn<tt>]
         [ipa|['sxu:.na]]
         
-        *adj. fém.* - chaude
+        1. *adj. fém.* - chaude
 
         *fém.* - :term:`tun|[sxuun] - arab|[sxwn]`
 
         *sing. plur.* - :term:`tun|[sxaan] - arab|[sx'n]`
+
+    tun|[smèè] - arab|[sm'<->]
+        [ipa|['smè:]]
+
+        1. *n.f.* - ciel
+
+        *plur.* - :term:`tun|[sèmèwèèt] - arab|[smw't]` 
+        
+    tun|[sèmèwèèt] - arab|[smw't]
+        [ipa|[sè.mè.'wè:t]]
+
+        (*vieilli*)
+
+        1. *n. plur.* - cieux
+
     

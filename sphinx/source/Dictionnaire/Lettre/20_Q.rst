@@ -2,3 +2,30 @@ tun|[Q] - arab|[q]
 =========================
 
 .. glossary::
+    
+    tun|[q<cs>aar] - arab|[q<cs>'r]
+        [ipa|['qsa:r]]
+
+        1. *adj. plur.* - courts, petits (en taille)
+
+        *sing. masc.* - :term:`tun|[q<cs>iir] - arab|[q<cs>yr]`
+
+        *sing. fém.* - :term:`tun|[q<cs>iira] - arab|[q<cs>yr<tt>]`
+                
+    tun|[q<cs>iir] - arab|[q<cs>yr]
+        [ipa|['qsi:r]]
+
+        1. *adj. masc.* - court, petit (en taille)
+        
+        *fém.* - :term:`tun|[q<cs>iira] - arab|[q<cs>yr<tt>]`
+
+        *plur.* - :term:`tun|[q<cs>aar] - arab|[q<cs>'r]`
+
+    tun|[q<cs>iira] - arab|[q<cs>yr<tt>]
+        [ipa|['qsi:.ra]]
+
+        1. *adj. fém.* - courte, petite (en taille)
+        
+        *masc.* - :term:`tun|[q<cs>iir] - arab|[q<cs>yr]`
+        
+        *plur.* - :term:`tun|[q<cs>aar] - arab|[q<cs>'r]`

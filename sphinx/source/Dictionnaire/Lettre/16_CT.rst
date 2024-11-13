@@ -3,21 +3,55 @@ tun|[<CT>] - arab|[<ct>]
 
 .. glossary::
     
-    tun|[<ct>aawla] - arab|[<ct>'wl<tt>]
-        [ipa|['<ct>a:.wla]]
-
-        *n.f.* - table
-
-        *plur.* - :term:`tun|[<ct>wèèwel] - arab|[<ct>w'wl]`
-    
-    tun|[<ct>aqs] - arab|[<ct>qs]
-        [ipa|['<ct>aqs]]
-
-        *n.m.* - météo, temps
-    
     tun|[<ct>wèèwel] - arab|[<ct>w'wl]
         [ipa|['<ct>wè:.wel]]
 
-        *n.plur.* - tables
+        1. *n.plur.* - tables
 
         *sing.* - :term:`tun|[<ct>aawla] - arab|[<ct>'wl<tt>]`
+
+    tun|[<ct>wèèl] - arab|[<ct>w'l]
+        [ipa|['<ct>wè:l]]
+
+        1. *adj. plur.* - longs
+        
+        2. *adj. plur.* - grands (en taille)
+
+        *sing. masc.* - :term:`tun|[<ct>wiil] - arab|[<ct>wyl]`
+
+        *sing. fém.* - :term:`tun|[<ct>wiila] - arab|[<ct>wyl<tt>]`
+                
+    tun|[<ct>wiil] - arab|[<ct>wyl]
+        [ipa|['<ct>wi:l]]
+
+        1. *adj. masc.* - long
+
+        2. *adj. masc.* - grand (en taille)
+        
+        *fém.* - :term:`tun|[<ct>wiila] - arab|[<ct>wyl<tt>]`
+
+        *plur.* - :term:`tun|[<ct>wèèl] - arab|[<ct>w'l]`
+
+    tun|[<ct>wiila] - arab|[<ct>wyl<tt>]
+        [ipa|['<ct>wi:.la]]
+
+        1. *adj. fém.* - longue
+        
+        2. *adj. fém.* - grande (en taille)
+        
+        *masc.* - :term:`tun|[<ct>wiil] - arab|[<ct>wyl]`
+        
+        *plur.* - :term:`tun|[<ct>wèèl] - arab|[<ct>w'l]`
+
+    tun|[<ct>aqs] - arab|[<ct>qs]
+        [ipa|['<ct>aqs]]
+
+        1. *n.m.* - météo, temps
+
+    tun|[<ct>aawla] - arab|[<ct>'wl<tt>]
+        [ipa|['<ct>a:.wla]]
+
+        1. *n.f.* - table
+
+        *plur.* - :term:`tun|[<ct>wèèwel] - arab|[<ct>w'wl]`
+    

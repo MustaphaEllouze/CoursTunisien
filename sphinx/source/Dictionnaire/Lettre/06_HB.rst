@@ -2,3 +2,22 @@ tun|[<HB>] - arab|[<hb>]
 =========================
 
 .. glossary::
+    
+    tun|[<hb>mor] - arab|[<hb>mr]
+        [ipa|['<hb>mor]]
+
+        1. *adj. plur.* - rouges
+
+        *sing. masc.* - :term:`tun|[a<hb>mar] - arab|[<A><hb>mr]`
+        
+        *sing. fém.* - :term:`tun|[<hb>amraa] - arab|[<hb>mr'<->]`
+        
+    tun|[<hb>amraa] - arab|[<hb>mr'<->]
+        [ipa|['<hb>am.raa]]
+
+        1. *adj. fém.* - rouge
+
+        *masc.* - :term:`tun|[a<hb>mar] - arab|[<A><hb>mr]`
+        
+        *plur.* - :term:`tun|[<hb>mor] - arab|[<hb>mr]`
+        

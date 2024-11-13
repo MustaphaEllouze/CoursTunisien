@@ -2,3 +2,30 @@ tun|[<VR>] - arab|[<vr>]
 =========================
 
 .. glossary::
+
+    tun|[<vr>aalya] - arab|[<vr>'ly<tt>]
+        [ipa|['<vr>a:.lya]]
+        
+        1. *adj. fém.* - haut
+
+        *masc.* - :term:`tun|[<vr>aalii] - arab|[<vr>'ly]`
+
+        *plur.* - :term:`tun|[<vr>aaliin] - arab|[<vr>'lyn]`
+
+    tun|[<vr>aalii] - arab|[<vr>'ly]
+        [ipa|['<vr>a:.li:]]
+
+        1. *adj. masc.* - haut
+
+        *fém.* - :term:`tun|[<vr>aalya] - arab|[<vr>'ly<tt>]`
+        
+        *plur.* - :term:`tun|[<vr>aaliin] - arab|[<vr>'lyn]`
+    
+    tun|[<vr>aaliin] - arab|[<vr>'lyn]
+        [ipa|[<vr>a:.'li:n]]
+        
+        1. *adj. plur.* - hauts, hautes
+
+        *masc.* - :term:`tun|[<vr>aalii] - arab|[<vr>'ly]`
+
+        *fém.* - :term:`tun|[<vr>aalya] - arab|[<vr>'ly<tt>]`

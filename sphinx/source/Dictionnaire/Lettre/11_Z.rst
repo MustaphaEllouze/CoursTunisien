@@ -3,20 +3,21 @@ tun|[Z] - arab|[z]
 
 .. glossary::
 
+    tun|[zroq] - arab|[zrq]
+        [ipa|['zroq]]
+
+        1. *adj. plur.* - bleus, bleues
+
+        *sing. masc.* - :term:`tun|[azraq] - arab|[<A>zrq]`
+        
+        *sing. fém.* - :term:`tun|[zarqaa] - arab|[zrq'<->]`
+        
     tun|[zarqaa] - arab|[zrq'<->]
         [ipa|['zar.qa:]]
 
-        *adj. fém.* - bleue
+        1. *adj. fém.* - bleue
 
         *masc.* - :term:`tun|[azraq] - arab|[<A>zrq]`
 
         *plur.* - :term:`tun|[zroq] - arab|[zrq]`
     
-    tun|[zroq] - arab|[zrq]
-        [ipa|['zroq]]
-
-        *adj. plur.* - bleus, bleues
-
-        *sing. masc.* - :term:`tun|[azraq] - arab|[<A>zrq]`
-        
-        *sing. fém.* - :term:`tun|[zarqaa] - arab|[zrq'<->]`

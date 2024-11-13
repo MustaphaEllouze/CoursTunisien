@@ -3,28 +3,28 @@ tun|[<CA>] - arab|[<ca>]
 
 .. glossary::
 
+    tun|[<ca>aalya] - arab|[<ca>'ly<tt>]
+        [ipa|['<ca>a:.lya]]
+        
+        1. *adj. fém.* - haut
+
+        *masc.* - :term:`tun|[<ca>aalii] - arab|[<ca>'ly]`
+
+        *plur.* - :term:`tun|[<ca>aaliin] - arab|[<ca>'lyn]`
+
     tun|[<ca>aalii] - arab|[<ca>'ly]
         [ipa|['<ca>a:.li:]]
 
-        *adj. masc.* - haut
+        1. *adj. masc.* - haut
 
         *fém.* - :term:`tun|[<ca>aalya] - arab|[<ca>'ly<tt>]`
         
         *plur.* - :term:`tun|[<ca>aaliin] - arab|[<ca>'lyn]`
     
-    tun|[<ca>aalya] - arab|[<ca>'ly<tt>]
-        [ipa|['<ca>a:.lya]]
-        
-        *adj. fém.* - haut
-
-        *masc.* - :term:`tun|[<ca>aalii] - arab|[<ca>'ly]`
-        
-        *plur.* - :term:`tun|[<ca>aaliin] - arab|[<ca>'lyn]`
-        
     tun|[<ca>aaliin] - arab|[<ca>'lyn]
-        [ipa|['<ca>a:.'li:n]]
+        [ipa|[<ca>a:.'li:n]]
         
-        *adj. plur.* - hauts, hautes
+        1. *adj. plur.* - hauts, hautes
 
         *masc.* - :term:`tun|[<ca>aalii] - arab|[<ca>'ly]`
 

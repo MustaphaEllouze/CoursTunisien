@@ -2,3 +2,30 @@ tun|[T] - arab|[t]
 ====================
 
 .. glossary::
+
+    tun|[twèènsaa] - arab|[tw'ns']
+        [ipa|['twè:n.sa:]]
+
+        1. *adj. plur.* - tunisiens, tunisiennes
+
+        *sing. masc.* - :term:`tun|[tuunsii] - arab|[twnsy]`
+
+        *sing. fém.* - :term:`tun|[tuunsiyya] - arab|[twnsy<~><tt>]`
+                
+    tun|[tuunsiyya] - arab|[twnsy<~><tt>]
+        [ipa|[tu:n.'siy.ya]]
+
+        1. *adj. fém.* - tunisienne
+        
+        *masc.* - :term:`tun|[tuunsii] - arab|[twnsy]`
+        
+        *plur.* - :term:`tun|[twèènsaa] - arab|[tw'ns']`
+        
+    tun|[tuunsii] - arab|[twnsy]
+        [ipa|['tu:n.si:]]
+
+        1. *adj. masc.* - tunisien
+        
+        *fém.* - :term:`tun|[tuunsiyya] - arab|[twnsy<~><tt>]`
+
+        *plur.* - :term:`tun|[twèènsaa] - arab|[tw'ns']`

@@ -95,8 +95,8 @@ racine dans l'arabe.
           - Tunisien (arabe)
           - Français
         
-        * - tun|[Énaa]
-          - arab|['n']
+        * - tun|[Ènaa]
+          - arab|[<A>n']
           - Je, Moi
           
         * - tun|[Enti]
@@ -120,7 +120,7 @@ racine dans l'arabe.
           - Vous
           
         * - tun|[Huumaa]
-          - arab|[hm']
+          - arab|[hwm']
           - Ils, Elles, Eux
 
 Ces pronoms ont beaucoup évolué depuis l'arabe, le tunisien compte au total **7**
@@ -170,8 +170,8 @@ Il est également possible d'ajouter des adjectifs **démonstratifs**.
           - Ce petit ordinateur cher est noir
           - Ce le ordinateur le petit et le cher noir
           
-        * - tun|[El-bnayya el-fransawiyya <ct>ofla q<cs>iira]
-          - arab|['lbny<~><tt> 'lfrnswy<~><tt> <ct>fl<tt> q<cs>yr<tt>]
+        * - tun|[El-bnayya el-fransaawiyya bnayya q<cs>iira]
+          - arab|['lbny<~><tt> 'lfrns'wy<~><tt> bny<~><tt> q<cs>yr<tt>]
           - La fille française une petite fille (*en taille*)
           - La fille française fille petite
 
@@ -185,36 +185,39 @@ Il est également possible d'ajouter des adjectifs **démonstratifs**.
 Vocabulaire
 -----------
 
-.. \begin{minipage}{10cm}
+.. hlist::
+    :columns: 3
 
-.. \section*{Vocabulaire}
-.. \begin{center}
-..     \begin{tabular}{||c | c | c||}
-..         \hline
-..         Vocabulaire & Traduction & Origine \\\hline\hline
-..         'esm (masc.) & prénom / nom & (\textsc{ar}) \RL{اسم} \\\hline
-..         smèè' (fem.) & ciel & (\textsc{ar}) \RL{سماء} \\\hline
-..         azraq / zarqa (adj.) & bleu & (\textsc{ar}) \RL{أزرق} \\\hline
-..         \c{t}aqs (masc.) & temps/météo & (\textsc{ar}) \RL{طقس} \\\hline
-..         sxuun / sxuuna (adj.) & chaud & (\textsc{ar}) \RL{ساخن} \\\hline
-..         \c{t}aawla (fem.) & table & (\textsc{ar}) \RL{طاولة} \\\hline
-..         \c{a}aali / \c{a}aalya (adj.) & haut & (\textsc{ar}) \RL{عالي} \\\hline
-..         bnayya (fem.) & fille & (\textsc{ar}) \RL{ابن} (fils) \\\hline
-..         raajel (masc.) & homme & (\textsc{ar}) \RL{راجل} \\\hline
-..         héé\dh a / héé\dh i (démons.) & celui-ci / celle-ci & (\textsc{ar}) \RL{هذا / هذه} \\\hline
-..         a\textcrh mar / \textcrh amra (adj.) & rouge & (\textsc{ar}) \RL{أحمر} \\\hline
-..         karehba (fem.) & voiture & (\textsc{ar}) \RL{كهرباء} (électricité) \\\hline
-..         \c{t}wiil / \c{t}wiila (adj.) & grand (en taille) & (\textsc{ar}) \RL{طويل / طويلة} \\\hline
-..         tuunsii / tuunsiyya (adj.) & tunisien/tunisienne & (\textsc{ar}) \RL{تونسي / تونسية} \\\hline
-..         bniin / bniina (adj.) & bon/bonne (en goût) & --- \\\hline
-..         ordinater (masc.) & ordinateur & (\textsc{fr}) ordinateur \\\hline
-..         \c{s}\v{r}iir / \c{s}\v{r}iira (adj.) & petit / petite & \textsc{ar} \RL{صغير / صغيرة} \\\hline
-..         \v{r}aali / \v{r}aalya (adj.) & cher / chère (en prix) & (\textsc{ar}) \RL{غالي / غالية} \\\hline
-..         ak\textcrh al / ka\textcrh laa (adj.) & noire / noire & (\textsc{ar}) \R{اكحل} \\\hline
-..     \end{tabular}
-.. \end{center}
-
-.. \end{minipage}
+    * :term:`tun|[esm] - arab|[<I>sm]`
+    * :term:`tun|[smèè] - arab|[sm'<->]`
+    * :term:`tun|[<ct>aqs] - arab|[<ct>qs]`
+    * :term:`tun|[<ct>aawla] - arab|[<ct>'wl<tt>]`
+    * :term:`tun|[bnayya] - arab|[bny<~><tt>]`
+    * :term:`tun|[raajel] - arab|[r'jl]`
+    * :term:`tun|[karehba] - arab|[krhb<tt>]`
+    * :term:`tun|[kosksii] - arab|[ksksy]`
+    * :term:`tun|[ordinateer] - arab|[<A>rdnt'r]`
+    * :term:`tun|[azraq] - arab|[<A>zrq]`
+    * :term:`tun|[a<hb>mar] - arab|[<A><hb>mr]`
+    * :term:`tun|[ak<hb>al] - arab|[<A>k<hb>l]`
+    * :term:`tun|[<ca>aalya] - arab|[<ca>'ly<tt>]`
+    * :term:`tun|[<ct>wiil] - arab|[<ct>wyl]`
+    * :term:`tun|[q<cs>iir] - arab|[q<cs>yr]`
+    * :term:`tun|[<cs><vr>iir] - arab|[<cs><vr>yr]`
+    * :term:`tun|[sxuun] - arab|[sxwn]`
+    * :term:`tun|[bniin] - arab|[bnyn]`
+    * :term:`tun|[<vr>aalii] - arab|[<vr>'ly]`
+    * :term:`tun|[tuunsii] - arab|[twnsy]`
+    * :term:`tun|[fransaawii] - arab|[frns'wy]`
+    * :term:`tun|[ènaa] - arab|[<A>n']`
+    * :term:`tun|[enti] - arab|[<I>nt]`
+    * :term:`tun|[huwwa] - arab|[hw<~>]`
+    * :term:`tun|[hiyya] - arab|[hy<~>]`
+    * :term:`tun|[a<hb>naa] - arab|[<A><hb>n']`
+    * :term:`tun|[entuumaa] - arab|[<I>ntwm']`
+    * :term:`tun|[huumaa] - arab|[hwm']`
+    * :term:`tun|[hèè<dh>aa] - arab|[h'<dh>']`
+    * :term:`tun|[hèè<dh>ii] - arab|[h'<dh>y]`
 
 .. rubric:: Notes de bas de page
 

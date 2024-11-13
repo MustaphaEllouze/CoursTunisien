@@ -6,7 +6,7 @@ tun|[B] - arab|[b]
     tun|[bnayya] - arab|[bny<~><tt>]
         [ipa|['bnay.ya]]
 
-        *n.f.* - fille
+        1. *n.f.* - fille
         
         *plur.* - :term:`tun|[bnèèt] - arab|[bn't]`
     
@@ -14,6 +14,33 @@ tun|[B] - arab|[b]
     tun|[bnèèt] - arab|[bn't]
         [ipa|['bnè:t]]
 
-        *n.plu.* - filles
+        1. *n.plur.* - filles
         
         *sing.* - :term:`tun|[bnayya] - arab|[bny<~><tt>]`
+
+    tun|[bnèèn] - arab|[bn'n]
+        [ipa|['bnè:n]]
+
+        1. *adj. plur.* - bons, délicieux
+
+        *sing. masc.* - :term:`tun|[bniin] - arab|[bnyn]`
+
+        *sing. fém.* - :term:`tun|[bniina] - arab|[bnyn<tt>]`
+                
+    tun|[bniin] - arab|[bnyn]
+        [ipa|['bni:n]]
+
+        1. *adj. masc.* - bon, délicieux
+        
+        *fém.* - :term:`tun|[bniina] - arab|[bnyn<tt>]`
+
+        *plur.* - :term:`tun|[bnèèn] - arab|[bn'n]`
+
+    tun|[bniina] - arab|[bnyn<tt>]
+        [ipa|['bni:.na]]
+
+        1. *adj. fém.* - bonne, délicieuse
+        
+        *masc.* - :term:`tun|[bniin] - arab|[bnyn]`
+        
+        *plur.* - :term:`tun|[bnèèn] - arab|[bn'n]`

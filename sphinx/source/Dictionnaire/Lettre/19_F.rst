@@ -2,3 +2,30 @@ tun|[F] - arab|[f]
 =========================
 
 .. glossary::
+    
+    tun|[fransiis] - arab|[frnsys]
+        [ipa|['fran.si:s]]
+
+        1. *adj. plur.* - tunisiens, tunisiennes
+
+        *sing. masc.* - :term:`tun|[fransaawii] - arab|[frns'wy]`
+
+        *sing. fém.* - :term:`tun|[fransaawiyya] - arab|[frns'wy<~><tt>]`
+                
+    tun|[fransaawiyya] - arab|[frns'wy<~><tt>]
+        [ipa|[fran.sa:.'wiy.ya]]
+
+        1. *adj. fém.* - française
+        
+        *masc.* - :term:`tun|[fransaawii] - arab|[frns'wy]`
+        
+        *plur.* - :term:`tun|[fransiis] - arab|[frnsys]`
+        
+    tun|[fransaawii] - arab|[frns'wy]
+        [ipa|[fran.'sa:.wi:]]
+
+        1. *adj. masc.* - français
+        
+        *fém.* - :term:`tun|[fransaawiyya] - arab|[frns'wy<~><tt>]`
+
+        *plur.* - :term:`tun|[fransiis] - arab|[frnsys]`
