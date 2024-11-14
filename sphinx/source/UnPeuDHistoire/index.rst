@@ -13,3 +13,4 @@ afin de ne pas perturber la lecture du cours.
    :caption: Table des matières :
 
    01_PhrasesNominales
+   02_PhrasesVerbales

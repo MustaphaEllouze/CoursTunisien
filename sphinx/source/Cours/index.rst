@@ -14,3 +14,4 @@ et va de pair avec :
    :caption: Table des matières :
 
    01_PhrasesNominales
+   02_PhrasesVerbales
