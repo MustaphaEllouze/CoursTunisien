@@ -1,3 +1,5 @@
+.. _phrases_nominales:
+
 Introduction aux phrases nominales
 ==================================
 
