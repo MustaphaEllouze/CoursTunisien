@@ -2,3 +2,8 @@ tun|[X] - arab|[x]
 =========================
 
 .. glossary::
+
+    tun|[xobz] - arab|[xbz]
+        [ipa|['xobz]]
+        
+        1. *n.m. indénombrable* - pain

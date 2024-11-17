@@ -10,4 +10,5 @@ Méthode d'apprentissage du tunisien
    Exercices/index
    UnPeuDHistoire/index
    Dictionnaire/index
+   Conjugaison/index
    Glossaire/index

@@ -2,3 +2,10 @@ tun|[N] - arab|[n]
 =========================
 
 .. glossary::
+
+    tun|[nséé'] - arab|[ns'<->]
+        [ipa|['nsé:<A>]]
+
+        1. *n.plur.* - femmes
+
+        *plur.* - :term:`tun|[mraa] - arab|[mr']`

@@ -12,6 +12,15 @@ tun|[<HB>] - arab|[<hb>]
         
         *sing. fém.* - :term:`tun|[<hb>amraa] - arab|[<hb>mr'<->]`
         
+    tun|[<hb>abb] - arab|[<hb>b<~>]
+        [ipa|['<hb>abb]]
+        
+        1. *verbe* - vouloir
+
+        2. *verbe* - aimer
+
+        *Conjugaison* - :ref:`conj_HbBB`
+
     tun|[<hb>amraa] - arab|[<hb>mr'<->]
         [ipa|['<hb>am.raa]]
 
@@ -20,4 +29,8 @@ tun|[<HB>] - arab|[<hb>]
         *masc.* - :term:`tun|[a<hb>mar] - arab|[<A><hb>mr]`
         
         *plur.* - :term:`tun|[<hb>mor] - arab|[<hb>mr]`
-        
+    
+    tun|[<hb>uut] - arab|[<hb>wt]
+        [ipa|['<hb>u:t]]
+
+        1. *n.m. indénombrable* - poisson

@@ -2,3 +2,25 @@ tun|[M] - arab|[m]
 =========================
 
 .. glossary::
+
+    tun|[mraa] - arab|[mr']
+        [ipa|['mra:]]
+
+        1. *n.f.* - femme
+
+        *plur.* - :term:`tun|[nséé'] - arab|[ns'<->]`
+    
+    tun|[majalla] - arab|[mjl<~><tt>]
+        [ipa|[ma.'jal.la]]
+
+        1. *n.f.* - magazine
+
+        *plur.* - :term:`tun|[majalléét] - arab|[mjl<~>'t]`
+
+    tun|[majalléét] - arab|[mjl<~>'t]
+        [ipa|[ma.jal.'lé:t]]
+
+        1. *n.plur.* - magazine
+
+        *sing. fem.* - :term:`tun|[majalla] - arab|[mjl<~><tt>]`
+    

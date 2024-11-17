@@ -93,19 +93,20 @@ l'omettre et risquer la confusion.
           - Tu lis un magazine / Elle lit un magazine
           - (Tu) lis / (Elle) lit un magazine
 
-.. \section*{Vocabulaire}
+Vocabulaire
+-----------
 
-.. \begin{center}
-..     \begin{tabular}{||c | c | c||}
-..         \hline
-..         \textbf{Vocabulaire} & \textbf{Traduction} & \textbf{Origine} \\\hline\hline
-..         mra (fem.) / nsé' (plu.) & femme & (\textsc{ar}) \RL{امراة / نساء} \\\hline
-..         yéékel (verbe) & manger & (\textsc{ar}) \RL{أكل} \\\hline
-..         xobz (masc.) & pain & (\textsc{ar}) \RL{خبز} \\\hline
-..         qa\c{t}\c{t}uus (masc.) / q\c{t}aates (plu.) & chat & (\textsc{ar}) \RL{قطّ} \\\hline
-..         y\textcrh ebb (verbe) & aimer/vouloir & (\textsc{ar}) \RL{حبّ} \\\hline
-..         \textcrh uut (masc.) & poisson & (\textsc{ar}) \RL{حوت} (baleine) \\\hline
-..         yaqraa (verbe) & lire / étudier & (\textsc{ar}) \RL{قرأ} \\\hline
-..         ktééb (masc.) & livre & (\textsc{ar}) \RL{كتاب} \\\hline
-..     \end{tabular}
-.. \end{center}
+.. hlist::
+    :columns: 3
+
+    * :term:`tun|[mraa] - arab|[mr']`
+    * :term:`tun|[xobz] - arab|[xbz]`
+    * :term:`tun|[qa<ct><ct>uus] - arab|[q<ct><~>ws]`
+    * :term:`tun|[<hb>uut] - arab|[<hb>wt]`
+    * :term:`tun|[ktééb] - arab|[kt'b]`
+    * :term:`tun|[kuura] - arab|[kwr<tt>]`
+    * :term:`tun|[majalla] - arab|[mjl<~><tt>]`
+    * :term:`tun|[klèè] - arab|[kl']`
+    * :term:`tun|[<hb>abb] - arab|[<hb>b<~>]`
+    * :term:`tun|[qraa] - arab|[qr']`
+    * :term:`tun|[<vs>rab] - arab|[<vs>rb]`

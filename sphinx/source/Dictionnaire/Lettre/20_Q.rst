@@ -3,6 +3,15 @@ tun|[Q] - arab|[q]
 
 .. glossary::
     
+    tun|[qraa] - arab|[qr']
+        [ipa|['qra:]]
+        
+        1. *verbe* - lire
+        
+        2. *verbe* - étudier
+
+        *Conjugaison* - :ref:`conj_QR`
+    
     tun|[q<cs>aar] - arab|[q<cs>'r]
         [ipa|['qsa:r]]
 
@@ -29,3 +38,32 @@ tun|[Q] - arab|[q]
         *masc.* - :term:`tun|[q<cs>iir] - arab|[q<cs>yr]`
         
         *plur.* - :term:`tun|[q<cs>aar] - arab|[q<cs>'r]`
+
+    tun|[q<ct>aa<ct>es] - arab|[q<ct>'<ct>s]
+        [ipa|['q<ct>a:.tes]]
+        
+        1. *n.plur.* - chats
+
+        *sing. masc.* - :term:`tun|[qa<ct><ct>uus] - arab|[q<ct><~>ws]`
+
+        *sing. fem.* - :term:`tun|[qa<ct><ct>uusa] - arab|[q<ct><~>ws<tt>]`
+
+    tun|[qa<ct><ct>uus] - arab|[q<ct><~>ws]
+        [ipa|['qat.tu:s]]
+        
+        1. *n.m.* - chat
+
+        *fem.* - :term:`tun|[qa<ct><ct>uusa] - arab|[q<ct><~>ws<tt>]`
+
+        *plur.* - :term:`tun|[q<ct>aa<ct>es] - arab|[q<ct>'<ct>s]`
+    
+    
+    tun|[qa<ct><ct>uusa] - arab|[q<ct><~>ws<tt>]
+        [ipa|[qat.'tu:.sa]]
+        
+        1. *n.f.* - chatte
+
+        *masc.* - :term:`tun|[qa<ct><ct>uus] - arab|[q<ct><~>ws]`
+
+        *plur.* - :term:`tun|[q<ct>aa<ct>es] - arab|[q<ct>'<ct>s]`
+    

@@ -77,3 +77,12 @@ tun|['] - arab|[<A>]
         1. *n.m.* - ordinateur
 
         *plur.* - :term:`tun|[ordinateraat] - arab|[<A>rdntr't]`
+        
+    tun|[oktbaa] - arab|[<A>ktb']
+        [ipa|['ok.tba:]]
+        
+        1. *n.plur.* - livres
+
+        *Alternativement.* - :term:`tun|[ktobbéét] - arab|[ktb<~>'t]`
+        
+        *sing. masc.* - :term:`tun|[ktééb] - arab|[kt'b]`

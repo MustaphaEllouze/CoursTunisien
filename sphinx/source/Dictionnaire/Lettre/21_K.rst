@@ -2,6 +2,24 @@ tun|[K] - arab|[k]
 =========================
 
 .. glossary::
+    
+    tun|[ktééb] - arab|[kt'b]
+        [ipa|['kté:b]]
+        
+        1. *n.m.* - livre
+
+        *plur.* - :term:`tun|[ktobbéét] - arab|[ktb<~>'t]`
+
+        *plur.* - :term:`tun|[oktbaa] - arab|[<A>ktb']`
+    
+    tun|[ktobbéét] - arab|[ktb<~>'t]
+        [ipa|[ktob.bé:t]]
+        
+        1. *n.plur.* - livres
+
+        *Alternativement* - :term:`tun|[oktbaa] - arab|[<A>ktb']`
+
+        *sing. masc.* - :term:`tun|[ktééb] - arab|[kt'b]`
 
     tun|[k<hb>ol] - arab|[k<hb>l]
         [ipa|['k<hb>ol]]
@@ -20,6 +38,20 @@ tun|[K] - arab|[k]
         1. *n.plur.* - voitures
 
         *sing.* - :term:`tun|[karehba] - arab|[krhb<tt>]`
+        
+    tun|[klèè] - arab|[kl']
+        [ipa|['klè:]]
+        
+        1. *verbe* - manger
+
+        *Conjugaison* - :ref:`conj_KL`
+    
+    tun|[kwer] - arab|[kwir]
+        [ipa|['ku:.ra]]
+
+        1. *n.plur.* - balles
+
+        *plur.* - :term:`tun|[kuura] - arab|[kwr<tt>]`
     
     tun|[ka<hb>laa] - arab|[k<hb>l'<->]
         [ipa|['ka<hb>.la:]]
@@ -41,3 +73,12 @@ tun|[K] - arab|[k]
         [ipa|['kos.ksi:]]
 
         1. *n.m. indénombrable* - couscous
+        
+    tun|[kuura] - arab|[kwr<tt>]
+        [ipa|['ku:.ra]]
+
+        1. *n.f.* - balle
+
+        2. *n.f.* - Football
+
+        *plur.* - :term:`tun|[kwer] - arab|[kwir]`

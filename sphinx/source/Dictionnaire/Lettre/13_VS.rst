@@ -2,3 +2,10 @@ tun|[<VS>] - arab|[<vs>]
 =========================
 
 .. glossary::
+
+    tun|[<vs>rab] - arab|[<vs>rb]
+        [ipa|['<vs>rab]]
+        
+        1. *verbe* - boire
+
+        *Conjugaison* - :ref:`conj_vSRB`
