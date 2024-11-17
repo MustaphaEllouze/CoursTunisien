@@ -3,7 +3,7 @@ tun|[<CT>] - arab|[<ct>]
 
 .. glossary::
     
-    tun|[<ct>wèèwel] - arab|[<ct>w'wl]
+    tun|[<ct>wééwel] - arab|[<ct>w'wl]
         [ipa|['<ct>wè:.wel]]
 
         1. *n.plur.* - tables
@@ -53,5 +53,5 @@ tun|[<CT>] - arab|[<ct>]
 
         1. *n.f.* - table
 
-        *plur.* - :term:`tun|[<ct>wèèwel] - arab|[<ct>w'wl]`
+        *plur.* - :term:`tun|[<ct>wééwel] - arab|[<ct>w'wl]`
     

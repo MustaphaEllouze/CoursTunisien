@@ -3,7 +3,7 @@ tun|[R] - arab|[r]
 
 .. glossary::
     
-    tun|[rjèèl] - arab|[rj'l]
+    tun|[rjéél] - arab|[rj'l]
         [ipa|['rjè:l]]
 
         1. *n.plur.* - hommes
@@ -15,6 +15,6 @@ tun|[R] - arab|[r]
 
         1. *n.m.* - homme
         
-        *plur.* - :term:`tun|[rjèèl] - arab|[rj'l]`
+        *plur.* - :term:`tun|[rjéél] - arab|[rj'l]`
     
     
