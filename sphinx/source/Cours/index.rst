@@ -15,3 +15,4 @@ et va de pair avec :
 
    01_PhrasesNominales
    02_PhrasesVerbales
+   03_VerbesSainsSimples

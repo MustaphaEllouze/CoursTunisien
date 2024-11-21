@@ -14,3 +14,4 @@ afin de ne pas perturber la lecture du cours.
 
    01_PhrasesNominales
    02_PhrasesVerbales
+   03_VerbesSainsSimples
