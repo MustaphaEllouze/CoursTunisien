@@ -63,7 +63,7 @@ changer le sens de la racine.
 La notion de verbe **sain et simple** s'appuie sur la définition des *racines*
 et des *schèmes* :
 
-* Un verbe est **simple** si toutes les consonnes qui le composent sont les consonnes de sa racine ;
+* Un verbe est **simple** si toutes les consonnes qui le composent sont les consonnes de sa racine, et s'il possède exactement trois voyelles [#]_;
 * Un verbe est **sain** si aucune de ses consonnes n'est remplacée par une voyelle longue et n'est ni un arab|[w] ni un arab|[y]
 
 Les verbes en **arabe standard** sont ensuite rangés en groupes de verbes en 
@@ -99,3 +99,12 @@ Ce dernier point est particulièrement vrai, dans la mesure où il est possible
 de remplacer certaines voyelles par d'autres, voire même d'en omettre certaines
 et de fusionner certaines syllabes, et ce même chez des locuteurs qui ont 
 *a priori* le même accent.
+
+Les schèmes et les groupes de verbes
+------------------------------------
+
+
+
+.. rubric:: Notes de bas de page
+
+.. [#] Typiquement, un verbe simple ressemble à tun|[/fa<ca>ala/] - arab|[fa<ca>ala]

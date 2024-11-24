@@ -11,36 +11,63 @@ réguliers, et qui forment une partie importante des verbes utilisés au quotidi
 
     :ref:`histoire_verbes_sains_simples`  
 
-.. \section{Qu'est-ce qu'un verbe sain simple ?}
-.. On appelle verbe sain simple un verbe qui est à la fois : 
-.. \begin{itemize}
-..     \item \textbf{Simple :} Comme évoqué plus haut, il s'agit de l'ensemble des verbes dont toutes les consonnes sont exactement celles de sa racine. À quelques exceptions près, vous pouvez admettre que un verbe est sain s'il comportement exactement trois consonnes.
-..     \item \textbf{Sain :} Il s'agit d'un verbe dont toutes les consonnes de sa racine sont saines.
-.. \end{itemize}
+Qu'est-ce qu'un verbe sain simple ?
+-----------------------------------
 
-.. Attardons-nous quelques instants sur la dénomination \textbf{consonne saine}. En arabe standard, et en tunisien, on fait la distinction, au niveau de la conjugaison, entre les lettres saines et les lettres défectueuses. Ces dernières forment l'ensemble des lettres dont la présence dans une racine change la façon de conjuguer le verbe. 
+Le tunisien, comme l'arabe standard, construit sa collection de verbes
+autour de **racines** et de **schèmes**. 
 
-.. On compte au total quatre marques de la défectuosité d'une racine : \textbf{/w/}, \textbf{/y/} et \textbf{les voyelles longues}. 
+* Les **racines** sont des suites de consonnes (*généralement* trois) qui portent une série de sens, et dont lesquelles dérivent nombre de verbes et noms ;
+* Les **schèmes** sont des structures de consonnes et des voyelles dans lesquels s'insèrent les racines pour former les mots de la langue.
 
-.. Si vous avez l'\oe il, vous remarquerez : 
+On appelle verbe **sain simple** un verbe qui est à la fois : 
 
-.. \begin{itemize}
-..     \item Pour \textbf{/w/} et \textbf{/y/}, il s'agit tout simpelement des deux \textbf{semi-voyelles} du tunisien.
-..     \item Pour les \textbf{voyelles longues}, elles marquent essentiellement l'absence d'une des trois consonnes de la base\footnote{En linguistique arabe, on dit que la racine est justement défectueuse car il lui manque une consonne.}.
-.. \end{itemize}
+* **Simple** : il s'agit d'un verbe dont toutes les consonnes sont exactement celles de sa racine, et dont la troisième lettre est une voyelle.
+* **Sain** : il s'agit d'un verbe dont toutes les consonnes de sa **racine** sont **saines**.
 
-.. En somme, pour repérer un verbe sain simple, faites rapidement les vérifications suivantes :
-.. \begin{itemize}
-..     \item 4 lettres, dont \textbf{3 consonnes}
-..     \item Pas de \textbf{/w/},  ni de \textbf{/y/}
-..     \item \textbf{Pas de voyelle longue}
+La dénomination de **consonne saine** provient directement de l'arabe. Le tunisien
+ainsi que sa langue-mère font la distinction pour leurs conjugaisons entre les 
+consonnes **saines** et les consonnes **défectueuses**. Ces dernières forment 
+l'ensemble des consonnes dont la seule présence dans une racine change radicalement
+la façon de conjuguer un verbe.
 
-.. \end{itemize}
+Dans les deux langues, on compte trois marques de défectuosité d'une racine :
 
-.. Quelques exemples de verbes sains simples : \textbf{xraj}, \textbf{mro\c{\dh}}, \textbf{mlek}, \textbf{f\v{s}el}, \textbf{l\c{a}ab}, \textbf{\textcrh fa\c{\dh}}, \textbf{s'el}.
+* **w** / arab|[w] ;
+* **y** / arab|[y] ;
+* La présence **voyelle longue** ;
+
+ce qui correspond respectivement aux deux *semi-consonnes* du tunisien , et 
+à *l'absence* d'une des trois consonnes de la racine [#]_.
+
+En somme, pour repérer qu'un verbe est **sain** et **simple**, il est possible 
+d'effectuer les vérifications suivantes :
+
+* Il est constitué de **4 lettres** : 3 consonnes, 1 voyelle ;
+* Pas de **w** / arab|[w], ni de **y** / arab|[y] ;
+* Pas de **voyelle longue**.
+
+Quelques exemples de verbes sains simples sont les suivants :
+
+.. hlist::
+    :columns: 2
+
+    * tun|[l<ca>ab] - arab|[l<ca>ab]
+    * tun|[xraj] - arab|[xraj]
+    * tun|[mlek] - arab|[mlek]
+    * tun|[mro<cdh>] - arab|[mro<cdh>]
+    * tun|[f<vs>el] - arab|[f<vs>el]
+    * tun|[<hb>fa<cdh>] - arab|[<hb>fa<cdh2>]
+    * tun|[s'el] - arab|[s<I>el]
+
+Les groupes et leurs conjugaisons
+---------------------------------
+
+.. rubric:: Notes de bas de page
+
+.. [#] En linguistique arabe, on dit que la racine est défectueuse justement car il lui manque une consonne.
 
 
-.. \section{Les groupes et leur conjugaison}\label{GroupesVerbesSimples}
 .. Ceci étant dit, il convient de séparer les verbes sains simples en plusieurs groupes, en fonction de la conjugaison qui leur convient. En réalité, la conjugaison de ces trois groupes reste très similaire, et on pourrait imaginer une analyse du tunisien qui ne fasse pas la distinction. Pour un apprentissage plus facile, je vous propose donc de faire cette distinction.
 
 .. La distinction est en réalité déjà faite en arabe standard. Elle n'est pas forcément enseignée en cours, mais vous verrez naturellement les arabophones conjuguer les verbes selon ces groupes-là.
